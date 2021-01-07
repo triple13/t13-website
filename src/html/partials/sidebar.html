@@ -1,0 +1,106 @@
+<amp-sidebar
+        id="header-sidebar"
+        class="md-hide lg-hide"
+        layout="nodisplay"
+        side="left"
+>
+    <div class="flex justify-end items-center">
+        <div
+                role="button"
+                aria-label="close sidebar"
+                on="tap:header-sidebar.toggle"
+                tabindex="0"
+                class="x-button"
+        >
+            ✕
+        </div>
+    </div>
+    <nav>
+        <div>
+            <a href="index.html" class="text-decoration-none block">
+                <amp-img
+                        src="./img/Logo.svg"
+                        width="130"
+                        height="65"
+                        alt="Company logo"
+                        class="sidebar-image"
+                        noloading=""
+                >
+                    <div placeholder="" class="commerce-loader"></div>
+                </amp-img>
+            </a>
+            <div>
+                <amp-accordion disable-session-states>
+                    <section>
+                        <h2 class="sidebar-accordion-header">
+                            Services
+                            <svg width="10" height="5" viewBox="-2.5 -5 75 60" preserveAspectRatio="none">
+                                <path d="M0,0 l35,50 l35,-50" fill="none" stroke="black" stroke-linecap="round"
+                                      stroke-width="5"/>
+                            </svg>
+                        </h2>
+                        <ul class="list-reset">
+                            <li>
+                                <a on="tap:amp-monetization,header-sidebar.toggle" class="list-anchor">AMP Monetization</a>
+                            </li>
+                            <li>
+                                <a on="tap:technology,header-sidebar.toggle" class="list-anchor">Technology</a>
+                            </li>
+                            <li>
+                                <a on="tap:software-engineering,header-sidebar.toggle" class="list-anchor">Software Engineering</a>
+                            </li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2 class="sidebar-accordion-header">
+                            Resources
+                            <div class="inline-block">
+                                <svg width="10" height="5" viewBox="-2.5 -5 75 60" preserveAspectRatio="none">
+                                    <path d="M0,0 l35,50 l35,-50" fill="none" stroke="black" stroke-linecap="round"
+                                          stroke-width="5"/>
+                                </svg>
+                            </div>
+                        </h2>
+                        <ul class="list-reset">
+                            <li>
+                                <a href="https://slite.com/" class="list-anchor">Wiki</a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/triple13" class="list-anchor">Github</a>
+                            </li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2 class="sidebar-accordion-header">
+                            About
+                            <div class="inline-block">
+                                <svg width="10" height="5" viewBox="-2.5 -5 75 60" preserveAspectRatio="none">
+                                    <path d="M0,0 l35,50 l35,-50" fill="none" stroke="black" stroke-linecap="round"
+                                          stroke-width="5"/>
+                                </svg>
+                            </div>
+                        </h2>
+                        <ul class="list-reset">
+                            <li>
+                                <a href="faq.html" class="list-anchor">FAQ</a>
+                            </li>
+                            <li>
+                                <a href="careers.html" class="list-anchor">Careers</a>
+                            </li>
+                            <li>
+                                <a href="charaties.html" class="list-anchor">Charities</a>
+                            </li>
+                        </ul>
+                    </section>
+                </amp-accordion>
+                <div class="flex justify-center" style="padding-right: 1rem">
+                        <a on="tap:contact,header-sidebar.toggle" class="contact ampstart-nav-link">Contact</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div style="padding-right: 1rem">
+        <h3 class="h7 block follow-us">Follow Us</h3>
+        %%include('../partials/social.html')
+    </div>
+</amp-sidebar>

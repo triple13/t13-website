@@ -1,0 +1,35 @@
+<amp-lightbox id="software-engineering" layout="nodisplay" scrollable class="lightbox">
+    <section class="sm-mt4 md-mt3 max-width-4 mx-auto">
+        <div class="close-outer">
+            <div on="tap:software-engineering.close" class="close-inner">
+                <label class="close-label">Back</label>
+            </div>
+        </div>
+        <div class="md-flex justify-around items-center">
+            <div class="md-col-8 sm-mx-auto flip">
+                <amp-img
+                        src="./img/mobile-chat.svg"
+                        height="500"
+                        width="700"
+                        layout="responsive"
+                        alt="mobile chat"
+                        noloading=""
+                >
+                    <div placeholder="" class="commerce-loader"></div>
+                </amp-img>
+            </div>
+            <div class="sm-mx-auto sm-col-7 md-col-4 md-my4 px3">
+                <h1 class="line-height-4 heads dark-gray">Software Engineering</h1>
+
+                <h3 class="line-height-4 heads dark-gray">What we can build</h3>
+                <p class="line-height-3 desc light-gray">We specialise in all things advertising technology (Ad-tech)
+                    related. Whether you are looking for a technology partner for header bidding, building bespoke
+                    reporting tools, a proof of concept or building a full application like an SSP, DSP or DMP we have
+                    the skills you need.</p>
+
+                <button class="mt3 buttons" on="tap:amp-monetization.close, contact.open">Contact Us</button>
+            </div>
+        </div>
+    </section>
+    %%include('../partials/footer.html')
+</amp-lightbox>
