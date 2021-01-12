@@ -1473,3 +1473,21 @@ amp-sidebar .follow-us {
         order: 0;
     }
 }
+
+/* partners */
+
+@media (min-width: 0em) {
+    .partners-img {
+        margin: 0.1rem;
+        width: 100px;
+        height: 50px;
+    }
+}
+
+@media (min-width: 64em) {
+    .partners-img {
+        margin: 0;
+        width: 200px;
+        height: 100px;
+    }
+}
