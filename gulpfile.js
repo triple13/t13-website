@@ -16,6 +16,7 @@ const through2 = require('through2');
 const mergeMediaQuery = require('gulp-merge-media-queries');
 const AmpOptimizer = require('@ampproject/toolbox-optimizer');
 const log = require('fancy-log')
+const tap = require('gulp-tap')
 
 const ampOptimizer = AmpOptimizer.create();
 
@@ -105,6 +106,23 @@ gulp.task('html', gulp.series('styles', function buildHtml() {
                 file.contents = Buffer.from(optimizedHtml)
             }
             cb(null, file);
+        }))
+        .pipe(tap(function(file) {
+        
+            const regex = /[^/]+$/
+            let href = 'index.html'
+            if (regex.test(file.path) && file.path.match(regex) && file.path.match(regex).length) {
+                href = file.path.match(regex)[0]
+            }
+            // get current contents
+            let contents = file.contents.toString();
+        
+            // do your conditional processing
+            // eg deal with each tag in a loop & only change those without the attribute
+            contents = contents.replace(/href="Canonical"/, `href="https://www.triple13.io/${href}"`);
+        
+            // set new contents to flow through the gulp stream
+            file.contents = Buffer.from(contents)
         }))
         .pipe(gulp.dest(paths.html.dest));
 }));

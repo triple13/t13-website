@@ -37,6 +37,7 @@
     "gulp": "^4.0.2",
     "gulp-merge-media-queries": "^0.2.1",
     "gulp-noop": "^1.0.0",
-    "gulp-replace": "^1.0.0"
+    "gulp-replace": "^1.0.0",
+    "gulp-tap": "^2.0.0"
   }
 }
