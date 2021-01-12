@@ -154,7 +154,7 @@ gulp.task('clean', function clean() {
 gulp.task('build', gulp.series('images',
     // 'favicon',
     'html',
-    // 'validate'
+    'validate'
 ));
 
 /**
