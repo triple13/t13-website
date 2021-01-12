@@ -1313,13 +1313,27 @@
 .close-outer {
     position: relative;
     margin: auto;
-    width: 70px;
     cursor: pointer;
+    width: 70px;
 }
 
 .close-inner {
-    width: inherit;
     text-align: center;
+    width: inherit;
+}
+
+@media (min-width: 0em) {
+    .close-outer {
+        width: 30px;
+    }
+
+}
+
+@media (min-width: 64em) {
+    .close-outer {
+        width: 70px;
+    }
+
 }
 
 .close-label {
@@ -1438,4 +1452,24 @@ amp-sidebar .contact {
 
 amp-sidebar .follow-us {
     font-family: 'Noto Sans', sans-serif;
+}
+
+/* light box*/
+
+@media (min-width: 0em) {
+    .lightbox-img {
+        -webkit-box-ordinal-group: -1000000;
+        -webkit-order: -999999;
+        -ms-flex-order: -999999;
+        order: -999999;
+    }
+}
+
+@media (min-width: 64em) {
+    .lightbox-img {
+        -webkit-box-ordinal-group: 0;
+        -webkit-order: 0;
+        -ms-flex-order: 0;
+        order: 0;
+    }
 }
