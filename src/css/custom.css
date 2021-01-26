@@ -1491,3 +1491,15 @@ amp-sidebar .follow-us {
         height: 100px;
     }
 }
+
+.tbg {
+    height: 150px;
+    width: 100%;
+}
+
+.timg {
+    background: #2c548e;
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+}
