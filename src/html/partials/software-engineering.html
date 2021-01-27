@@ -1,13 +1,15 @@
 <amp-lightbox id="software-engineering" layout="nodisplay" scrollable class="lightbox">
     <section class="flex justify-center col-12">
         <div class="m2 max-width-4">
-            <div class="close-outer">
-                <div tabindex="0" role="button" on="tap:software-engineering.close" class="close-inner">
-                    <label class="close-label">Back</label>
+            <div class="flex justify-end">
+                <div class="close-outer">
+                    <div tabindex="0" role='button' on="tap:software-engineering.close" class="close-inner">
+                        <label class="close-label">Back</label>
+                    </div>
                 </div>
             </div>
-            <div class="flex flex-wrap">
-                <div class="lg-col-6 sm-col-12 lg-m1">
+            <div class="flex flex-wrap justify-center">
+                <div class="lg-col-6 sm-col-12">
                     <h1 class="line-height-4 heads dark-gray lg-h2 sm-h3">
                         Software Engineering
                     </h1>
@@ -22,7 +24,7 @@
                     <button class="mt3 buttons" on="tap:software-engineering.close, contact.open">Contact Us</button>
 
                 </div>
-                <div class="lg-col-5 sm-col-12 lg-m1 lightbox-img self-center">
+                <div class="lg-col-6 sm-col-12 lightbox-img self-center">
                     <amp-img
                             src="./img/page/software_engineering.svg"
                             height="500"

@@ -1300,13 +1300,15 @@
 }
 
 .close-outer {
+    outline: none;
     position: relative;
-    margin: auto;
+    /*margin: auto;*/
     cursor: pointer;
     width: 70px;
 }
 
 .close-inner {
+    outline: none;
     text-align: center;
     width: inherit;
 }
