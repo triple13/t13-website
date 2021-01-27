@@ -1530,3 +1530,21 @@ amp-sidebar .follow-us {
 }
 
 
+/* sidebar*/
+
+div.dropdown-content ul {
+    display:none;
+    position: absolute; left: 100%; top:0;}
+
+div.dropdown-content :hover ul{
+    -webkit-box-shadow: 0px 4px 50px -20px rgba(0,0,0,0.35);
+    box-shadow: 0px 4px 50px -20px rgba(0,0,0,0.35);
+    background: white;
+    z-index: 3;
+    /*border-radius: 15px;*/
+    width: 200px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
