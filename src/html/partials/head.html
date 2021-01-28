@@ -24,7 +24,11 @@
     }
 
     %%if (context.pageType == 'charities') {
-    %%include('../../css/charities.css')
+        %%include('../../css/charities.css')
+    }
+
+    %%if (context.pageType == 'referral') {
+        %%include('../../css/referral.css')
     }
 </style>
 <style amp-boilerplate="">
