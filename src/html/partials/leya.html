@@ -1,6 +1,6 @@
 <amp-lightbox id="leya" layout="nodisplay" scrollable class="lightbox">
-    <section class="flex justify-center col-12">
-        <div class="m2 max-width-4">
+    <main class="flex flex-column col-12 items-center">
+        <section class="lg-m2 max-width-4 col-12">
             <div class="flex justify-end">
                 <div class="close-outer">
                     <div tabindex="0" role='button' on="tap:leya.close" class="close-inner">
@@ -8,25 +8,34 @@
                     </div>
                 </div>
             </div>
+        </section>
+        <section class="m2 max-width-4">
             <div class="flex flex-wrap justify-center">
                 <div class="lg-col-6 sm-col-12">
                     <h1 class="line-height-4 heads dark-gray lg-h2 sm-h3">
                         Leya
                     </h1>
-                    <h3 class="line-height-4 heads dark-gray">What we can build</h3>
                     <p class="line-height-3 desc light-gray">
-                        We specialise in all things advertising technology (Ad-tech)
-                        related. Whether you are looking for a technology partner for header bidding, building bespoke
-                        reporting tools, a proof of concept or building a full application like an SSP, DSP or DMP we have
-                        the skills you need.
+                        Speed is the new currency. This is why we work with Prebid, an open source solution, providing
+                        speed and scale to any demand partner that wants to work with us. It’s a server-to-server
+                        solution that works seamlessly with other demand sources.
                     </p>
 
-                    <button class="mt3 buttons" on="tap:leya.close, contact.open">Contact Us</button>
+                    <p class="line-height-3 desc light-gray">
+                        We do the heavy lifting, so you get fast, seamless auctions at scale. In summary, we provide
+                        super fast end-to-end header bidding software capable of handling diverse bid types and levels
+                        of latency between bidder servers and the auctioneer server for large numbers of bids.
+                    </p>
 
+                    <p class="line-height-3 desc light-gray">
+                        We are fully TCF 2.0 compliant and hosted with GCP this allows us guarantee 99.99% uptime. We
+                        can handle all multi-format ads, whether its display (Web or AMP) or Native ads including Apps
+                        and Video.
+                    </p>
                 </div>
                 <div class="lg-col-6 sm-col-12 lightbox-img self-center">
                     <amp-img
-                            src="./img/page/software_engineering.svg"
+                            src="./img/page/amp_monetisation.svg"
                             height="500"
                             width="700"
                             layout="responsive"
@@ -36,11 +45,9 @@
                         <div placeholder="" class="commerce-loader"></div>
                     </amp-img>
                 </div>
-
             </div>
-        </div>
-        </div>
-    </section>
+        </section>
+    </main>
     %%include('./footer.html')
 </amp-lightbox>
 
