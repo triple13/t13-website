@@ -1,0 +1,65 @@
+@import 'mixins';
+@import 'variables';
+
+.faq-header {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.faq-item-container {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.faq-item-question {
+  display: flex;
+  border-left: 5px solid $t13-color;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.faq-item-question-q {
+  margin-right: 1rem;
+  font-size: 20px;
+  color: $t13-color;
+
+  @include desktop {
+    font-size: 50px;
+  }
+}
+
+.faq-item-question-a {
+  margin-right: 1rem;
+  font-size: 20px;
+  color: $t13-grey;
+
+  @include desktop {
+    font-size: 50px;
+  }
+}
+
+.faq-item-answer {
+  padding-left: 1rem;
+  display: flex;
+  border-left: 5px solid $t13-grey;
+}
+
+.faq-horizontal-line {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 90%;
+  height: 2px;
+  text-align: center;
+  color: $t13-grey;
+  background-color: $t13-grey;
+  opacity: 0.3;
+}
+
+div.faq-item-container > div > div > p {
+  margin: 0;
+
+  @include desktop {
+    margin: 1rem 0;
+  }
+}

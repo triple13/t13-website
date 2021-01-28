@@ -12,6 +12,11 @@
     %%include('../../css/basecss.css')
     %%include('../../css/custom.css')
     %%include('../../css/normalize.css')
+    %%include('../../css/global.css')
+
+    %%if (context.pageType == 'faq') {
+        %%include('../../css/faq.css')
+    }
 </style>
 <style amp-boilerplate="">
     body {
