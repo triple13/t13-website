@@ -42,6 +42,10 @@ const paths = {
         src: 'src/img/**/*.{gif,jpg,png,svg,jpeg}',
         dest: 'dist/img'
     },
+    assets: {
+        src: 'src/assets/*',
+        dest: 'dist/'
+    },
     // favicon: {
     //     src: 'src/favicon/*',
     //     dest: 'dist/'
@@ -83,6 +87,14 @@ gulp.task('images', function buildImages() {
 //     return gulp.src(paths.favicon.src)
 //         .pipe(gulp.dest(paths.favicon.dest));
 // });
+
+/**
+ * Copies the root config files to the distribution.
+ */
+gulp.task('assets', function buildImages() {
+    return gulp.src(paths.assets.src)
+        .pipe(gulp.dest(paths.assets.dest));
+});
 
 /**
  * Builds the HTML files. Only files from 'pages' are built.
@@ -153,6 +165,7 @@ gulp.task('clean', function clean() {
  */
 gulp.task('build', gulp.series('images',
     // 'favicon',
+    'assets',
     'html',
     'validate'
 ));
@@ -181,6 +194,7 @@ gulp.task('browserSync', function sync (done) {
  */
 gulp.task('watch', function watch(done) {
     gulp.watch(paths.images.src, gulp.series('images'));
+    gulp.watch(paths.assets.src, gulp.series('assets'));
     gulp.watch('src/html/**/*.html', gulp.series('rebuild'));
     gulp.watch(paths.css.src, gulp.series('rebuild'));
     done();
