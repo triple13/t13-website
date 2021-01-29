@@ -24,22 +24,25 @@
   }
 }
 
-//.stats > div > amp-script > h1 {
-//
-//  @include sm {
-//    margin: 0;
-//  }
-//}
+.stats > div > amp-script {
+  height: 50px;
+
+  @include desktop {
+    height: 80px;
+  }
+}
 
 .stats > div:not(:last-child) {
   border-bottom: 1px solid white;
   border-right: none;
-  margin: 1rem;
+  margin: 0 0 1rem 0;
+  padding: 0 0 1rem 0;
 
   @include desktop {
     border-bottom: none;
     border-right: 1px solid white;
     margin: 0;
+    padding: 0;
   }
 }
 
