@@ -1,5 +1,5 @@
 <amp-sidebar
-        id="header-sidebar-nested"
+        id="header-sidebar"
         class="md-hide lg-hide"
         layout="nodisplay"
         side="left"
@@ -12,7 +12,7 @@
                         <div
                             role="button"
                             aria-label="close sidebar"
-                            on="tap:header-sidebar-nested.toggle"
+                            on="tap:header-sidebar.toggle"
                             tabindex="0"
                             class="sidebar-button"
                         >
@@ -23,7 +23,7 @@
                         {{#items}}
                         <li>
                             {{#anchor}}
-                            <h3 on="tap:{{anchor}},header-sidebar-nested.toggle"
+                            <h3 on="tap:{{anchor}},header-sidebar.toggle"
                                 role="button"
                                 tabindex="0"
                             >
@@ -65,7 +65,7 @@
                                     <div
                                         role="button"
                                         aria-label="close sidebar"
-                                        on="tap:header-sidebar-nested.toggle"
+                                        on="tap:header-sidebar.toggle"
                                         tabindex="0"
                                         class="sidebar-button"
                                     >
@@ -78,7 +78,7 @@
                                     {{#nestedItems}}
                                     <li>
                                         {{#nestedAnchor}}
-                                        <h3 on="tap:{{nestedAnchor}},header-sidebar-nested.toggle"
+                                        <h3 on="tap:{{nestedAnchor}},header-sidebar.toggle"
                                             role="button"
                                             tabindex="0"
                                         >
@@ -128,7 +128,7 @@
                                                 <div
                                                         role="button"
                                                         aria-label="close sidebar"
-                                                        on="tap:header-sidebar-nested.toggle"
+                                                        on="tap:header-sidebar.toggle"
                                                         tabindex="0"
                                                         class="sidebar-button"
                                                 >
@@ -139,7 +139,7 @@
                                             <ul>
                                                 {{#doubleNested}}
                                                 <li>
-                                                    <h3 on="tap:{{doubleNestedAnchor}},header-sidebar-nested.toggle"
+                                                    <h3 on="tap:{{doubleNestedAnchor}},header-sidebar.toggle"
                                                         role="button"
                                                         tabindex="0"
                                                     >
