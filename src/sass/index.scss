@@ -36,17 +36,6 @@
   }
 }
 
-.partnerships {
-  flex-direction: column;
-  height: 600px;
-
-  @include desktop {
-    flex-direction: row;
-    justify-content: space-evenly;
-    height: 300px
-  }
-}
-
 .affiliations {
   flex-direction: column;
   align-items: center;
@@ -57,12 +46,43 @@
   }
 }
 
-
 .affiliations-image {
   width: 100px;
   height: 100px;
 
   @include desktop {
     width: 150px;
+  }
+}
+
+.demand {
+  flex-direction: column;
+  height: 600px;
+
+  @include desktop {
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 300px
+  }
+}
+
+.demand-image {
+  width: 100%;
+  height: 100%;
+
+  @include desktop {
+    margin: 1rem;
+  }
+}
+
+.demand-image-container {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+
+  @include desktop {
+    width: 25%;
   }
 }
