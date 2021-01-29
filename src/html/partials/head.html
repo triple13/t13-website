@@ -9,12 +9,14 @@
 <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
 <script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
 
+
 <style amp-custom>
     %%include('../../css/basecss.css')
     %%include('../../css/custom.css')
     %%include('../../css/normalize.css')
     %%include('../../css/global.css')
     %%include('../../css/sidebar.css')
+
     %%if (context.pageType == 'faq') {
         %%include('../../css/faq.css')
     }
@@ -34,6 +36,7 @@
     %%if (context.pageType == 'index') {
         %%include('../../css/index.css')
     }
+
 </style>
 <style amp-boilerplate="">
     body {

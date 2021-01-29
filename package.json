@@ -10,9 +10,9 @@
     "start": "node dist/server/server.js"
   },
   "dependencies": {
-    "@ampproject/toolbox-cors": "1.1.1",
-    "@ampproject/toolbox-optimizer": "2.0.0-alpha.3",
-    "amphtml-validator": "^1.0.29",
+    "@ampproject/toolbox-cors": "^2.7.4",
+    "@ampproject/toolbox-optimizer": "^2.7.5",
+    "amphtml-validator": "^1.0.34",
     "browser-sync": "^2.26.7",
     "del": "^3.0.0",
     "express": "^4.17.1",

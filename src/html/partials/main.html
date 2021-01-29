@@ -19,14 +19,14 @@
                     AMP Monetisation & advertising technology specialists
                 </h1>
                 <h3 class="line-height-4 heads dark-gray">
-                    Need a boost from your AMP Revenues or need to implement a cutting edge upgrade to your ad-stack?
+                    Are you AMP revenues lack luster or does your ad-stack need a killer upgrade?
                 </h3>
                 <p class="line-height-3 desc light-gray">
-                    AMP is great at delivering rich content faster, but it can be challenging to make money from it. If
-                    you want to monetise your traffic with AMP Monetisation, we make it simple and easy to do so. AMP
-                    Ads also works incredibly well on mobile, where publishers make most of their money today. With less
-                    friction and fewer clicks, there’s less reason for users to bounce on their content - leaving them
-                    happier and you making more money.
+                    We are a technology company focused on accelerating publishers’ digital advertising revenue. Our AMP
+                    Monetisation specialists create effective ways for publishers to monetise their inventory,
+                    delivering great yield from each ad impression.
+                    With a full stack of tools and insights, we empower publishers of all sizes to create dramatic
+                    revenue growth across their AMP inventory.
 
                 </p>
                 <button class="mt3 buttons" on="tap:amp-monetisation">Learn More</button>
@@ -35,7 +35,7 @@
     </section>
     <section class="landing-page-section-color flex items-center justify-center">
         <div class="max-width-4 flex flex-column justify-center items-center">
-            <h2 class="heads h1">About Triple 13</h2>
+            <h2 class="heads h1">About Triple13</h2>
             <p class="desc sm-m4">
                 We are AMP Monetisation specialists that focus on leveraging our purpose built technologies to optimise
                 revenue from programmatic advertising. We are a passionate bunch of developers, analysts and
@@ -85,7 +85,7 @@
             </div>
             <div class="sm-col-12 affiliations-image">
                 <amp-img
-                        src="./img/partnerships/iab-logo.svg"
+                        src="./img/partnerships/iab-memberseal-black.gif"
                         height="100"
                         width="100"
                         alt="ico-logo"
@@ -112,13 +112,11 @@
     <section class="landing-page-section-white">
         <div class="md-flex justify-around items-center max-width-4">
             <div>
-                <p class="line-height-3 desc dark-gray">
-                    Matthew Whaley is the founder and CEO of Triple13.io and a board member of Prebid.org with 20 years
-                    experience in the industry. He has a passion for leading teams to be best in class organisations and
-                    developing cutting edge technology optimised for the user.
-                </p>
                 <p class="desc light-gray">
-                    "We’re here to make your life easy. To ensure each project runs as smoothly
+                    "Hi, I am Matthew Whaley the Founder and CEO of Triple13. I'm so proud of the amazing cutting edge
+                    technology we create and tailored service we offer our clients. It is truly wonderful working with
+                    this collection of people.
+                    We’re here to make your life easy. To ensure each project runs as smoothly
                     and efficiently as
                     possible,
                     our team is completely adaptable to work in the way that’s best for you.
@@ -142,35 +140,206 @@
         </div>
     </section>
     <section class="landing-page-section-color flex items-center justify-center">
+
         <div class="flex col-12 max-width-4 stats">
             <div class="lg-col-3 flex flex-column items-center">
-                <h1 class="center align-middle heads caps lg-h2 sm-h4">7b+</h1>
+                <amp-script layout="intrinsic" width="200" height="80" script="ad-request" class="stats-amp-script">
+                    <h1 class="center align-middle heads caps lg-h2 sm-h4"><span id="ad-value">0</span><span>b+</span>
+                    </h1>
+                </amp-script>
                 <div class="center align-middle lg-h5 sm-h6">Ad request processed</div>
             </div>
             <div class="lg-col-3 flex flex-column items-center">
-                <h1 class="center align-middle heads caps lg-h2 sm-h4">100+</h1>
+                <amp-script layout="intrinsic" width="200" height="80" script="publishers" class="stats-amp-script">
+                    <h1 class="center align-middle heads caps lg-h2 sm-h4"><span id="p-value">0</span>+</h1>
+                </amp-script>
                 <div class="center align-middle lg-h5 sm-h6">Publishers</div>
             </div>
             <div class="lg-col-3 flex flex-column items-center">
-                <h1 class="center align-middle heads caps lg-h2 sm-h4">1m+</h1>
+                <amp-script layout="intrinsic" width="200" height="80" script="unique-floors" class="stats-amp-script">
+                    <h1 class="center align-middle heads caps lg-h2 sm-h4"><span id="u-value">0</span>m+</h1>
+                </amp-script>
                 <div class="center align-middle lg-h5 sm-h6">Unique floors prices set</div>
             </div>
             <div class="lg-col-3 flex flex-column items-center">
-                <h1 class="center align-middle heads caps lg-h2 sm-h4">100b+</h1>
+                <amp-script layout="intrinsic" width="200" height="80" script="data-points" class="stats-amp-script">
+                    <h1 class="center align-middle heads caps lg-h2 sm-h4"><span id="d-value">0</span>b+</h1>
+                </amp-script>
                 <div class="center align-middle lg-h5 sm-h6">Data points analysed</div>
             </div>
 
         </div>
+        <script id="ad-request" type="text/plain" target="amp-script">
+              function animateValue(obj, start, end, duration) {
+                  let startTimestamp = null;
+                  const step = (timestamp) => {
+                    if (!startTimestamp) startTimestamp = timestamp;
+                    const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                    obj.innerHTML = Math.floor(progress * (end - start) + start);
+                    if (progress < 1) {
+                      window.requestAnimationFrame(step);
+                    }
+                  };
+                  window.requestAnimationFrame(step);
+                }
+
+                async function isElementInViewport (el) {
+
+                    var rect = await el.getBoundingClientRectAsync();
+
+                    return (
+                        rect.top >= 0 &&
+                        rect.left >= 0 &&
+                        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+                        rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
+                    );
+                }
+                const obj = document.getElementById("ad-value");
+
+                function run() {
+                    setTimeout(async function(){
+                        const inView = await isElementInViewport(obj)
+                        if (inView) {
+                            animateValue(obj, 0, 7, 500);
+                        } else {
+                            run()
+                        }
+                    }, 500)
+                }
+                run()
+
+        </script>
+        <script id="publishers" type="text/plain" target="amp-script">
+              function animateValue(obj, start, end, duration) {
+                  let startTimestamp = null;
+                  const step = (timestamp) => {
+                    if (!startTimestamp) startTimestamp = timestamp;
+                    const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                    obj.innerHTML = Math.floor(progress * (end - start) + start);
+                    if (progress < 1) {
+                      window.requestAnimationFrame(step);
+                    }
+                  };
+                  window.requestAnimationFrame(step);
+                }
+
+                async function isElementInViewport (el) {
+
+                    var rect = await el.getBoundingClientRectAsync();
+
+                    return (
+                        rect.top >= 0 &&
+                        rect.left >= 0 &&
+                        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+                        rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
+                    );
+                }
+                const obj = document.getElementById("p-value");
+
+                function run() {
+                    setTimeout(async function(){
+                        const inView = await isElementInViewport(obj)
+                        if (inView) {
+                            animateValue(obj, 0, 100, 500);
+                        } else {
+                            run()
+                        }
+                    }, 500)
+                }
+                run()
+
+        </script>
+        <script id="unique-floors" type="text/plain" target="amp-script">
+              function animateValue(obj, start, end, duration) {
+                  let startTimestamp = null;
+                  const step = (timestamp) => {
+                    if (!startTimestamp) startTimestamp = timestamp;
+                    const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                    obj.innerHTML = Math.floor(progress * (end - start) + start);
+                    if (progress < 1) {
+                      window.requestAnimationFrame(step);
+                    }
+                  };
+                  window.requestAnimationFrame(step);
+                }
+
+                async function isElementInViewport (el) {
+
+                    var rect = await el.getBoundingClientRectAsync();
+
+                    return (
+                        rect.top >= 0 &&
+                        rect.left >= 0 &&
+                        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+                        rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
+                    );
+                }
+                const obj = document.getElementById("u-value");
+
+                function run() {
+                    setTimeout(async function(){
+                        const inView = await isElementInViewport(obj)
+                        if (inView) {
+                            animateValue(obj, 0, 1, 500);
+                        } else {
+                            run()
+                        }
+                    }, 500)
+                }
+                run()
+
+        </script>
+        <script id="data-points" type="text/plain" target="amp-script">
+              function animateValue(obj, start, end, duration) {
+                  let startTimestamp = null;
+                  const step = (timestamp) => {
+                    if (!startTimestamp) startTimestamp = timestamp;
+                    const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+                    obj.innerHTML = Math.floor(progress * (end - start) + start);
+                    if (progress < 1) {
+                      window.requestAnimationFrame(step);
+                    }
+                  };
+                  window.requestAnimationFrame(step);
+                }
+
+                async function isElementInViewport (el) {
+
+                    var rect = await el.getBoundingClientRectAsync();
+
+                    return (
+                        rect.top >= 0 &&
+                        rect.left >= 0 &&
+                        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+                        rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
+                    );
+                }
+                const obj = document.getElementById("d-value");
+
+                function run() {
+                    setTimeout(async function(){
+                        const inView = await isElementInViewport(obj)
+                        if (inView) {
+                            animateValue(obj, 0, 100, 500);
+                        } else {
+                            run()
+                        }
+                    }, 500)
+                }
+                run()
+
+        </script>
     </section>
     <section class="landing-page-section-white">
         <div class="flex flex-column center max-width-4 col-12">
-            <h2 class="heads t13-blue lg-h2 sm-h4">SOME OF OUR PARTNERS</h2>
+            <h2 class="heads t13-blue lg-h2 sm-h4">some of our partners</h2>
             <div class="flex flex-wrap demand">
                 <div class="demand-image-container">
                     <amp-img
                             src="./img/demand/xandr-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="xandr-logo"
                             noloading=""
@@ -181,8 +350,9 @@
                 <div class="demand-image-container">
                     <amp-img
                             src="./img/partnerships/google-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="criteo-logo"
                             noloading=""
@@ -193,8 +363,9 @@
                 <div class="demand-image-container">
                     <amp-img
                             src="./img/demand/rubicon-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="rubicon-logo"
                             noloading=""
@@ -205,8 +376,9 @@
                 <div class="demand-image-container">
                     <amp-img
                             src="./img/demand/districtm-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="districtm-logo"
                             noloading=""
@@ -216,9 +388,23 @@
                 </div>
                 <div class="demand-image-container">
                     <amp-img
+                            src="./img/demand/baidu-logo.svg"
+                            height="100"
+                            width="100"
+                            layout="responsive"
+                            class="demand-image"
+                            alt="criteo-logo"
+                            noloading=""
+                    >
+                        <div placeholder="" class="commerce-loader"></div>
+                    </amp-img>
+                </div>
+                <div class="demand-image-container">
+                    <amp-img
                             src="./img/demand/pubmatic-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="pubmatic-logo"
                             noloading=""
@@ -228,22 +414,10 @@
                 </div>
                 <div class="demand-image-container">
                     <amp-img
-                            src="./img/demand/baidu-logo.svg"
-                            height="150"
-                            layout="fixed-height"
-                            class="demand-image"
-                            alt="criteo-logo"
-                            noloading=""
-                    >
-                        <div placeholder="" class="commerce-loader"></div>
-                    </amp-img>
-                </div>
-
-                <div class="demand-image-container">
-                    <amp-img
                             src="./img/demand/conversant-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="amazon-logo"
                             noloading=""
@@ -254,8 +428,9 @@
                 <div class="demand-image-container">
                     <amp-img
                             src="./img/demand/amazon-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="openx-logo"
                             noloading=""
@@ -266,7 +441,20 @@
                 <div class="demand-image-container">
                     <amp-img
                             src="./img/demand/openx-logo.svg"
-                            height="150"
+                            height="100"
+                            width="100"
+                            layout="responsive"
+                            class="demand-image"
+                            alt="conversant-logo"
+                            noloading=""
+                    >
+                        <div placeholder="" class="commerce-loader"></div>
+                    </amp-img>
+                </div>
+                <div class="demand-image-container">
+                    <amp-img
+                            src="./img/demand/unruly.png"
+                            height="75"
                             layout="fixed-height"
                             class="demand-image"
                             alt="conversant-logo"
@@ -277,20 +465,8 @@
                 </div>
                 <div class="demand-image-container">
                     <amp-img
-                            src="./img/demand/openx-logo.svg"
-                            height="150"
-                            layout="fixed-height"
-                            class="demand-image"
-                            alt="conversant-logo"
-                            noloading=""
-                    >
-                        <div placeholder="" class="commerce-loader"></div>
-                    </amp-img>
-                </div>
-                <div class="demand-image-container">
-                    <amp-img
-                            src="./img/demand/openx-logo.svg"
-                            height="150"
+                            src="./img/demand/mediagrid.png"
+                            height="75"
                             layout="fixed-height"
                             class="demand-image"
                             alt="conversant-logo"
@@ -302,8 +478,9 @@
                 <div class="demand-image-container">
                     <amp-img
                             src="./img/demand/adform-logo.svg"
-                            height="150"
-                            layout="fixed-height"
+                            height="100"
+                            width="100"
+                            layout="responsive"
                             class="demand-image"
                             alt="conversant-logo"
                             noloading=""

@@ -24,6 +24,13 @@
   }
 }
 
+//.stats > div > amp-script > h1 {
+//
+//  @include sm {
+//    margin: 0;
+//  }
+//}
+
 .stats > div:not(:last-child) {
   border-bottom: 1px solid white;
   border-right: none;
@@ -69,6 +76,7 @@
 .demand-image {
   width: 100%;
   height: 100%;
+  margin: 0 1rem;
 
   @include desktop {
     margin: 1rem;
