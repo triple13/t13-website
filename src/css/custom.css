@@ -1496,62 +1496,6 @@ amp-sidebar .follow-us {
 }
 
 
-/* main */
-
-@media (min-width: 0em) {
-
-    .affiliations {
-        flex-direction: column;
-        align-items: center;
-    }
-    .partnerships {
-        flex-direction: column;
-        height: 600px;
-    }
-    .affiliations-image {
-        width: 100px;
-        height: 100px;
-    }
-    .stats {
-        flex-direction: column;
-    }
-
-    .stats > div:not(:last-child) {
-        border-bottom: 1px solid white;
-        border-right: none;
-        margin: 1rem
-    }
-
-}
-
-@media (min-width: 64em) {
-    .affiliations {
-        flex-direction: row;
-        justify-content: space-evenly;
-    }
-    .partnerships {
-        flex-direction: row;
-        justify-content: space-evenly;
-        height: 300px
-    }
-    .affiliations-image {
-        width: 150px;
-    }
-    .stats {
-        flex-direction: row;
-    }
-
-    .stats > div:not(:last-child) {
-        border-bottom: none;
-        border-right: 1px solid white;
-        margin: 0;
-    }
-
-}
-
-
-
-
 /* sidebar*/
 
 div.dropdown-content ul {
