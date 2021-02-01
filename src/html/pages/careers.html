@@ -13,6 +13,10 @@
 
 <main class="flex flex-column col-12 items-center careers-main">
     <section class="m2 max-width-4">
+        <amp-action-macro
+                id="navigate-action"
+                execute="AMP.navigateTo(url='mailto:hello@triple13.io')"
+        ></amp-action-macro>
         <div class="flex flex-wrap justify-center">
             <div class="lg-col-6 sm-col-12">
                 <h1 class="line-height-4 heads dark-gray lg-h2 sm-h3">
@@ -38,7 +42,8 @@
                     In the end, the task of the Software Developer is to create high-quality, creative and
                     fully-functioning software that meets coding requirements and technological design.
                 </p>
-                <button class="buttons" execute="AMP.navigateTo(url='mailto:hello@triple13.io')">Apply</button>
+
+                <button class="buttons" on="tap:navigate-action.execute()">Apply</button>
             </div>
             <div class="lg-col-6 sm-col-12 lightbox-img self-center">
                 <amp-img
@@ -73,7 +78,7 @@
                     At the end of the day, you should be able to have technological, product and company expertise to
                     help distribution processes and improve consumer relationships.
                 </p>
-                <button class="buttons" execute="AMP.navigateTo(url='mailto:hello@triple13.io')">Apply</button>
+                <button class="buttons" on="tap:navigate-action.execute()">Apply</button>
                 <h4 class="line-height-4 heads dark-gray">
                     Data Analyst
                 </h4>
@@ -86,7 +91,7 @@
                     operations and architecture. Data analysts will develop analytics and reporting capabilities. They
                     will also track efficiency and quality management plans in order to detect changes.
                 </p>
-                <button class="buttons" execute="AMP.navigateTo(url='mailto:hello@triple13.io')">Apply</button>
+                <button class="buttons" on="tap:navigate-action.execute()">Apply</button>
             </div>
         </div>
     </section>
