@@ -6,11 +6,52 @@
   justify-content: flex-start;
 }
 
+.faq-body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.faq-image-text-container {
+  display: flex;
+  flex-direction: column;
+
+  @include desktop {
+    flex-direction: row;
+  }
+}
+
 .faq-item-container {
   display: flex;
   flex-direction: column;
 }
 
+.faq-image {
+  width: 100%;
+  -webkit-box-ordinal-group: -1000000;
+  -webkit-order: -999999;
+  -ms-flex-order: -999999;
+  order: -999999;
+
+  @include desktop {
+    width: 50%;
+
+    -webkit-box-ordinal-group: 0;
+    -webkit-order: 0;
+    -ms-flex-order: 0;
+    order: 0;
+  }
+}
+
+.faq-item-container-next-to-image {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  @include desktop {
+    width: 50%;
+  }
+}
 
 .faq-item-question {
   display: flex;
