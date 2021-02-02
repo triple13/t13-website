@@ -1,9 +1,18 @@
 @import 'mixins';
 
 .careers-main {
-  height: 100%;
+  flex-grow: 1;
+  justify-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
 
-  @include desktop {
-    height: calc(100vh - 129px - 65px);
-  }
+.careers-body {
+  height: 100vh;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
