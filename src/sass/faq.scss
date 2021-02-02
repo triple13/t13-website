@@ -73,7 +73,7 @@
 .faq-item-question-a {
   margin-right: 1rem;
   font-size: 20px;
-  color: $t13-grey;
+  color: $t13-gray;
 
   @include desktop {
     font-size: 50px;
@@ -83,7 +83,7 @@
 .faq-item-answer {
   padding-left: 1rem;
   display: flex;
-  border-left: 5px solid $t13-grey;
+  border-left: 5px solid $t13-gray;
 }
 
 .faq-horizontal-line {
@@ -92,8 +92,8 @@
   width: 90%;
   height: 2px;
   text-align: center;
-  color: $t13-grey;
-  background-color: $t13-grey;
+  color: $t13-gray;
+  background-color: $t13-gray;
   opacity: 0.3;
 }
 

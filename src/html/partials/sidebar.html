@@ -4,7 +4,7 @@
         layout="nodisplay"
         side="left"
 >
-    <div class="flex justify-end items-center">
+    <div class="sidebar-x-button">
         <div
                 role="button"
                 aria-label="close sidebar"
@@ -17,7 +17,7 @@
     </div>
     <nav>
         <div>
-            <a href="index.html" class="text-decoration-none block">
+            <a href="index.html">
                 <amp-img
                         src="./img/Logo.svg"
                         width="130"
@@ -26,7 +26,7 @@
                         class="sidebar-image"
                         noloading=""
                 >
-                    <div placeholder="" class="commerce-loader"></div>
+                    <div placeholder=""></div>
                 </amp-img>
             </a>
             <div>
@@ -39,7 +39,7 @@
                                       stroke-width="5"/>
                             </svg>
                         </h2>
-                        <ul class="list-reset">
+                        <ul class="sidebar-list">
                             <li>
                                 <a on="tap:amp-monetisation,header-sidebar.toggle" class="list-anchor">AMP monetisation</a>
                             </li>
@@ -56,7 +56,7 @@
                                       stroke-width="5"/>
                             </svg>
                         </h2>
-                        <ul class="list-reset">
+                        <ul class="sidebar-list">
                             <li>
                                 <a on="tap:prebid-server,header-sidebar.toggle" class="list-anchor">Prebid Server</a>
                             </li>
@@ -81,7 +81,7 @@
                                 </svg>
                             </div>
                         </h2>
-                        <ul class="list-reset">
+                        <ul class="sidebar-list">
                             <li>
                                 <a href="https://triple13.slite.com/api/s/channel/AbLTMzLU7fQ3xKNpEKhsRK/Triple13%3A%20Documentation" class="list-anchor">Documentation</a>
                             </li>
@@ -100,7 +100,7 @@
                                 </svg>
                             </div>
                         </h2>
-                        <ul class="list-reset">
+                        <ul class="sidebar-list">
                             <li>
                                 <a href="faq.html" class="list-anchor">FAQ</a>
                             </li>
@@ -119,8 +119,4 @@
             </div>
         </div>
     </nav>
-<!--    <div style="padding-right: 1rem">-->
-<!--        <h3 class="h7 block follow-us">Follow Us</h3>-->
-<!--        %%include('../partials/social.html')-->
-<!--    </div>-->
 </amp-sidebar>
