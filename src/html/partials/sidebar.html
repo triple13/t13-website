@@ -17,23 +17,37 @@
     </div>
     <nav>
         <div>
-            <a href="index.html">
-                <amp-img
-                        src="./img/Logo.svg"
-                        width="130"
-                        height="65"
-                        alt="Company logo"
-                        class="sidebar-image"
-                        noloading=""
-                >
-                    <div placeholder=""></div>
-                </amp-img>
-            </a>
+            <div class="sidebar-logo">
+                <a href="index.html">
+                    <amp-img
+                            src="./img/Logo.svg"
+                            width="130"
+                            height="65"
+                            alt="Company logo"
+                            class="sidebar-image"
+                            noloading=""
+                    >
+                        <div placeholder=""></div>
+                    </amp-img>
+                </a>
+            </div>
             <div>
+<!--                <amp-action-macro-->
+<!--                    id="closeNavigations"-->
+<!--                    execute="AMP.setState({myImageUrl: './img/icons/left-arrow.svg', myImageAlt: 'Another example image'})"-->
+<!--                ></amp-action-macro>-->
                 <amp-accordion disable-session-states>
                     <section>
+
                         <h2 class="sidebar-accordion-header">
                             Services
+<!--                            <amp-img src="./img/icons/right-arrow.svg"-->
+<!--                                     width="10"-->
+<!--                                     height="10"-->
+<!--                                     alt="Example image"-->
+<!--                                     [src]="myImageUrl"-->
+<!--                                     [alt]="myImageAlt">-->
+<!--                            </amp-img>-->
                             <svg width="10" height="5" viewBox="-2.5 -5 75 60" preserveAspectRatio="none">
                                 <path d="M0,0 l35,50 l35,-50" fill="none" stroke="black" stroke-linecap="round"
                                       stroke-width="5"/>
@@ -41,10 +55,12 @@
                         </h2>
                         <ul class="sidebar-list">
                             <li>
-                                <a on="tap:amp-monetisation,header-sidebar.toggle" class="list-anchor">AMP monetisation</a>
+                                <a on="tap:amp-monetization,header-sidebar.toggle" class="list-anchor">AMP
+                                    monetization</a>
                             </li>
                             <li>
-                                <a on="tap:software-engineering,header-sidebar.toggle" class="list-anchor">Software Engineering</a>
+                                <a on="tap:software-engineering,header-sidebar.toggle" class="list-anchor">Software
+                                    Engineering</a>
                             </li>
                         </ul>
                     </section>
@@ -83,7 +99,8 @@
                         </h2>
                         <ul class="sidebar-list">
                             <li>
-                                <a href="https://triple13.slite.com/api/s/channel/AbLTMzLU7fQ3xKNpEKhsRK/Triple13%3A%20Documentation" class="list-anchor">Documentation</a>
+                                <a href="https://triple13.slite.com/api/s/channel/AbLTMzLU7fQ3xKNpEKhsRK/Triple13%3A%20Documentation"
+                                   class="list-anchor">Documentation</a>
                             </li>
                             <li>
                                 <a href="https://github.com/triple13" class="list-anchor">Github</a>
@@ -112,10 +129,14 @@
                             </li>
                         </ul>
                     </section>
+                    <section>
+                        <h2 class="sidebar-accordion-header">
+                            <a on="tap:contact,header-sidebar.toggle" class="contact ampstart-nav-link">Contact</a>
+                        </h2>
+                        <ul class="sidebar-list">
+                        </ul>
+                    </section>
                 </amp-accordion>
-                <div class="flex justify-center" style="padding-right: 1rem">
-                        <a on="tap:contact,header-sidebar.toggle" class="contact ampstart-nav-link">Contact</a>
-                </div>
             </div>
         </div>
     </nav>

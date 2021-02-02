@@ -4,7 +4,7 @@ amp-sidebar {
   background-color: #fff;
   width: 100vw;
   max-width: 100vw;
-  text-align: center;
+  //text-align: center;
 }
 
 amp-sidebar .x-button {
@@ -63,5 +63,14 @@ amp-sidebar nav div a {
 
 .sidebar-list {
   list-style:none;
-  padding-left:0
+  padding-left:0;
+  margin-left: 0.83rem;
+}
+
+.sidebar-list > li {
+  margin-bottom: 1rem;
+}
+
+.sidebar-logo {
+  margin-left: 0.83rem;
 }
