@@ -67,10 +67,23 @@ amp-sidebar nav div a {
   margin-left: 0.83rem;
 }
 
-.sidebar-list > li {
+.sidebar-list > li:not(:last-child) {
   margin-bottom: 1rem;
 }
 
 .sidebar-logo {
   margin-left: 0.83rem;
 }
+
+section[expanded] .show-more {
+  display: none;
+}
+
+section:not([expanded]) > h2 > .show-less {
+  display: none;
+}
+
+.sidebar-wrapper {
+  margin-left: 1rem;
+}
+
