@@ -1,13 +1,17 @@
 <?php
      if ( ! isset( $_POST['contact_form'] ) ) {
+
+          /*/ this is the email we get from visitors*/
+          $domain_url = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
+          $valid_cors = array("localhost","triple13.io");
           header( 'access-control-allow-credentials:true' );
-          header( 'access-control-allow-headers:Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token' );
-          header( 'access-control-allow-methods:POST, GET, OPTIONS' );
+          header('Access-Control-Allow-Origin: https://{$valid_cors}', false);
+          header("Access-Control-Allow-Methods: POST ");
+          header("Access-Control-Allow-Origin: ". str_replace('.', '-', .$domain_url) .".cdn.ampproject.org");
           header( 'access-control-allow-origin:' . $_SERVER['HTTP_ORIGIN'] );
           header( 'access-control-expose-headers:AMP-Access-Control-Allow-Source-Origin' );
-          header( 'amp-access-control-allow-source-origin:https://' . $_SERVER['HTTP_HOST'] );
-          header("Access-Control-Expose-Headers: AMP-Access-Control-Allow-Source-Origin, AMP-Redirect-To");
-          header( 'Content-Type: application/json' );
+          header("AMP-Access-Control-Allow-Source-Origin: ".$domain_url);
+
           $your_name = filter_var( $_POST['your_name'], FILTER_SANITIZE_STRING );
           $your_email = filter_var( $_POST['your_email'], FILTER_SANITIZE_EMAIL );
           $your_telephone = filter_var( $_POST['your_telephone'], FILTER_SANITIZE_STRING );
