@@ -1,41 +1,11 @@
+@import 'mixins';
+
 #contact-form {
-  display: flex;
-  flex-direction: column;
-  width: 400px;
-}
+  width: 300px;
+  height: 425px;
 
-.contact-textfield > input {
-  width: 100%;
-}
-
-
-.contact-textfield > textarea {
-  width: 100%;
-}
-
-.contact-submit {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.contact-submit > input {
-  padding: .8rem;
-  border-radius: 5px;
-  text-align: center;
-  cursor: pointer;
-  text-decoration: none;
-  background-color: #2c548e;
-  color: #fff;
-  font-family: 'Noto Sans', sans-serif;
-  border: 1px solid #2c548e;
-  font-weight: 700;
-  font-size: 16px;
-  letter-spacing: 1px;
-}
-
-.contact-submit > input:hover {
-  background-color: #fff;
-  color: #2c548e;
-  transition: all .3s ease-in;
+  @include desktop {
+    width: 600px;
+    height: 850px;
+  }
 }
