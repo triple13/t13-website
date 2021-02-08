@@ -3,10 +3,8 @@
 
           /*/ this is the email we get from visitors*/
           $domain_url = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
-          $valid_cors = array("localhost","triple13.io");
           header( 'access-control-allow-credentials:true' );
           header("Content-type: application/json");
-          header('Access-Control-Allow-Origin: https://{$valid_cors}', false);
           header("Access-Control-Allow-Methods: POST ");
           header("Access-Control-Allow-Origin: ". str_replace('.', '-', "https://triple13.io") .".cdn.ampproject.org");
           header("AMP-Access-Control-Allow-Source-Origin: ".$domain_url);
