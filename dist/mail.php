@@ -3,18 +3,15 @@
 
           /*/ this is the email we get from visitors*/
           $domain_url = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://$_SERVER[HTTP_HOST]";
-          $valid_cors = array("localhost","triple13.io");
           header( 'access-control-allow-credentials:true' );
-          header('Access-Control-Allow-Origin: https://{$valid_cors}', false);
+          header("Content-type: application/json");
           header("Access-Control-Allow-Methods: POST ");
-          header("Access-Control-Allow-Origin: ". str_replace('.', '-', .$domain_url) .".cdn.ampproject.org");
-          header( 'access-control-allow-origin:' . $_SERVER['HTTP_ORIGIN'] );
-          header( 'access-control-expose-headers:AMP-Access-Control-Allow-Source-Origin' );
+          header("Access-Control-Allow-Origin: ". str_replace('.', '-', "https://triple13.io") .".cdn.ampproject.org");
           header("AMP-Access-Control-Allow-Source-Origin: ".$domain_url);
+          header( 'access-control-expose-headers:AMP-Access-Control-Allow-Source-Origin' );
 
           $your_name = filter_var( $_POST['your_name'], FILTER_SANITIZE_STRING );
           $your_email = filter_var( $_POST['your_email'], FILTER_SANITIZE_EMAIL );
-          $your_telephone = filter_var( $_POST['your_telephone'], FILTER_SANITIZE_STRING );
           $your_subject = filter_var( $_POST['your_subject'], FILTER_SANITIZE_STRING );
           $your_message = filter_var( $_POST['your_message'], FILTER_SANITIZE_STRING );
           if ( ! empty( $your_name ) && ! empty( $your_email ) ) {
@@ -24,7 +21,6 @@
                // Email to the website admin
                $compiled_message = 'Name: ' . $your_name . "\r\n";
                $compiled_message .= 'Email: ' . $your_email . "\r\n";
-               $compiled_message .= 'Telephone: ' . $your_telephone . "\r\n";
                $compiled_message .= 'Subject: ' . $your_subject . "\r\n";
                $compiled_message .= 'Message: ' . $your_message;
                mail( 'sj@triple13.io', 'Example Subject', $compiled_message ); // Please change the example email address
