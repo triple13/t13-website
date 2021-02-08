@@ -36,40 +36,16 @@
             </div>
         </section>
 
-        <form id="contact-form" name="contact_form" method="post" action-xhr="https://triple13.io/mail.php" target="_top" on="submit:contact-form.clear">
-            <div class="contact-textfield">
-                <h1>Contact us</h1>
-            </div>
-            <div class="contact-textfield">
-                <h4>Name *</h4>
-                <input type="text" name="your_name" required />
-            </div>
-            <div class="contact-textfield">
-                <h4>Email *</h4>
-                <input type="email" name="your_email" required />
-            </div>
-            <div class="contact-textfield">
-                <h4>Subject *</h4>
-                <input type="text" name="your_subject" required />
-            </div>
-            <div class="contact-textfield">
-                <h4>Message *</h4>
-                <textarea name="your_message" required></textarea>
-            </div>
-            <div class="contact-submit">
-                <input type="submit" name="submit" value="Send message" />
-            </div>
-            <div submit-success>
-                <template type="amp-mustache">
-                    <p>{{output_message}}</p>
-                </template>
-            </div>
-            <div submit-error>
-                <template type="amp-mustache">
-                    <p>There was an error</p>
-                </template>
-            </div>
-        </form>
+        <amp-iframe
+                width="600"
+                height="850"
+                sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
+                layout="fixed"
+                frameborder="0"
+                src="https://us7.list-manage.com/contact-form?u=2e53fd658be71a902374a6c78&form_id=a8e550b83495fa1e38dd9703d2c9b825"
+        >
+            <amp-img layout="fill" src="#" placeholder></amp-img>
+        </amp-iframe>
 
     </main>
     <footer class="border-top flex justify-center ampfooter">
