@@ -6,6 +6,7 @@
           header( 'access-control-allow-origin:' . $_SERVER['HTTP_ORIGIN'] );
           header( 'access-control-expose-headers:AMP-Access-Control-Allow-Source-Origin' );
           header( 'amp-access-control-allow-source-origin:https://' . $_SERVER['HTTP_HOST'] );
+          header("Access-Control-Expose-Headers: AMP-Access-Control-Allow-Source-Origin, AMP-Redirect-To");
           header( 'Content-Type: application/json' );
           $your_name = filter_var( $_POST['your_name'], FILTER_SANITIZE_STRING );
           $your_email = filter_var( $_POST['your_email'], FILTER_SANITIZE_EMAIL );
@@ -22,7 +23,7 @@
                $compiled_message .= 'Telephone: ' . $your_telephone . "\r\n";
                $compiled_message .= 'Subject: ' . $your_subject . "\r\n";
                $compiled_message .= 'Message: ' . $your_message;
-               mail( 'example@example.com', 'Example Subject', $compiled_message ); // Please change the example email address
+               mail( 'sj@triple13.io', 'Example Subject', $compiled_message ); // Please change the example email address
           } else {
                // Front-end error message
                $output_message = 'Sorry, there was an error processing your message.';

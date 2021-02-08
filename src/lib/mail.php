@@ -6,6 +6,7 @@
           header( 'access-control-allow-origin:' . $_SERVER['HTTP_ORIGIN'] );
           header( 'access-control-expose-headers:AMP-Access-Control-Allow-Source-Origin' );
           header( 'amp-access-control-allow-source-origin:https://' . $_SERVER['HTTP_HOST'] );
+          header("Access-Control-Expose-Headers: AMP-Access-Control-Allow-Source-Origin, AMP-Redirect-To");
           header( 'Content-Type: application/json' );
           $your_name = filter_var( $_POST['your_name'], FILTER_SANITIZE_STRING );
           $your_email = filter_var( $_POST['your_email'], FILTER_SANITIZE_EMAIL );
