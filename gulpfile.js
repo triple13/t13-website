@@ -46,6 +46,10 @@ const paths = {
         src: 'src/assets/*',
         dest: 'dist/'
     },
+    lib: {
+        src: 'src/lib/*',
+        dest: 'dist/'
+    },
     // favicon: {
     //     src: 'src/favicon/*',
     //     dest: 'dist/'
@@ -89,11 +93,20 @@ gulp.task('images', function buildImages() {
 // });
 
 /**
- * Copies the root config files to the distribution.
+ * Copies the assets files to the distribution.
  */
 gulp.task('assets', function buildImages() {
     return gulp.src(paths.assets.src)
         .pipe(gulp.dest(paths.assets.dest));
+});
+
+
+/**
+ * Copies the lib files to the distribution.
+ */
+gulp.task('lib', function buildImages() {
+    return gulp.src(paths.lib.src)
+        .pipe(gulp.dest(paths.lib.dest));
 });
 
 /**
@@ -165,6 +178,7 @@ gulp.task('clean', function clean() {
  */
 gulp.task('build', gulp.series('images',
     // 'favicon',
+    'lib',
     'assets',
     'html',
     'validate'
@@ -195,6 +209,7 @@ gulp.task('browserSync', function sync (done) {
 gulp.task('watch', function watch(done) {
     gulp.watch(paths.images.src, gulp.series('images'));
     gulp.watch(paths.assets.src, gulp.series('assets'));
+    gulp.watch(paths.assets.src, gulp.series('lib'));
     gulp.watch('src/html/**/*.html', gulp.series('rebuild'));
     gulp.watch(paths.css.src, gulp.series('rebuild'));
     done();
