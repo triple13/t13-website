@@ -35,24 +35,54 @@
                 </div>
             </div>
         </section>
-        <div id="contact-form">
-<!--            <amp-iframe-->
-<!--                    width="300"-->
-<!--                    height="425"-->
-<!--                    sandbox="allow-scripts allow-same-origin allow-forms allow-popups"-->
-<!--                    layout="responsive"-->
-<!--                    frameborder="0"-->
-<!--                    src="https://us7.list-manage.com/contact-form?u=2e53fd658be71a902374a6c78&form_id=a8e550b83495fa1e38dd9703d2c9b825"-->
-<!--            >-->
-<!--                <amp-img layout="fill" src="#" placeholder></amp-img>-->
-<!--            </amp-iframe>-->
-            <form method="post" action-xhr="https://api.arengu.com/forms/161289195123229300/submissions/">
-                <input type="email" name="email" placeholder="Email" required>
-                <input type="text" name="subject" placeholder="Subject" required>
-                <input type="textarea" name="message" placeholder="Message" required>
-                <input type="submit">
-            </form>
-        </div>
+        <form
+                method="post"
+                id="contact-form"
+                action-xhr="https://api.arengu.com/forms/161289195123229300/submissions/"
+                on="submit:contact-form.clear"
+                target="_top"
+        >
+            <fieldset>
+                <div class="contact-textfield">
+                    <h1>Contact Us</h1>
+                </div>
+                <div class="contact-textfield">
+                    <h4>Email</h4>
+                    <input type="email" name="email" placeholder="Email" required>
+                </div>
+                <div class="contact-textfield">
+                    <h4>Subject</h4>
+                    <input type="text" name="subject" placeholder="Subject" required>
+                </div>
+                <div class="contact-textfield">
+                    <h4>Message</h4>
+                    <textarea name="message" placeholder="Message" required rows="5"></textarea>
+                </div>
+                <div class="contact-submit">
+                    <input type="submit" value="Send Message">
+                    <div submit-success>
+                        <template type="amp-mustache">
+                            <amp-img
+                                    src="./img/icons/tick.svg"
+                                    height="30"
+                                    width="30"
+                                    layout="fixed"
+                                    alt="mobile chat"
+                                    noloading=""
+                            >
+                                <div placeholder=""></div>
+                            </amp-img>
+                        </template>
+                    </div>
+                </div>
+            </fieldset>
+
+            <div submit-error>
+                <template type="amp-mustache">
+                    Email Failed to send
+                </template>
+            </div>
+        </form>
 
 
     </main>
