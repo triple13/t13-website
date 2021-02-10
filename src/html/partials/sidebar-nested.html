@@ -1,0 +1,171 @@
+<amp-sidebar
+        id="header-sidebar"
+        class="md-hide lg-hide"
+        layout="nodisplay"
+        side="left"
+>
+
+        <amp-list layout="fill" src="amp-list-data.json" items="." single-item>
+            <template type="amp-mustache">
+                <amp-nested-menu layout="fill">
+                    <div class="flex justify-end items-center">
+                        <div
+                            role="button"
+                            aria-label="close sidebar"
+                            on="tap:header-sidebar.toggle"
+                            tabindex="0"
+                            class="sidebar-button"
+                        >
+                            ✕
+                        </div>
+                    </div>
+                    <ul>
+                        {{#items}}
+                        <li>
+                            {{#anchor}}
+                            <h3 on="tap:{{anchor}},header-sidebar.toggle"
+                                role="button"
+                                tabindex="0"
+                            >
+                                {{title}}
+                            </h3>
+                            {{/anchor}}
+                            {{^anchor}}
+                            <div amp-nested-submenu-open class="sidebar-item-with-arrow">
+                                <h3>{{title}}</h3>
+                                <amp-img
+                                        src="./img/icons/right-arrow.svg"
+                                        height="10"
+                                        width="10"
+                                        layout="fixed"
+                                        alt="right arrow"
+                                        noloading=""
+                                        class="sidebar-arrow"
+                                >
+                                    <div placeholder=""></div>
+                                </amp-img>
+                            </div>
+                            {{/anchor}}
+                            {{#nested}}
+                            <div amp-nested-submenu>
+                                <div class="sidebar-container-header">
+                                    <div amp-nested-submenu-close class="sidebar-button">
+                                        <amp-img
+                                                src="./img/icons/left-arrow.svg"
+                                                height="20"
+                                                width="20"
+                                                layout="fixed"
+                                                alt="right arrow"
+                                                noloading=""
+                                                class="sidebar-arrow"
+                                        >
+                                            <div placeholder=""></div>
+                                        </amp-img>
+                                    </div>
+                                    <div
+                                        role="button"
+                                        aria-label="close sidebar"
+                                        on="tap:header-sidebar.toggle"
+                                        tabindex="0"
+                                        class="sidebar-button"
+                                    >
+                                        ✕
+                                    </div>
+                                </div>
+
+
+                                <ul>
+                                    {{#nestedItems}}
+                                    <li>
+                                        {{#nestedAnchor}}
+                                        <h3 on="tap:{{nestedAnchor}},header-sidebar.toggle"
+                                            role="button"
+                                            tabindex="0"
+                                        >
+                                            {{nestedTitle}}
+                                        </h3>
+                                        {{/nestedAnchor}}
+                                        {{#double}}
+                                            <div amp-nested-submenu-open class="sidebar-item-with-arrow">
+                                                <h3>{{nestedTitle}}</h3>
+                                                <amp-img
+                                                        src="./img/icons/right-arrow.svg"
+                                                        height="10"
+                                                        width="10"
+                                                        layout="fixed"
+                                                        alt="right arrow"
+                                                        noloading=""
+                                                        class="sidebar-arrow"
+                                                >
+                                                    <div placeholder=""></div>
+                                                </amp-img>
+                                            </div>
+                                        {{/double}}
+                                        {{#nestedHtml}}
+                                        <a href="{{nestedHtml}}.html" class="sidebar-anchor">{{nestedTitle}}</a>
+                                        {{/nestedHtml}}
+                                        {{#nestedHref}}
+                                        <a href="{{nestedHref}}" class="sidebar-anchor" target="_blank"
+                                           rel="noreferrer">{{nestedTitle}}</a>
+                                        {{/nestedHref}}
+
+                                        {{#double}}
+                                        <div amp-nested-submenu>
+                                            <div class="sidebar-container-header">
+                                                <div amp-nested-submenu-close class="sidebar-button">
+                                                    <amp-img
+                                                            src="./img/icons/left-arrow.svg"
+                                                            height="20"
+                                                            width="20"
+                                                            layout="fixed"
+                                                            alt="right arrow"
+                                                            noloading=""
+                                                            class="sidebar-arrow"
+                                                    >
+                                                        <div placeholder=""></div>
+                                                    </amp-img>
+                                                </div>
+                                                <div
+                                                        role="button"
+                                                        aria-label="close sidebar"
+                                                        on="tap:header-sidebar.toggle"
+                                                        tabindex="0"
+                                                        class="sidebar-button"
+                                                >
+                                                    ✕
+                                                </div>
+                                            </div>
+<!--                                            <button amp-nested-submenu-close>back</button>-->
+                                            <ul>
+                                                {{#doubleNested}}
+                                                <li>
+                                                    <h3 on="tap:{{doubleNestedAnchor}},header-sidebar.toggle"
+                                                        role="button"
+                                                        tabindex="0"
+                                                    >
+                                                        {{doubleNestedTitle}}
+                                                    </h3>
+                                                </li>
+                                                {{/doubleNested}}
+                                            </ul>
+                                        </div>
+                                        {{/double}}
+                                    </li>
+                                    {{/nestedItems}}
+                                </ul>
+                            </div>
+                            {{/nested}}
+                        </li>
+                        {{/items}}
+                    </ul>
+                    <!--                    <div style="padding-right: 1rem" class="sidebar-container-footer">-->
+                    <!--                        <h3 class="h7 block follow-us">Follow Us</h3>-->
+                    <!--                        %%include('../partials/social.html')-->
+                    <!--                    </div>-->
+                </amp-nested-menu>
+            </template>
+        </amp-list>
+
+
+
+</amp-sidebar>

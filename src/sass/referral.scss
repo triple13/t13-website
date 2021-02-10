@@ -1,0 +1,9 @@
+@import 'mixins';
+
+.referral-stats {
+  flex-direction: column;
+
+  @include desktop {
+    flex-direction: row;
+  }
+}

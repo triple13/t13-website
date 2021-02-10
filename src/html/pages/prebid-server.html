@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    %%include('../partials/head.html', {
+    "pageType": "amp-monetization"
+    })
+</head>
+<body>
+%%include('../partials/cmp.html')
+%%include('../partials/analytics.html')
+
+%%include('../partials/nav.html')
+%%include('../partials/sidebar.html')
+
+<main class="flex flex-column col-12 items-center">
+    <section class="m2 max-width-4">
+        <div class="flex flex-wrap justify-center">
+            <div class="lg-col-6 sm-col-12">
+                <h1 class="line-height-4 heads dark-gray lg-h2 sm-h3">
+                    Prebid Server
+                </h1>
+                <p class="line-height-3 desc light-gray">
+                    Speed is the new currency. This is why we work with Prebid, an open source solution, providing
+                    speed and scale to any demand partner that wants to work with us. It’s a server-to-server
+                    solution that works seamlessly with other demand sources.
+                </p>
+
+                <p class="line-height-3 desc light-gray">
+                    We do the heavy lifting, so you get fast, seamless auctions at scale. In summary, we provide
+                    super fast end-to-end header bidding software capable of handling diverse bid types and levels
+                    of latency between bidder servers and the auctioneer server for large numbers of bids.
+                </p>
+
+                <p class="line-height-3 desc light-gray">
+                    We are fully TCF 2.0 compliant and hosted with GCP this allows us guarantee 99.99% uptime. We
+                    can handle all multi-format ads, whether its display (Web or AMP) or Native ads including Apps
+                    and Video.
+                </p>
+            </div>
+            <div class="lg-col-6 sm-col-12 lightbox-img self-center">
+                <amp-img
+                        src="./img/page/amp_monetization.svg"
+                        height="500"
+                        width="700"
+                        layout="responsive"
+                        alt="mobile chat"
+                        noloading=""
+                >
+                    <div placeholder="" class="commerce-loader"></div>
+                </amp-img>
+            </div>
+        </div>
+    </section>
+</main>
+%%include('../partials/footer.html')
+
+</body>
+</html>
