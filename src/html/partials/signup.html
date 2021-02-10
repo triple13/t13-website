@@ -52,27 +52,33 @@
     </div>
 </amp-script>
 <script id="fetch-script" type="text/plain" target="amp-script">
-const element = document.getElementById("mc_embed_signup")
-const button = document.getElementById("sign-up-close")
-setTimeout(function() {
-    element.className = 'sign-up-open';
-}, 1000)
+const element = document.getElementById('mc_embed_signup');
+const button = document.getElementById('sign-up-close');
+const signedUp = localStorage.getItem('t13-signed-up');
+
+if (signedUp !== 'true') {
+    setTimeout(function () {
+        element.className = 'sign-up-open';
+    }, 1000);
+}
 
 button.addEventListener('click', function () {
     element.className = 'sign-up-close';
-})
+});
 
 const form = document.getElementById('mc-embedded-subscribe-form');
 
 function logSubmit(event) {
-  console.log(event, 'submitted');
-  event.preventDefault();
+    console.log(event, 'submitted');
+    event.preventDefault();
+    localStorage.setItem('t13-signed-up', 'true');
 
-  setTimeout(function() {
-    element.className = 'sign-up-close';
-  }, 500)
+    setTimeout(function () {
+        element.className = 'sign-up-close';
+    }, 500);
 }
 
 form.addEventListener('submit', logSubmit);
+
 </script>
 
