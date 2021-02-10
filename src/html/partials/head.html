@@ -1,8 +1,6 @@
 <meta charset="utf-8"/>
-<title>AMP Monetization & Advertising Technology Specialists | Triple13</title>
 <link rel="canonical" href="Canonical"/>
 <meta name="viewport" content="width=device-width"/>
-<meta name="description" content="Triple13 specializes in AMP-based monetization technology, and works with publishers and agencies to implement AMP-based monetization solutions"/>
 <script async src="https://cdn.ampproject.org/v0.js"></script>
 <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
 <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
@@ -18,9 +16,6 @@
     %%include('../../css/custom.css')
     %%include('../../css/normalize.css')
     %%include('../../css/global.css')
-    %%include('../../css/sidebar.css')
-    %%include('../../css/contact_us.css')
-
 
 
     %%if (context.pageType == 'faq') {
@@ -41,6 +36,35 @@
 
     %%if (context.pageType == 'index') {
         %%include('../../css/index.css')
+        %%include('../../css/signup.css')
+    }
+
+    %%if (context.pageType == 'amp-monetization') {
+    %%include('../../css/amp-monetization.css')
+    }
+
+    %%if (context.pageType == 'bidder') {
+    %%include('../../css/bidder.css')
+    }
+
+    %%if (context.pageType == 'leya') {
+    %%include('../../css/leya.css')
+    }
+
+    %%if (context.pageType == 'floors') {
+    %%include('../../css/floors.css')
+    }
+
+    %%if (context.pageType == 'prebid-server') {
+    %%include('../../css/prebid-server.css')
+    }
+
+    %%if (context.pageType == 'software-engineering') {
+    %%include('../../css/software-engineering.css')
+    }
+
+    %%if (context.pageType == 'contact-us') {
+    %%include('../../css/contact-us.css')
     }
 
     %%if (context.pageType == 'amp-monetization') {
