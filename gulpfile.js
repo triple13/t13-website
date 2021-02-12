@@ -18,7 +18,10 @@ const AmpOptimizer = require('@ampproject/toolbox-optimizer');
 const log = require('fancy-log')
 const tap = require('gulp-tap')
 
-const ampOptimizer = AmpOptimizer.create();
+const ampOptimizer = AmpOptimizer.create({
+    minify: false,
+    // transformations: customTransformations,
+});
 
 // Build type is configurable such that some options can be changed e.g. whether
 // to minimise CSS. Usage 'gulp <task> --env development'.
@@ -95,7 +98,7 @@ gulp.task('images', function buildImages() {
 /**
  * Copies the assets files to the distribution.
  */
-gulp.task('assets', function buildImages() {
+gulp.task('assets', function buildAssets() {
     return gulp.src(paths.assets.src)
         .pipe(gulp.dest(paths.assets.dest));
 });
@@ -104,7 +107,7 @@ gulp.task('assets', function buildImages() {
 /**
  * Copies the lib files to the distribution.
  */
-gulp.task('lib', function buildImages() {
+gulp.task('lib', function buildLib() {
     return gulp.src(paths.lib.src)
         .pipe(gulp.dest(paths.lib.dest));
 });
@@ -126,29 +129,51 @@ gulp.task('html', gulp.series('styles', function buildHtml() {
             basepath: '@file'
         }))
         .pipe(through2.obj(async (file, _, cb) => {
+            console.log('file', file.path)
             if (file.isBuffer()) {
-                const optimizedHtml = await ampOptimizer.transformHtml(file.contents.toString())
+                const regex = /[^/]+$/
+                let href = 'index.html'
+                let optimizedHtml
+                if (regex.test(file.path) && file.path.match(regex) && file.path.match(regex).length) {
+                    href = file.path.match(regex)[0]
+                    optimizedHtml = await ampOptimizer.transformHtml(file.contents.toString(), {
+                        canonical: `https://www.triple13.io/${href}`,
+                    })
+                }
+                
                 file.contents = Buffer.from(optimizedHtml)
             }
             cb(null, file);
         }))
         .pipe(tap(function(file) {
-        
-            const regex = /[^/]+$/
-            let href = 'index.html'
-            if (regex.test(file.path) && file.path.match(regex) && file.path.match(regex).length) {
-                href = file.path.match(regex)[0]
-            }
+            
             // get current contents
             let contents = file.contents.toString();
-        
+            
             // do your conditional processing
             // eg deal with each tag in a loop & only change those without the attribute
-            contents = contents.replace(/href="Canonical"/, `href="https://www.triple13.io/${href}"`);
-        
+            contents = contents.replace(/&quot;/gm, "'");
+            
             // set new contents to flow through the gulp stream
             file.contents = Buffer.from(contents)
         }))
+        // .pipe(tap(function(file) {
+        //
+        //     const regex = /[^/]+$/
+        //     let href = 'index.html'
+        //     if (regex.test(file.path) && file.path.match(regex) && file.path.match(regex).length) {
+        //         href = file.path.match(regex)[0]
+        //     }
+        //     // get current contents
+        //     let contents = file.contents.toString();
+        //
+        //     // do your conditional processing
+        //     // eg deal with each tag in a loop & only change those without the attribute
+        //     contents = contents.replace(/href="Canonical"/, `href="https://www.triple13.io/${href}"`);
+        //
+        //     // set new contents to flow through the gulp stream
+        //     file.contents = Buffer.from(contents)
+        // }))
         .pipe(gulp.dest(paths.html.dest));
 }));
 
