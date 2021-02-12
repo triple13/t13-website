@@ -1,86 +1,26 @@
-<amp-consent id="quantcast" layout="nodisplay">
+<amp-consent id='consent' layout='nodisplay' >
     <script type="application/json">
         {
-            "consentInstanceId": "quantcast",
-            "checkConsentHref": "https://apis.quantcast.mgr.consensu.org/amp/check-consent",
             "consentRequired": "remote",
-            "promptUISrc": "https://quantcast.mgr.consensu.org/tcfv2/amp.html",
+            "consentInstanceId": "SourcePoint",
+            "checkConsentHref": "https://cdn.privacy-mgmt.com/wrapper/tcfv2/v1/amp",
+            "promptUISrc": "https://t13cmp.triple13.io?authId=CLIENT_ID",
+            "postPromptUI": "consent-ui",
             "clientConfig": {
-                "coreUiLabels": {},
-                "theme": {},
-                "coreConfig": {
-                    "quantcastAccountId": "SbtDyS4yjPaRj",
-                    "privacyMode": [
-                        "GDPR"
-                    ],
-                    "hashCode": "YrVLPdQa1s1wNWmUEf+/jA",
-                    "publisherCountryCode": "GB",
-                    "publisherName": "Triple13",
-                    "vendorPurposeIds": [
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        10
-                    ],
-                    "vendorFeaturesIds": [
-                        1,
-                        2,
-                        3
-                    ],
-                    "vendorPurposeLegitimateInterestIds": [
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        10
-                    ],
-                    "vendorSpecialFeaturesIds": [
-                        1,
-                        2
-                    ],
-                    "vendorSpecialPurposesIds": [
-                        1,
-                        2
-                    ],
-                    "googleEnabled": true,
-                    "lang_": "en",
-                    "displayUi": "always",
-                    "publisherConsentRestrictionIds": [],
-                    "publisherLIRestrictionIds": [],
-                    "publisherPurposeIds": [
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        10
-                    ],
-                    "publisherPurposeLegitimateInterestIds": [],
-                    "publisherSpecialPurposesIds": [],
-                    "publisherFeaturesIds": [],
-                    "publisherSpecialFeaturesIds": [],
-                    "stacks": [
-                        1,
-                        42
-                    ],
-                    "vendorListUpdateFreq": 30
+                "accountId": 1638,
+                "mmsDomain": "https://t13cmp.triple13.io",
+                "propertyHref": "https://amp.property.tcfv2",
+                "propertyId": 15171,
+                "privacyManagerId": 426503,
+                "isTCFV2": true,
+                "pmTab": "purposes",
+                "stageCampaign": false,
+                "targetingParams": {
+                    "color": "red"
                 }
             }
         }
-    </script>
-
+    </script><div id="consent-ui">
+    <button on="tap:consent.prompt(consent=SourcePoint)">Privacy Settings</button>
+</div>
 </amp-consent>
