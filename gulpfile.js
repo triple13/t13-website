@@ -69,7 +69,7 @@ const paths = {
 
 gulp.task('styles', function buildStyles() {
     const cssEncodingDirective = '@charset "UTF-8";';
-    
+
     return gulp.src(paths.css.src)
         .pipe(plumber())
         .pipe(sass(options.env === 'dist' ? { outputStyle: 'compressed' } : {}))
@@ -121,7 +121,7 @@ gulp.task('lib', function buildLib() {
  */
 gulp.task('html', gulp.series('styles', function buildHtml() {
     const pageFilter = filter(['**/pages/*.html']);
-    
+
     return gulp.src(paths.html.src)
         .pipe(pageFilter)
         .pipe(fileinclude({
@@ -140,23 +140,23 @@ gulp.task('html', gulp.series('styles', function buildHtml() {
                         canonical: `https://www.triple13.io/${href}`,
                     })
                 }
-                
+
                 file.contents = Buffer.from(optimizedHtml)
             }
             cb(null, file);
         }))
-        .pipe(tap(function(file) {
-            
-            // get current contents
-            let contents = file.contents.toString();
-            
-            // do your conditional processing
-            // eg deal with each tag in a loop & only change those without the attribute
-            contents = contents.replace(/&quot;/gm, "'");
-            
-            // set new contents to flow through the gulp stream
-            file.contents = Buffer.from(contents)
-        }))
+        // .pipe(tap(function(file) {
+        //
+        //     // get current contents
+        //     let contents = file.contents.toString();
+        //
+        //     // do your conditional processing
+        //     // eg deal with each tag in a loop & only change those without the attribute
+        //     contents = contents.replace(/&quot;/gm, "'");
+        //
+        //     // set new contents to flow through the gulp stream
+        //     file.contents = Buffer.from(contents)
+        // }))
         // .pipe(tap(function(file) {
         //
         //     const regex = /[^/]+$/
