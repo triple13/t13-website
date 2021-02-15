@@ -1,37 +1,87 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
-        <loc>https://triple13.io/</loc>
-        <lastmod>2021-02-08T15:49:38+00:00</lastmod>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>https://triple13.io/index.html</loc>
-        <lastmod>2021-02-08T15:49:38+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://triple13.io/faq.html</loc>
-        <lastmod>2021-02-08T15:49:38+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://triple13.io/careers.html</loc>
-        <lastmod>2021-02-08T15:49:38+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://triple13.io/charities.html</loc>
-        <lastmod>2021-02-08T15:49:38+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://triple13.io/privacy-policy.html</loc>
-        <lastmod>2021-02-08T15:49:38+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://triple13.io/terms-and-conditions.html</loc>
-        <lastmod>2021-02-08T15:49:38+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.triple13.io/</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/index.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/amp-monetization.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/software-engineering.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/prebid-server.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/bidder.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/floors.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/leya.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/test-page.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/faq.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/careers.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/charities.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/contact-us.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/privacy-policy.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.triple13.io/terms-and-conditions.html</loc>
+  <lastmod>2021-02-12T16:47:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
