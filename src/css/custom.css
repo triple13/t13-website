@@ -1464,10 +1464,10 @@ div.dropdown-content :hover ul{
     display: block;
 }
 
-.amp-geo-pending, .amp-geo-group-eea .ccpa-consent-reprompt {
+.amp-geo-pending .ccpa-consent-reprompt, .amp-geo-group-eea .ccpa-consent-reprompt {
     display: none
 }
 
-.amp-geo-pending, .amp-geo-group-ccpa .eea-consent-reprompt {
+.amp-geo-pending .eea-consent-reprompt, .amp-geo-group-ccpa .eea-consent-reprompt {
     display: none
 }
