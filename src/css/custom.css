@@ -1755,18 +1755,31 @@ div.dropdown-content :hover ul {
     display: block;
 }
 
-.eea {
-    display: none
+/*.amp-geo-pending, .foo .bar {*/
+/*    display: none;*/
+/*}*/
+
+/*.amp-geo-pending,*/
+/*.amp-geo-group-ccpa .foo {*/
+/*    display: block;*/
+/*}*/
+
+/*.amp-geo-pending,*/
+/*.amp-geo-group-eea .bar {*/
+/*    display: block;*/
+/*}*/
+
+.consent-eea {
+    display:none
+}
+.consent-ccpa{
+    display:none
 }
 
-.ccpa {
-    display: none
+.amp-geo-group-eea .consent-eea {
+    display:block
 }
 
-.amp-geo-pending .ccpa, .amp-geo-group-ccpa .ccpa {
-    display: block;
-}
-
-.amp-geo-pending .eea, .amp-geo-group-eea .eea {
-    display: block;
+.amp-geo-group-ccpa .consent-ccpa {
+    display:block
 }
