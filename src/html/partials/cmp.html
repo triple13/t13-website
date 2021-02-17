@@ -1,26 +1,60 @@
-<amp-consent id='consent' layout='nodisplay' >
+<amp-geo layout="nodisplay">
     <script type="application/json">
         {
-            "consentRequired": "remote",
-            "consentInstanceId": "SourcePoint",
-            "checkConsentHref": "https://cdn.privacy-mgmt.com/wrapper/tcfv2/v1/amp",
-            "promptUISrc": "https://t13cmp.triple13.io/amp/index.html?authId=CLIENT_ID",
-            "postPromptUI": "consent-ui",
-            "clientConfig": {
-                "accountId": 1638,
-                "mmsDomain": "https://t13cmp.triple13.io",
-                "propertyHref": "https://amp.triple13.io",
-                "propertyId": 15171,
-                "privacyManagerId": 426503,
-                "isTCFV2": true,
-                "pmTab": "purposes",
-                "stageCampaign": false,
-                "targetingParams": {
-                    "color": "red"
+            "ISOCountryGroups": {
+                "eea": [
+                    "preset-eea",
+                    "unknown"
+                ],
+                "ccpa": [
+                    "preset-us-ca"
+                ]
+            }
+        }
+    </script>
+</amp-geo>
+<amp-consent id='consent' layout='nodisplay' type='SourcePoint'>
+    <script type="application/json">
+        {
+            "consentInstanceId": "sourcepoint",
+            "consentRequired": false,
+            "geoOverride": {
+                "ccpa": {
+                    "consentRequired": "remote",
+                    "checkConsentHref": "https://t13cmp.triple13.io/ccpa/consent/amp",
+                    "promptUISrc": "https://t13cmp.triple13.io/amp/index.html?authId=CLIENT_ID",
+                    "postPromptUI": "ccpa-consent-ui",
+                    "clientConfig": {
+                        "accountId": 1638,
+                        "siteHref": "https://ccpa.amp.triple13.io",
+                        "siteId": 15870,
+                        "isCCPA": true,
+                        "stageCampaign": false,
+                        "privacyManagerId": "6022b85a892e762cb08504d0",
+                        "getDnsMsgMms": true,
+                        "alwaysDisplayDns": false,
+                        "showNoticeUntilAction": true
+                    }
+                },
+                "eea": {
+                    "consentRequired": "remote",
+                    "checkConsentHref": "https://t13cmp.triple13.io/wrapper/tcfv2/v1/amp",
+                    "promptUISrc": "https://t13cmp.triple13.io/amp/index.html?authId=CLIENT_ID",
+                    "postPromptUI": "eea-consent-ui",
+                    "clientConfig": {
+                        "accountId": 1638,
+                        "mmsDomain": "https://t13cmp.triple13.io",
+                        "propertyHref": "https://amp.triple13.io",
+                        "propertyId": 15171,
+                        "privacyManagerId": 426503,
+                        "isTCFV2": true,
+                        "pmTab": "purposes",
+                        "stageCampaign": false
+                    }
                 }
             }
         }
-    </script><div id="consent-ui">
-    <button on="tap:consent.prompt(consent=SourcePoint)">Privacy Settings</button>
-</div>
+    </script>
+</amp-consent>
+</script>
 </amp-consent>
