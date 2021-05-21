@@ -151,4 +151,88 @@
       "domain": "outmatch.org",
       "seller_id": "032",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Business Data Group Ltd",
+      "domain": "bdgroup.co.uk",
+      "seller_id": "033",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "British Forces Broadcasting Service",
+      "domain": "bfbs.com",
+      "seller_id": "034",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": " Talk Basket  ",
+      "domain": "talkbasket.net",
+      "seller_id": "035",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "925 LLC",
+      "domain": "9to5mac.com",
+      "seller_id": "036",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Brave Bison",
+      "domain": "bravebison.io",
+      "seller_id": "037",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Do You Remember? Inc",
+      "domain": "doyouremember.com",
+      "seller_id": "038",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Newser LLC ",
+      "domain": "newser.com",
+      "seller_id": "039",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Uqnic Network Pte Ltd",
+      "domain": "maketecheasier.com",
+      "seller_id": "040",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Publisher First Inc (Freestar)",
+      "domain": "freestar.com",
+      "seller_id": "041",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Valnet Inc",
+      "domain": "valnetinc.com",
+      "seller_id": "042",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "VentureBeat Inc ",
+      "domain": "venturebeat.com",
+      "seller_id": "043",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "4Control Media Inc",
+      "domain": "sohh.com",
+      "seller_id": "044",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "SamMobile BV",
+      "domain": "sammobile.com",
+      "seller_id": "045",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "What Culture Ltd",
+      "domain": "whatculture.com",
+      "seller_id": "046",
+      "seller_type": "PUBLISHER"
     }]}
