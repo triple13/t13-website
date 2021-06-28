@@ -3447,7 +3447,7 @@ section:not([expanded])>h2>.show-less {
 
 .blog-content {
 	color: #7e7e7e;
-	padding-top: 1.2rem;
+	padding-top: 3rem;
 }
 
 .color {
@@ -3462,17 +3462,10 @@ section:not([expanded])>h2>.show-less {
 	width: 80%;
 	position: absolute;
 	bottom: -8%;
-	margin: 0 9%;
 	-webkit-box-shadow: 0px 4px 6px 0px #7e7e7e;
 	box-shadow: 0px 4px 6px 0px #7e7e7e;
+	margin-left: 8%;
 	text-align: center;
-}
-
-@media only screen and (max-width: 400px) {
-	.img-text-box {
-		margin: 0 0 0 8%,;
-		bottom: -21%
-	}
 }
 
 .carousel {
@@ -3505,8 +3498,9 @@ section:not([expanded])>h2>.show-less {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
-	-ms-flex-pack: distribute;
-	justify-content: space-around;
+	-webkit-box-pack: start;
+	-ms-flex-pack: start;
+	justify-content: flex-start;
 }
 
 .contact-textfield-b {
@@ -3553,7 +3547,6 @@ section:not([expanded])>h2>.show-less {
 	align-items: center;
 	vertical-align: bottom;
 	align-items: center;
-	padding-top: 2rem;
 }
 
 .contact-submit-b>input {
@@ -3588,14 +3581,6 @@ section:not([expanded])>h2>.show-less {
 #contact-form {
 	width: 630px;
 	height: 500px;
-}
-
-}
-
-@media only screen and (max-width: 400px) {
-
-.img-text-box {
-	margin: 0 0 0 8%;
 }
 
 }
