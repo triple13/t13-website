@@ -1,0 +1,329 @@
+<!DOCTYPE html> 
+<html lang="en">
+	
+<head>
+	
+<!-- SourcePoint CMP Scripts -->
+
+	<script type="text/javascript">
+	//GDPR Stub file
+	    !function () { var e = function () { var e, t = "__tcfapiLocator", a = [], n = window; for (; n;) { try { if (n.frames[t]) { e = n; break } } catch (e) { } if (n === window.top) break; n = n.parent } e || (!function e() { var a = n.document, r = !!n.frames[t]; if (!r) if (a.body) { var i = a.createElement("iframe"); i.style.cssText = "display:none", i.name = t, a.body.appendChild(i) } else setTimeout(e, 5); return !r }(), n.__tcfapi = function () { for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++)n[r] = arguments[r]; if (!n.length) return a; if ("setGdprApplies" === n[0]) n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)); else if ("ping" === n[0]) { var i = { gdprApplies: e, cmpLoaded: !1, cmpStatus: "stub" }; "function" == typeof n[2] && n[2](i) } else a.push(n) }, n.addEventListener("message", (function (e) { var t = "string" == typeof e.data, a = {}; try { a = t ? JSON.parse(e.data) : e.data } catch (e) { } var n = a.__tcfapiCall; n && window.__tcfapi(n.command, n.version, (function (a, r) { var i = { __tcfapiReturn: { returnValue: a, success: r, callId: n.callId } }; t && (i = JSON.stringify(i)), e.source.postMessage(i, "*") }), n.parameter) }), !1)) }; "undefined" != typeof module ? module.exports = e : e() }();
+	</script>
+	
+	<script type="text/javascript">
+	//CCPA Stub file
+	      (function () { var e = false; var c = window; var t = document; function r() { if (!c.frames["__uspapiLocator"]) { if (t.body) { var a = t.body; var e = t.createElement("iframe"); e.style.cssText = "display:none"; e.name = "__uspapiLocator"; a.appendChild(e) } else { setTimeout(r, 5) } } } r(); function p() { var a = arguments; __uspapi.a = __uspapi.a || []; if (!a.length) { return __uspapi.a } else if (a[0] === "ping") { a[2]({ gdprAppliesGlobally: e, cmpLoaded: false }, true) } else { __uspapi.a.push([].slice.apply(a)) } } function l(t) { var r = typeof t.data === "string"; try { var a = r ? JSON.parse(t.data) : t.data; if (a.__cmpCall) { var n = a.__cmpCall; c.__uspapi(n.command, n.parameter, function (a, e) { var c = { __cmpReturn: { returnValue: a, success: e, callId: n.callId } }; t.source.postMessage(r ? JSON.stringify(c) : c, "*") }) } } catch (a) { } } if (typeof __uspapi !== "function") { c.__uspapi = p; __uspapi.msgHandler = l; c.addEventListener("message", l, false) } })();
+	</script>
+	
+	<script  type="text/javascript">
+	window._sp_ = {
+	      config: {
+	          accountId: 1709,
+	          baseEndpoint: 'https://consent.seaangler.co.uk',
+	          targetingParams: {
+	            type: "GDPR"
+	         }
+	      }
+	}
+	window._sp_ccpa = {
+	   config: {
+	         baseEndpoint: 'https://consent.seaangler.co.uk',
+	         accountId: 1709,
+	         getDnsMsgMms: true,
+	         alwaysDisplayDns: false,
+	         targetingParams: {
+	         type: "CCPA"
+	         }
+	   }
+	}
+	</script>
+	<script src="https://consent.seaangler.co.uk/wrapperMessagingWithoutDetection.js"></script>
+	<script src="https://consent.seaangler.co.uk/ccpa.js"></script>
+
+<!-- End SourcePoint CMP Scripts -->	
+
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	
+	
+<script>
+window.bidderClientConfig = {
+	targets: {
+		"PostID": "5",
+		"page_title": "Home",
+		"post_category": "",
+		"post_tags": "",
+		"page_type": "Page",	
+		"search_term": "",				
+	}
+};	
+</script>
+
+<script type="text/javascript" src="https://cdn.bidder.dev/clients/21629481216/SeaAngler/script.js"></script>
+
+<script type="text/javascript" src="https://s.skimresources.com/js/119874X1638721.skimlinks.js"></script>
+
+<meta name="fo-verify" content="095beaec-be23-4e06-8614-9d73ea8b7eec">
+
+<!-- Taboola -->
+<!-- End Taboola -->
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLFWDKN');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11859750-38"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-11859750-38');
+</script>
+ 
+<!-- End Google Analytics -->
+		
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v16.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.seaangler.co.uk/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home | SeaAngler" />
+	<meta property="og:url" content="https://www.seaangler.co.uk/" />
+	<meta property="og:site_name" content="SeaAngler" />
+	<meta property="article:modified_time" content="2021-07-08T10:40:57+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.seaangler.co.uk/#website","url":"https://www.seaangler.co.uk/","name":"SeaAngler","description":"SeaAngler","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.seaangler.co.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"WebPage","@id":"https://www.seaangler.co.uk/#webpage","url":"https://www.seaangler.co.uk/","name":"Home | SeaAngler","isPartOf":{"@id":"https://www.seaangler.co.uk/#website"},"datePublished":"2021-03-07T10:13:03+00:00","dateModified":"2021-07-08T10:40:57+00:00","breadcrumb":{"@id":"https://www.seaangler.co.uk/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.seaangler.co.uk/"]}]},{"@type":"BreadcrumbList","@id":"https://www.seaangler.co.uk/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.seaangler.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.seaangler.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-slider-css'  href='//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='https://www.seaangler.co.uk/wp-content/themes/kelsey-media/style.css?ver=5.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.seaangler.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.seaangler.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js?ver=5.7.2' id='scroll-magic-js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js?ver=5.7.2' id='scroll-magic-tween-max-js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.6/plugins/animation.gsap.js?ver=5.7.2' id='scroll-magic-gsap-js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js?ver=5.7.2' id='magnific-popup-js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js?ver=5.7.2' id='slick-slider-js'></script>
+<script type='text/javascript' src='https://www.seaangler.co.uk/wp-content/themes/kelsey-media/assets/js/javascript.js?ver=5.7.2' id='theme-js-js'></script>
+<script type='text/javascript' src='https://www.seaangler.co.uk/wp-content/themes/kelsey-media/assets/forms/js/jquery.customSelect.js?ver=5.7.2' id='custom-selects-js'></script>
+<link rel="https://api.w.org/" href="https://www.seaangler.co.uk/wp-json/" /><link rel="alternate" type="application/json" href="https://www.seaangler.co.uk/wp-json/wp/v2/pages/5" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.seaangler.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.seaangler.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<link rel='shortlink' href='https://www.seaangler.co.uk/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.seaangler.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seaangler.co.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.seaangler.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.seaangler.co.uk%2F&#038;format=xml" />
+<script data-cfasync="false" type="text/javascript">var Arrive=function(d,e,w){"use strict";if(d.MutationObserver&&"undefined"!=typeof HTMLElement){var a,t,r=0,c=(a=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&a.call(e,t)},addMethod:function(e,t,a){var r=e[t];e[t]=function(){return a.length==arguments.length?a.apply(this,arguments):"function"==typeof r?r.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var a,r=0;a=e[r];r++)a&&a.callback&&a.callback.call(a.elem,a.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,a,r){for(var i,n=0;i=e[n];n++)a(i,t,r)&&r.push({callback:t.callback,elem:i}),0<i.childNodes.length&&c.checkChildNodesRecursively(i.childNodes,t,a,r)},mergeArrays:function(e,t){var a,r={};for(a in e)e.hasOwnProperty(a)&&(r[a]=e[a]);for(a in t)t.hasOwnProperty(a)&&(r[a]=t[a]);return r},toElementsArray:function(e){return void 0===e||"number"==typeof e.length&&e!==d||(e=[e]),e}}),u=((t=function(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}).prototype.addEvent=function(e,t,a,r){var i={target:e,selector:t,options:a,callback:r,firedElems:[]};return this._beforeAdding&&this._beforeAdding(i),this._eventsBucket.push(i),i},t.prototype.removeEvent=function(e){for(var t,a=this._eventsBucket.length-1;t=this._eventsBucket[a];a--)if(e(t)){this._beforeRemoving&&this._beforeRemoving(t);var r=this._eventsBucket.splice(a,1);r&&r.length&&(r[0].callback=null)}},t.prototype.beforeAdding=function(e){this._beforeAdding=e},t.prototype.beforeRemoving=function(e){this._beforeRemoving=e},t),l=function(i,n){var l=new u,o=this,s={fireOnAttributesModification:!1};return l.beforeAdding(function(t){var e,a=t.target;a!==d.document&&a!==d||(a=document.getElementsByTagName("html")[0]),e=new MutationObserver(function(e){n.call(this,e,t)});var r=i(t.options);e.observe(a,r),t.observer=e,t.me=o}),l.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,a){t=c.mergeArrays(s,t);for(var r=c.toElementsArray(this),i=0;i<r.length;i++)l.addEvent(r[i],e,t,a)},this.unbindEvent=function(){var a=c.toElementsArray(this);l.removeEvent(function(e){for(var t=0;t<a.length;t++)if(this===w||e.target===a[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(a){var e,r=c.toElementsArray(this),i=a;e="function"==typeof a?function(e){for(var t=0;t<r.length;t++)if((this===w||e.target===r[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<r.length;t++)if((this===w||e.target===r[t])&&e.selector===a)return!0;return!1},l.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(a,r){var i=c.toElementsArray(this);l.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===w||e.target===i[t])&&e.selector===a&&e.callback===r)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,a){return!(!c.matchesSelector(e,t.selector)||(e._id===w&&(e._id=r++),-1!=t.firedElems.indexOf(e._id))||(t.firedElems.push(e._id),0))}var d=(i=new l(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,a=e.target,r=[];null!==t&&0<t.length?c.checkChildNodesRecursively(t,i,n,r):"attributes"===e.type&&n(a,i)&&r.push({callback:i.callback,elem:a}),c.callCallbacks(r,i)})})).bindEvent;return i.bindEvent=function(e,t,a){t=void 0===a?(a=t,s):c.mergeArrays(s,t);var r=c.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<r.length;n++)for(var l=r[n].querySelectorAll(e),o=0;o<l.length;o++)i.push({callback:a,elem:l[o]});if(t.onceOnly&&i.length)return a.call(i[0].elem,i[0].elem);setTimeout(c.callCallbacks,1,i)}d.call(this,e,t,a)},i},o=new function(){var r={};function i(e,t){return c.matchesSelector(e,t.selector)}var n=(o=new l(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,a=[];null!==t&&0<t.length&&c.checkChildNodesRecursively(t,r,i,a),c.callCallbacks(a,r)})})).bindEvent;return o.bindEvent=function(e,t,a){t=void 0===a?(a=t,r):c.mergeArrays(r,t),n.call(this,e,t,a)},o};e&&g(e.fn),g(HTMLElement.prototype),g(NodeList.prototype),g(HTMLCollection.prototype),g(HTMLDocument.prototype),g(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function s(e,t,a){c.addMethod(t,a,e.unbindEvent),c.addMethod(t,a,e.unbindEventWithSelectorOrCallback),c.addMethod(t,a,e.unbindEventWithSelectorAndCallback)}function g(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,"undefined"==typeof jQuery?null:jQuery,void 0),ewww_webp_supported=!1;function check_webp_feature(e,t){if(ewww_webp_supported)t(ewww_webp_supported);else{var a=new Image;a.onload=function(){ewww_webp_supported=0<a.width&&0<a.height,t(ewww_webp_supported)},a.onerror=function(){t(!1)},a.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e]}}function ewwwLoadImages(e){var n="data-";function t(e,t){for(var a=["accesskey","align","alt","border","class","contenteditable","contextmenu","crossorigin","dir","draggable","dropzone","height","hidden","hspace","id","ismap","lang","longdesc","sizes","spellcheck","style","tabindex","title","translate","usemap","vspace","width","data-animation","data-attachment-id","data-auto-height","data-caption","data-comments-opened","data-delay","data-event-trigger","data-flex_fx","data-height","data-hide-on-end","data-highlight-color","data-highlight-border-color","data-highlight-border-opacity","data-highlight-border-width","data-highlight-opacity","data-image-meta","data-image-title","data-image-description","data-interval","data-large_image_width","data-large_image_height","data-lazy","data-lazy-type","data-mode","data-name","data-no-lazy","data-orig-size","data-partial","data-per-view","data-permalink","data-pin-description","data-pin-id","data-pin-media","data-pin-url","data-rel","data-ride","data-shadow","data-shadow-direction","data-slide","data-slide-to","data-target","data-vc-zoom","data-width","data-wrap"],r=0,i=a.length;r<i;r++)ewwwAttr(t,a[r],e.getAttribute(n+a[r]));return t}if(e){for(var a=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,i=a.length;r<i;r++)ewwwAttr(a[r],"data-src",a[r].getAttribute("data-webp")),ewwwAttr(a[r],"data-thumbnail",a[r].getAttribute("data-webp-thumbnail"));for(r=0,i=(o=document.querySelectorAll(".rev_slider ul li")).length;r<i;r++){ewwwAttr(o[r],"data-thumb",o[r].getAttribute("data-webp-thumb"));for(var l=1;l<11;)ewwwAttr(o[r],"data-param"+l,o[r].getAttribute("data-webp-param"+l)),l++}var o;for(r=0,i=(o=document.querySelectorAll(".rev_slider img")).length;r<i;r++)ewwwAttr(o[r],"data-lazyload",o[r].getAttribute("data-webp-lazyload"));var s=document.querySelectorAll("div.woocommerce-product-gallery__image");for(r=0,i=s.length;r<i;r++)ewwwAttr(s[r],"data-thumb",s[r].getAttribute("data-webp-thumb"))}var d=document.querySelectorAll("video");for(r=0,i=d.length;r<i;r++)ewwwAttr(d[r],"poster",e?d[r].getAttribute("data-poster-webp"):d[r].getAttribute("data-poster-image"));var w=document.querySelectorAll("img.ewww_webp_lazy_load");for(r=0,i=w.length;r<i;r++){if(e){ewwwAttr(w[r],"data-lazy-srcset",w[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(w[r],"data-srcset",w[r].getAttribute("data-srcset-webp")),ewwwAttr(w[r],"data-lazy-src",w[r].getAttribute("data-lazy-src-webp")),ewwwAttr(w[r],"data-src",w[r].getAttribute("data-src-webp")),ewwwAttr(w[r],"data-orig-file",w[r].getAttribute("data-webp-orig-file")),ewwwAttr(w[r],"data-medium-file",w[r].getAttribute("data-webp-medium-file")),ewwwAttr(w[r],"data-large-file",w[r].getAttribute("data-webp-large-file"));var c=w[r].getAttribute("srcset");null!=c&&!1!==c&&c.includes("R0lGOD")&&ewwwAttr(w[r],"src",w[r].getAttribute("data-lazy-src-webp"))}w[r].className=w[r].className.replace(/\bewww_webp_lazy_load\b/,"")}var u=document.querySelectorAll(".ewww_webp");for(r=0,i=u.length;r<i;r++){var g=document.createElement("img");e?(ewwwAttr(g,"src",u[r].getAttribute("data-webp")),ewwwAttr(g,"srcset",u[r].getAttribute("data-srcset-webp")),ewwwAttr(g,"data-orig-file",u[r].getAttribute("data-orig-file")),ewwwAttr(g,"data-orig-file",u[r].getAttribute("data-webp-orig-file")),ewwwAttr(g,"data-medium-file",u[r].getAttribute("data-medium-file")),ewwwAttr(g,"data-medium-file",u[r].getAttribute("data-webp-medium-file")),ewwwAttr(g,"data-large-file",u[r].getAttribute("data-large-file")),ewwwAttr(g,"data-large-file",u[r].getAttribute("data-webp-large-file")),ewwwAttr(g,"data-large_image",u[r].getAttribute("data-large_image")),ewwwAttr(g,"data-large_image",u[r].getAttribute("data-webp-large_image")),ewwwAttr(g,"data-src",u[r].getAttribute("data-src")),ewwwAttr(g,"data-src",u[r].getAttribute("data-webp-src"))):(ewwwAttr(g,"src",u[r].getAttribute("data-img")),ewwwAttr(g,"srcset",u[r].getAttribute("data-srcset-img")),ewwwAttr(g,"data-orig-file",u[r].getAttribute("data-orig-file")),ewwwAttr(g,"data-medium-file",u[r].getAttribute("data-medium-file")),ewwwAttr(g,"data-large-file",u[r].getAttribute("data-large-file")),ewwwAttr(g,"data-large_image",u[r].getAttribute("data-large_image")),ewwwAttr(g,"data-src",u[r].getAttribute("data-src"))),g=t(u[r],g),u[r].parentNode.insertBefore(g,u[r].nextSibling),u[r].className=u[r].className.replace(/\bewww_webp\b/,"")}window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)}),document.arrive("videos",function(){ewwwLoadImages(e)}),"loading"==document.readyState?document.addEventListener("DOMContentLoaded",ewwwJSONParserInit):("undefined"!=typeof galleries&&ewwwNggParseGalleries(e),ewwwWooParseVariations(e))}function ewwwAttr(e,t,a){null!=a&&!1!==a&&e.setAttribute(t,a)}function ewwwJSONParserInit(){"undefined"!=typeof galleries&&check_webp_feature("alpha",ewwwNggParseGalleries),check_webp_feature("alpha",ewwwWooParseVariations)}function ewwwWooParseVariations(e){if(e)for(var t=document.querySelectorAll("form.variations_form"),a=0,r=t.length;a<r;a++){var i=t[a].getAttribute("data-product_variations"),n=!1;try{for(var l in i=JSON.parse(i))void 0!==i[l]&&void 0!==i[l].image&&(void 0!==i[l].image.src_webp&&(i[l].image.src=i[l].image.src_webp,n=!0),void 0!==i[l].image.srcset_webp&&(i[l].image.srcset=i[l].image.srcset_webp,n=!0),void 0!==i[l].image.full_src_webp&&(i[l].image.full_src=i[l].image.full_src_webp,n=!0),void 0!==i[l].image.gallery_thumbnail_src_webp&&(i[l].image.gallery_thumbnail_src=i[l].image.gallery_thumbnail_src_webp,n=!0),void 0!==i[l].image.thumb_src_webp&&(i[l].image.thumb_src=i[l].image.thumb_src_webp,n=!0));n&&ewwwAttr(t[a],"data-product_variations",JSON.stringify(i))}catch(e){}}}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var a=galleries[t];galleries[t].images_list=ewwwNggParseImageList(a.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var a=$(e).data("id");return galleries["gallery_"+a].images_list=ewwwNggParseImageList(galleries["gallery_"+a].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var a=e[t];if(void 0!==a["image-webp"]&&(e[t].image=a["image-webp"],delete e[t]["image-webp"]),void 0!==a["thumb-webp"]&&(e[t].thumb=a["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==a.full_image_webp&&(e[t].full_image=a.full_image_webp,delete e[t].full_image_webp),void 0!==a.srcsets)for(var r in a.srcsets)nggSrcset=a.srcsets[r],void 0!==a.srcsets[r+"-webp"]&&(e[t].srcsets[r]=a.srcsets[r+"-webp"],delete e[t].srcsets[r+"-webp"]);if(void 0!==a.full_srcsets)for(var i in a.full_srcsets)nggFSrcset=a.full_srcsets[i],void 0!==a.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=a.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><link rel="icon" href="https://www.seaangler.co.uk/wp-content/uploads/cropped-favicon-3-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.seaangler.co.uk/wp-content/uploads/cropped-favicon-3-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.seaangler.co.uk/wp-content/uploads/cropped-favicon-3-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.seaangler.co.uk/wp-content/uploads/cropped-favicon-3-270x270.png" />
+   	<title>Home | SeaAngler</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+	<meta name="format-detection" content="telephone=no">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+</head>
+
+<body class="home page-template page-template-page-blocks-tpl page-template-page-blocks-tpl-php page page-id-5 front-page is_chrome" data-theme-path="https://www.seaangler.co.uk/wp-content/themes/kelsey-media">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLFWDKN"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->	
+
+	<div id='1x2' class="floating-ad">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1614187800740-0'); });
+  </script>
+</div>
+
+<div id='1x3' class="floating-ad">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1614187863903-0'); });
+  </script>
+</div>
+<div id="page-wrap"><header id="header"><div class="wrapper"><a class="main-logo" href="https://www.seaangler.co.uk"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/logo.png" data-webp="https://www.seaangler.co.uk/wp-content/uploads/logo.png.webp" data-alt="SeaAngler" class="ewww_webp"><img src="https://www.seaangler.co.uk/wp-content/uploads/logo.png" alt="SeaAngler" data-eio="j" /></noscript></a><div class="wrap"><form role="search" method="get" class="search-form" action="https://www.seaangler.co.uk/" ><input class="search-input" type="text" value="" name="s" id="s" placeholder="Search" /><button class="search-submit" type="submit">Search</button></form><div class="social"><button class="button theme-a">Follow Us</button><ul class="social-links"><li class="facebook"><a target="_blank" href="https://www.facebook.com/seaanglermag/">Facebook</a></li><li class="twitter"><a target="_blank" href="https://twitter.com/TheSeaAngler">Twitter</a></li></ul></div><nav><ul id="menu-secondary" class="menu"><li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://www.seaangler.co.uk/about-us/">About Us</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a target="_blank" rel="noopener" href="http://shop.kelsey.co.uk/subscription/san/?utm_source=brand&#038;utm_medium=brand-site&#038;utm_campaign=sea-angler&#038;utm_content=baseoffer&#038;utm_term=subscriptions">Subscribe</a></li>
+</ul></nav><div class="links"><a class="button theme-a newsletter" href="#newsletter-form">Newsletter</a></div><button class="nav-toggle"><span>Menu</span></button></div></div></header><nav id="main-nav"><div class="wrapper"><ul id="menu-primary" class="menu"><li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-140"><a href="https://www.seaangler.co.uk/" aria-current="page">Home</a></li>
+<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-166"><a href="https://www.seaangler.co.uk/fishing-news/">News</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-173"><a href="https://www.seaangler.co.uk/fishing-tackle/">Tackle</a>
+<ul class="sub-menu">
+	<li id="menu-item-180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-180"><a href="https://www.seaangler.co.uk/fishing-tackle/rods/">Rods</a></li>
+	<li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179"><a href="https://www.seaangler.co.uk/fishing-tackle/reels/">Reels</a></li>
+	<li id="menu-item-178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-178"><a href="https://www.seaangler.co.uk/fishing-tackle/clothing/">Clothing</a></li>
+	<li id="menu-item-177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-177"><a href="https://www.seaangler.co.uk/fishing-tackle/bait/">Bait</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-176"><a href="https://www.seaangler.co.uk/fishing-tackle/accessories/">Accessories</a></li>
+</ul>
+</li>
+<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-174"><a href="https://www.seaangler.co.uk/fishing-tips/">Tips &amp; Tactics</a>
+<ul class="sub-menu">
+	<li id="menu-item-181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-181"><a href="https://www.seaangler.co.uk/fishing-tips/advanced/">Advanced</a></li>
+	<li id="menu-item-182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-182"><a href="https://www.seaangler.co.uk/fishing-tips/baits/">Baits</a></li>
+	<li id="menu-item-183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-183"><a href="https://www.seaangler.co.uk/fishing-tips/casting/">Casting</a></li>
+	<li id="menu-item-184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-184"><a href="https://www.seaangler.co.uk/fishing-tips/knots/">Knots</a></li>
+	<li id="menu-item-185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-185"><a href="https://www.seaangler.co.uk/fishing-tips/marks/">Marks</a></li>
+	<li id="menu-item-186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-186"><a href="https://www.seaangler.co.uk/fishing-tips/rigs/">Rigs</a></li>
+	<li id="menu-item-187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187"><a href="https://www.seaangler.co.uk/fishing-tips/species/">Species</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-188"><a href="https://www.seaangler.co.uk/fishing-tips/tackle/">Tackle</a></li>
+	<li id="menu-item-189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-189"><a href="https://www.seaangler.co.uk/fishing-tips/tactics/">Tactics</a></li>
+</ul>
+</li>
+<li id="menu-item-5118" class="menu-item menu-item-type-taxonomy menu-item-object-spot-category menu-item-5118"><a href="https://www.seaangler.co.uk/where-to-fish-category/where-to-fish/">Where To Fish</a></li>
+</ul><ul id="menu-secondary-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://www.seaangler.co.uk/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a target="_blank" rel="noopener" href="http://shop.kelsey.co.uk/subscription/san/?utm_source=brand&#038;utm_medium=brand-site&#038;utm_campaign=sea-angler&#038;utm_content=baseoffer&#038;utm_term=subscriptions">Subscribe</a></li>
+</ul><form role="search" method="get" class="search-form" action="https://www.seaangler.co.uk/" ><input class="search-input" type="text" value="" name="s" id="s" placeholder="Search" /><button class="search-submit" type="submit">Search</button></form><ul class="social-links"><li class="facebook"><a target="_blank" href="https://www.facebook.com/seaanglermag/">Facebook</a></li><li class="twitter"><a target="_blank" href="https://twitter.com/TheSeaAngler">Twitter</a></li></ul></div><button class="close">Close</button></nav><div id="content"><div class="site-ad">
+	<div id='1x1'>
+	  <script>
+	    googletag.cmd.push(function() { googletag.display('1x1'); });
+	  </script>
+	</div>
+</div>
+<div class="wrapper"><div class="header-ad">
+	<p>Advertisement</p>	
+	<div id='div-gpt-ad-1624541313879-0'>
+	  <script>
+	    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1624541313879-0'); });
+	  </script>
+	</div>
+</div>
+<main id="main"><section class="layout-block post-block med"><h1 class="title">News</h1><ul class="posts-list block style-a "><li class="post-5228 post type-post status-publish format-standard has-post-thumbnail hentry category-advanced category-fishing-news category-fishing-tips style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tips/lure-fishing-bass-cracking-code-watercraft-weather/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/20190908_142854-1-435x350.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/20190908_142854-1-435x350.jpg.webp" data-alt="Lure fishing for bass: Cracking the code to watercraft" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/20190908_142854-1-435x350.jpg"   alt="Lure fishing for bass: Cracking the code to watercraft" data-eio="j" /></noscript></div><div class="details"><p class="date">7 July 2021</p><h2>Lure fishing for bass: Cracking the code to watercraft</h2></div></a></article></li><li class="post-4992 post type-post status-publish format-standard has-post-thumbnail hentry category-fishing-news style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-news/golden-memory-a-tribute-to-ian-golds/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/A-Chris-and-Ian_1500-435x350.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/A-Chris-and-Ian_1500-435x350.jpg.webp" data-alt="Golden Memory – A tribute to Ian Golds" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/A-Chris-and-Ian_1500-435x350.jpg"   alt="Golden Memory – A tribute to Ian Golds" data-eio="j" /></noscript></div><div class="details"><p class="date">29 June 2021</p><h2>Golden Memory – A tribute to Ian Golds</h2></div></a></article></li><li class="post-2650 post type-post status-publish format-standard has-post-thumbnail hentry category-fishing-news style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-news/lowrance-announces-new-hook-reveal-fishfinder-chartplotters/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/HookRevealENGThumbnail1200500-435x350.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/HookRevealENGThumbnail1200500-435x350.jpg.webp" data-alt="Lowrance Announces New Hook Reveal Fishfinder/Chartplotters" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/HookRevealENGThumbnail1200500-435x350.jpg"   alt="Lowrance Announces New Hook Reveal Fishfinder/Chartplotters" data-eio="j" /></noscript></div><div class="details"><p class="date">20 March 2020</p><h2>Lowrance Announces New Hook Reveal Fishfinder/Chartplotters</h2></div></a></article></li></ul></section><section class="layout-block cols-block cols-2"><h1 class="title">Tips & Tactics</h1><div class="cols-wrap cols-2"><div class="col col-1"><div class="cta-posts"><ul class="posts-list block style-b cta"><li class="post-1079 post type-post status-publish format-standard has-post-thumbnail hentry category-baits style-b"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tips/baits/sea-fishing-with-lugworms/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/lugworm-2-600x400.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/lugworm-2-600x400.jpg.webp" data-alt="Sea Fishing With Lugworms" data-class="main post-thumb-3" data-height="400" data-width="600" class="ewww_webp"><img class="main post-thumb-3" width="600" height="400" src="https://www.seaangler.co.uk/wp-content/uploads/lugworm-2-600x400.jpg"   alt="Sea Fishing With Lugworms" data-eio="j" /></noscript></div><div class="details"><p class="date">21 May 2019</p><h2>Sea Fishing With Lugworms</h2></div></a></article></li></ul></div></div><div class="col col-2"><ul class="posts-list block style-c "><li class="post-321 post type-post status-publish format-standard has-post-thumbnail hentry category-tactics style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tips/tactics/sea-fish-size-limit-chart/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/chart-180x145.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/chart-180x145.jpg.webp" data-alt="Sea Fish Size Limit Chart" data-class="main post-thumb-1" data-height="145" data-width="180" class="ewww_webp"><img class="main post-thumb-1" width="180" height="145" src="https://www.seaangler.co.uk/wp-content/uploads/chart-180x145.jpg"   alt="Sea Fish Size Limit Chart" data-eio="j" /></noscript></div><div class="details"><p class="date">28 March 2018</p><h2>Sea Fish Size Limit Chart</h2></div></a></article></li><li class="post-1354 post type-post status-publish format-standard has-post-thumbnail hentry category-rigs style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tips/rigs/how-to-tie-the-uptide-downtide-rig/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/DBPic-180x145.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/DBPic-180x145.jpg.webp" data-alt="How to Tie the Uptide/downtide Rig" data-class="main post-thumb-1" data-height="145" data-width="180" class="ewww_webp"><img class="main post-thumb-1" width="180" height="145" src="https://www.seaangler.co.uk/wp-content/uploads/DBPic-180x145.jpg"   alt="How to Tie the Uptide/downtide Rig" data-eio="j" /></noscript></div><div class="details"><p class="date">7 March 2017</p><h2>How to Tie the Uptide/downtide Rig</h2></div></a></article></li><li class="post-388 post type-post status-publish format-standard has-post-thumbnail hentry category-tackle style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tips/tackle/7-lead-weights-that-you-must-have/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/images.squarespace-cdn-180x145.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/images.squarespace-cdn-180x145.jpg.webp" data-alt="7 Lead Weights That You Must Have!" data-class="main post-thumb-1" data-height="145" data-width="180" class="ewww_webp"><img class="main post-thumb-1" width="180" height="145" src="https://www.seaangler.co.uk/wp-content/uploads/images.squarespace-cdn-180x145.jpg"   alt="7 Lead Weights That You Must Have!" data-eio="j" /></noscript></div><div class="details"><p class="date">7 March 2017</p><h2>7 Lead Weights That You Must Have!</h2></div></a></article></li></ul></div></div></section><div class="content-ad">
+	<p>Advertisement</p>
+	<div id='Unit2'>
+	  <script>
+	    googletag.cmd.push(function() { googletag.display('Unit2'); });
+	  </script>
+	</div>
+</div>
+<section class="layout-block post-block med"><h1 class="title">Tackle</h1><ul class="posts-list block style-a "><li class="post-4981 post type-post status-publish format-standard has-post-thumbnail hentry category-reels style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/reels/penn-surfblaster-iii-fixed-spool-reel-review/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/B-Penn-Surf-Blaster-8000-15-of-24_1500-435x350.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/B-Penn-Surf-Blaster-8000-15-of-24_1500-435x350.jpg.webp" data-alt="Penn Surfblaster III Fixed-Spool Reel Review" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/B-Penn-Surf-Blaster-8000-15-of-24_1500-435x350.jpg"   alt="Penn Surfblaster III Fixed-Spool Reel Review" data-eio="j" /></noscript></div><div class="details"><p class="date">29 June 2021</p><h2>Penn Surfblaster III Fixed-Spool Reel Review</h2></div></a></article></li><li class="post-5099 post type-post status-publish format-standard has-post-thumbnail hentry category-reels style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/reels/penn-525-mag4-reel-review/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/mag-435x350.jpeg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/mag-435x350.jpeg.webp" data-alt="Penn 525 Mag4 Review" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/mag-435x350.jpeg"   alt="Penn 525 Mag4 Review" data-eio="j" /></noscript></div><div class="details"><p class="date">29 March 2021</p><h2>Penn 525 Mag4 Review</h2></div></a></article></li><li class="post-976 post type-post status-publish format-standard has-post-thumbnail hentry category-reels style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/reels/akios656-reel-review/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/pic-1-435x350.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/pic-1-435x350.jpg.webp" data-alt="AKIOS656 Reel Review" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/pic-1-435x350.jpg"   alt="AKIOS656 Reel Review" data-eio="j" /></noscript></div><div class="details"><p class="date">7 February 2020</p><h2>AKIOS656 Reel Review</h2></div></a></article></li></ul></section><div class="content-ad">
+	<p>Advertisement</p>
+	<div id='Unit3'>
+	  <script>
+	    googletag.cmd.push(function() { googletag.display('Unit3'); });
+	  </script>
+	</div>
+</div>
+<section class="layout-block cols-block cols-2"><h1 class="title">Bait</h1><div class="cols-wrap cols-2"><div class="col col-1"><ul class="posts-list block style-c "><li class="post-423 post type-post status-publish format-standard has-post-thumbnail hentry category-bait style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/bait/learn-how-to-prepare-the-perfect-cart-bait/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/crab-180x145.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/crab-180x145.jpg.webp" data-alt="Learn How to Prepare the Perfect Cart Bait!" data-class="main post-thumb-1" data-height="145" data-width="180" class="ewww_webp"><img class="main post-thumb-1" width="180" height="145" src="https://www.seaangler.co.uk/wp-content/uploads/crab-180x145.jpg"   alt="Learn How to Prepare the Perfect Cart Bait!" data-eio="j" /></noscript></div><div class="details"><p class="date">7 March 2017</p><h2>Learn How to Prepare the Perfect Cart Bait!</h2></div></a></article></li><li class="post-3361 post type-post status-publish format-standard has-post-thumbnail hentry category-bait style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/bait/kvalvik-bait-additives/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/2-10-180x145.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/2-10-180x145.jpg.webp" data-alt="Kvalvik Bait Additives" data-class="main post-thumb-1" data-height="145" data-width="180" class="ewww_webp"><img class="main post-thumb-1" width="180" height="145" src="https://www.seaangler.co.uk/wp-content/uploads/2-10-180x145.jpg"   alt="Kvalvik Bait Additives" data-eio="j" /></noscript></div><div class="details"><p class="date">31 August 2016</p><h2>Kvalvik Bait Additives</h2></div></a></article></li><li class="post-460 post type-post status-publish format-standard has-post-thumbnail hentry category-bait style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/bait/collecting-digging-and-fishing-with-ragworms/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/main-3-180x145.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/main-3-180x145.jpg.webp" data-alt="Collecting, Digging and Fishing With Ragworms" data-class="main post-thumb-1" data-height="145" data-width="180" class="ewww_webp"><img class="main post-thumb-1" width="180" height="145" src="https://www.seaangler.co.uk/wp-content/uploads/main-3-180x145.jpg"   alt="Collecting, Digging and Fishing With Ragworms" data-eio="j" /></noscript></div><div class="details"><p class="date">14 November 2011</p><h2>Collecting, Digging and Fishing With Ragworms</h2></div></a></article></li></ul></div><div class="col col-2"><div class="cta-posts"><ul class="posts-list block style-b cta"><li class="post-2999 post type-post status-publish format-standard has-post-thumbnail hentry category-bait style-b"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/bait/skippy-fish-soft-lures/"><div class="post-img"><img class="main post-thumb-3" width="600" height="400" src="https://www.seaangler.co.uk/wp-content/uploads/Skippy20Fish20Lures-600x400.jpg"   alt="Skippy Fish Soft Lures" /></div><div class="details"><p class="date">6 September 2011</p><h2>Skippy Fish Soft Lures</h2></div></a></article></li><li class="post-2919 post type-post status-publish format-standard has-post-thumbnail hentry category-bait style-b"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/bait/squids-in-sea-fishing-baits/"><div class="post-img"><img class="main post-thumb-3" width="600" height="400" src="https://www.seaangler.co.uk/wp-content/uploads/MG_0123-600x400.jpg"   alt="Squids-in! Sea Fishing Baits" /></div><div class="details"><p class="date">23 August 2010</p><h2>Squids-in! Sea Fishing Baits</h2></div></a></article></li><li class="post-2924 post type-post status-publish format-standard has-post-thumbnail hentry category-bait style-b"><article><a class="wrap" href="https://www.seaangler.co.uk/fishing-tackle/bait/how-to-cut-and-shut-a-sandeel-mackerel-squid-or-crab/"><div class="post-img"><img class="main post-thumb-3" width="590" height="395" src="https://www.seaangler.co.uk/wp-content/themes/kelsey-media/assets/images/placeholder-post-thumb-3.png"   alt="How to Cut and Shut a Sandeel, Mackerel, Squid or Crab" /></div><div class="details"><p class="date">28 June 2010</p><h2>How to Cut and Shut a Sandeel, Mackerel, Squid or Crab</h2></div></a></article></li></ul></div></div></div></section><div class="content-ad">
+	<p>Advertisement</p>	
+	<div id='Unit4'>
+	  <script>
+	    googletag.cmd.push(function() { googletag.display('Unit4'); });
+	  </script>
+	</div>
+</div>
+<section class="layout-block post-block med"><h1 class="title">Where to Fish</h1><ul class="posts-list block style-a "><li class="post-5082 spot-post type-spot-post status-publish has-post-thumbnail hentry spot-category-where-to-fish spot-location-beach spot-location-shore spot-species-bass spot-species-dab spot-species-flounder spot-species-smooth-hound style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/where-to-fish/north-norfolk-shingle-bank-fishing-mark-venue/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/P1G0733-1500-435x350.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/P1G0733-1500-435x350.jpg.webp" data-alt="North Norfolk Shingle Bank" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/P1G0733-1500-435x350.jpg"   alt="North Norfolk Shingle Bank" data-eio="j" /></noscript></div><div class="details"><p class="date">29 June 2021</p><h2>North Norfolk Shingle Bank</h2><p class="excerpt">A popular match venue, the area between Weybourne and Blakeney Point offers plenty of space to fish</p></div></a></article></li><li class="post-5031 spot-post type-spot-post status-publish has-post-thumbnail hentry spot-category-where-to-fish spot-location-pier spot-species-bass spot-species-dab spot-species-dogfish spot-species-flat-fish spot-species-pouting spot-species-ray spot-species-whiting style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/where-to-fish/ramsgate-east-pier/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/012-Shane-p-pic-435x350.jpg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/012-Shane-p-pic-435x350.jpg.webp" data-alt="Ramsgate East Pier" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/012-Shane-p-pic-435x350.jpg"   alt="Ramsgate East Pier" data-eio="j" /></noscript></div><div class="details"><p class="date">29 June 2021</p><h2>Ramsgate East Pier</h2></div></a></article></li><li class="post-4580 spot-post type-spot-post status-publish has-post-thumbnail hentry spot-category-where-to-fish spot-location-sea spot-species-cod spot-species-dogfish spot-species-pollack spot-species-pouting spot-species-rockling style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/where-to-fish/worbarrow-bay-sea-fishing-mark/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/Worbarrow20Bay-435x350.jpeg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/Worbarrow20Bay-435x350.jpeg.webp" data-alt="Worbarrow Bay Sea Fishing Mark" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/Worbarrow20Bay-435x350.jpeg"   alt="Worbarrow Bay Sea Fishing Mark" data-eio="j" /></noscript></div><div class="details"><p class="date">18 June 2021</p><h2>Worbarrow Bay Sea Fishing Mark</h2></div></a></article></li><li class="post-4575 spot-post type-spot-post status-publish has-post-thumbnail hentry spot-category-where-to-fish spot-location-pier spot-location-sea spot-species-codling spot-species-eel spot-species-flounder spot-species-whiting style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/where-to-fish/wooden-jetty-sea-fishing-mark/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/The-Wooden-Jetty-Tyne-and-W-435x350.jpeg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/The-Wooden-Jetty-Tyne-and-W-435x350.jpeg.webp" data-alt="Wooden Jetty Sea Fishing Mark" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/The-Wooden-Jetty-Tyne-and-W-435x350.jpeg"   alt="Wooden Jetty Sea Fishing Mark" data-eio="j" /></noscript></div><div class="details"><p class="date">18 June 2021</p><h2>Wooden Jetty Sea Fishing Mark</h2></div></a></article></li><li class="post-4570 spot-post type-spot-post status-publish has-post-thumbnail hentry spot-category-where-to-fish spot-location-beach spot-location-sea spot-species-coal-fish spot-species-codling style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/where-to-fish/whitley-bay-beach-sea-fishing-mark/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/Whitley-Bay-Beach-Tyne-and--435x350.jpeg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/Whitley-Bay-Beach-Tyne-and--435x350.jpeg.webp" data-alt="Whitley Bay Beach Sea Fishing Mark" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/Whitley-Bay-Beach-Tyne-and--435x350.jpeg"   alt="Whitley Bay Beach Sea Fishing Mark" data-eio="j" /></noscript></div><div class="details"><p class="date">18 June 2021</p><h2>Whitley Bay Beach Sea Fishing Mark</h2></div></a></article></li><li class="post-4567 spot-post type-spot-post status-publish has-post-thumbnail hentry spot-category-where-to-fish spot-location-beach spot-location-sea spot-species-coal-fish spot-species-codling spot-species-conger spot-species-dab spot-species-dogfish spot-species-garfish spot-species-gurnard spot-species-huss spot-species-ling spot-species-mackerel spot-species-pollack spot-species-whiting spot-species-wrasse style-a"><article><a class="wrap" href="https://www.seaangler.co.uk/where-to-fish/whithorn-harbour-front/"><div class="post-img"><noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/WHITHORN20HARBOUR20FRONT20Dumfries2020Galloway-435x350.jpeg" data-webp="https://www.seaangler.co.uk/wp-content/uploads/WHITHORN20HARBOUR20FRONT20Dumfries2020Galloway-435x350.jpeg.webp" data-alt="Isle of Whithorn Harbour Front" data-class="main post-thumb-2" data-height="350" data-width="435" class="ewww_webp"><img class="main post-thumb-2" width="435" height="350" src="https://www.seaangler.co.uk/wp-content/uploads/WHITHORN20HARBOUR20FRONT20Dumfries2020Galloway-435x350.jpeg"   alt="Isle of Whithorn Harbour Front" data-eio="j" /></noscript></div><div class="details"><p class="date">18 June 2021</p><h2>Isle of Whithorn Harbour Front</h2></div></a></article></li></ul><a class="button theme-a more" href="https://www.seaangler.co.uk/where-to-fish-category/where-to-fish/">Where to Fish</a></section></main></div></div><footer id="footer"><div class="wrapper"><div class="cols-wrap cols-2"><div class="col col-1"><nav><h3>Information</h3><ul id="menu-information" class="menu"><li id="menu-item-5184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-5184"><a href="https://www.seaangler.co.uk/" aria-current="page">Home</a></li>
+<li id="menu-item-5185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5185"><a href="https://www.seaangler.co.uk/about-us/">About Us</a></li>
+</ul></nav><nav><h3>Articles</h3><ul id="menu-articles" class="menu"><li id="menu-item-5181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5181"><a href="https://www.seaangler.co.uk/fishing-news/">News</a></li>
+<li id="menu-item-5182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5182"><a href="https://www.seaangler.co.uk/fishing-tackle/">Tackle</a></li>
+<li id="menu-item-5183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5183"><a href="https://www.seaangler.co.uk/fishing-tips/">Tips &amp; Tactics</a></li>
+</ul></nav></div><div class="col col-2"><a class="logo" target="_blank" href="https://www.kelsey.co.uk/"><img src="https://www.seaangler.co.uk/wp-content/themes/kelsey-media/assets/images/kelsey-media-logo-footer.png" alt="Kelsey Media" /></a><address>Kelsey Media . The Granary . Downs Court . Yalding Hill . Yalding . Kent ME18 6AL</address><p class="copy">&copy; 2021 Kelsey Media Ltd . <a target="_blank" href="https://www.kelsey.co.uk/">kelsey.co.uk</a></p>						
+						<!-- SourcePoint CMP Buttons -->
+						
+						<button id="gdpr_link"  style="display:none" onclick="window._sp_.loadPrivacyManagerModal(473800)">Manage Settings</button>
+						<button id="ccpa_link"  style="display:none" onclick="window._sp_ccpa.loadPrivacyManagerModal(16583, '6065a964c18f242631238143')">CCPA </button>
+						<script type="text/javascript">
+						    __uspapi('getUSPData',1,function(uspData,success){console.log('uspData: ' + JSON.stringify(uspData)+ 'success: ' + success);
+						        if(JSON.stringify(uspData).indexOf("---")===-1){
+						            document.getElementById("ccpa_link").style.display = "block";
+						        }
+						        else{
+						            window.__tcfapi('getTCData',2,function(data,success){
+						                console.log("data.gdprApplies: "  + data.gdprApplies);
+						                if(data.gdprApplies){
+						                    document.getElementById("gdpr_link").style.display = "block";
+						                }
+						            });    
+						        }        
+						    });
+						</script>
+						
+						<!-- End SourcePoint CMP Buttons-->
+
+						
+						</div></div></div></footer></div><div id="login-form" class="mfp-hide popup-wrap">
+
+	<div class="header">
+		<noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/logo.png" data-webp="https://www.seaangler.co.uk/wp-content/uploads/logo.png.webp" data-alt="SeaAngler" data-class="site-logo" class="ewww_webp"><img class="site-logo" src="https://www.seaangler.co.uk/wp-content/uploads/logo.png" alt="SeaAngler" data-eio="j" /></noscript>		<img class="kelsey-logo" src="https://www.seaangler.co.uk/wp-content/themes/kelsey-media/assets/images/kelsey-media-logo.png" alt="Kelsey Media" />
+	</div>
+
+	<div class="content">
+
+		<h2>Digital Subscription Login</h2>
+	
+		<form class="content-form validate-form non-builder"> 
+			<fieldset>
+				<div class="field email">
+					<label for="SFemail">Email Address</label>
+					<input type="email" name="email" id="SFemail" value="" required />
+				</div>
+				<div class="field text">
+					<label for="SFcustomerid">Customer ID / Order No.</label>
+					<input type="text" name="customerid" id="SFcustomerid" value="" required />
+				</div>
+				<div class="field controls">
+					<button class="button theme-b submit">Log In</button>
+				</div>
+				<inpuy type="hidden" id="publicationid" name="publicationid" value="" >
+			</fieldset>
+		</form>
+		
+	</div>
+	
+	<div class="footer">
+		<div class="editable-content">
+			<h2>Want To Access Premium Content?</h2>
+<p>From as little as £XX per month.</p>
+			<a class="button theme-c" href="">Purchase Digital Subscription</a>	
+		</div>
+	</div>
+	
+</div>
+<div id="newsletter-form" class="mfp-hide popup-wrap">
+
+	<div class="header">
+		<noscript data-img="https://www.seaangler.co.uk/wp-content/uploads/logo.png" data-webp="https://www.seaangler.co.uk/wp-content/uploads/logo.png.webp" data-alt="SeaAngler" data-class="site-logo" class="ewww_webp"><img class="site-logo" src="https://www.seaangler.co.uk/wp-content/uploads/logo.png" alt="SeaAngler" data-eio="j" /></noscript>		<img class="kelsey-logo" src="https://www.seaangler.co.uk/wp-content/themes/kelsey-media/assets/images/kelsey-media-logo.png" alt="Kelsey Media" />
+	</div>
+
+	<div class="content">
+		<script src="//r1.dotdigital-pages.com/resources/sharing/embed.js" data-sharing="lp-embed" data-page-domain="r1.dotdigital-pages.com" data-page-id="5D8F-493/sea-angler-newsletter"></script>	</div>
+
+</div>
+<script type='text/javascript' src='https://www.seaangler.co.uk/wp-content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.8.3' id='opinionstage-shortcodes-js'></script>
+<script type='text/javascript' src='https://www.seaangler.co.uk/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+
+	<script src="https://www.dwin2.com/pub.185427.min.js"></script>
+
+		
+</body>
+
+
+</html>
