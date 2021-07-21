@@ -60,44 +60,50 @@
 
     <br><br><br><br>
 
-    <!--featured article componenet
-        <section>
-            <div class="rw">
-                <div class="rr">
-                    <h5>
-                        <div class="rcx12 bl-tc bl-h1">
-                            <div>
-                                FEATURED ARTICLE
-                            </div>
+
+
+
+<!--featured-article-start-->
+    <section>
+        <div class="rw">
+            <div class="rr">
+                <h5>
+                    <div class="rcx12 bl-tc bl-h1">
+                        <div>
+                            FEATURED BLOG
                         </div>
-                    </h5>
-
-                    <div class="rcx12 rcm6">
-                        <h1 class="rcx12 bl-h1">
-                            How Triple13 delivered 2.5x higher eCPMs
-                            & boosted revenue by 492% for F1i.com
-                        </h1>
-                        <p class="rcx12">
-                            Learn how F1i got started with Triple13 AMP
-                            monetization and the results they gained.
-                        </p>
-                        <button class="bl-button">
-                            View case study
-                        </button>
                     </div>
+                </h5>
 
-                    <div class="rcx12 rcm6">
-                        <amp-img
-                                src="./img/page/f1i-cs-home.svg"
-                                width="200"
-                                height="150"
-                                layout="responsive"
-                        ></amp-img>
+                <div class="rcx12 rcm6">
+                    <h1 class="rcx12 bl-h1">
+                        MCM partner program
+                    </h1>
+                    <p class="rcx12">
+                        Delve into the key differences to watch out for
+                        during the transition
+                    </p>
+                    <div class="rcx12">
+                        <a href="mcm-partner-program.html">
+                            <button class="bl-button">
+                                View case study
+                            </button>
+                        </a>
                     </div>
                 </div>
+
+                <div class="rcx12 rcm6">
+                    <amp-img
+                            src="./img/page/mcm-program-partner-hero.png"
+                            width="200"
+                            height="150"
+                            layout="responsive"
+                    ></amp-img>
+                </div>
             </div>
-        </section>
-    -->
+        </div>
+    </section>
+    <!--featured-article-end-->
 
     <br><br>
 
@@ -105,7 +111,7 @@
     <section>
         <div class="rw">
             <div class="rr">
-
+<!--article-1-->
                 <div class="rcx12 rcm6">
                     <div class="rcx12">
                         <amp-img
@@ -116,15 +122,22 @@
                         ></amp-img>
                     </div>
                     <div class="rcx12">
-                        <h2>Ad Manager vs Ad Manger 360</h2>
+                        <h2>AdManager vs AdManger 360</h2>
                     </div>
                     <div class="rcx12">
                         Get the scoop on all the important differences
                         to consider between 2 of the biggest ad
                         serving technologies in the market.
                     </div>
+                    <div class="rcx12">
+                        <a href="admanager-vs-admanager360.html">
+                            <button class="bl-button">
+                                View case study
+                            </button>
+                        </a>
+                    </div>
                 </div>
-
+<!--article-2-->
                 <div class="rcx12 rcm6">
                     <div class="rcx12">
                         <amp-img
@@ -135,12 +148,17 @@
                         ></amp-img>
                     </div>
                     <div class="rcx12">
-                        <h2>How Triple 13 delivered 1.75x higher CPMs &
-                            boost revenue by 75% for VentureBeat</h2>
+                        <h2>Google chases speeed</h2>
                     </div>
                     <div class="rcx12">
-                        Learn what happened to get Venture Beat
-                        the results they wanted
+                        Find out what the tech giant is on the look out for
+                    </div>
+                    <div class="rcx12">
+                        <a href="google-chases-speed.html">
+                            <button class="bl-button">
+                                View case study
+                            </button>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -148,41 +166,102 @@
     </section>
 
 
-    <br><br>
 
 
     <br><br>
 
 
-    <section>
-        <div class="rw">
-            <div class="rr">
-                <div class="rcx12 rcm5 bl-border">
-                    <div class="rcx12">
-                        <h2>
-                            Ready to get started?
-                        </h2>
-                    </div>
-                    <div class="rcx12">
-                        Contact us today
+
+
+    <section class="mkt-audit">
+        <h1 class="mkt-text-bold mkt-wh">
+            Get in touch with our team today
+        </h1>
+        <p class="mkt-p-audit-001">
+            We specialize in AMP monetization , it's what we do best. To get
+            results like the one above book<br>
+            a free audit of your website with our team today.
+        </p>
+        <div>
+            <amp-lightbox id="my-lightbox" layout="nodisplay">
+                <div class="lightbox" on="tap:my-lightbox.open" role="button" tabindex="0">
+
+                    <div class="mkt-bord-form">
+                        <div>
+                            <form
+                                    method="post"
+                                    id=""
+                                    action-xhr="https://api.arengu.com/forms/161289195123229300/submissions/"
+                                    on="submit:contact-form.clear"
+                                    target="_top"
+                            >
+                                <div>
+                                    <h2>CLAIM YOUR FREE AUDIT NOW</h2>
+                                </div>
+
+                                <div>
+                                    <div>Email</div>
+                                    <input type="email" name="email" placeholder="" required>
+                                </div>
+
+
+                                <div>
+                                    <div>Name</div>
+                                    <input type="text" name="subject" placeholder="" required>
+                                </div>
+
+
+                                <div>
+                                    <div>Website</div>
+                                    <input type="text" name="message" placeholder="" required>
+                                </div>
+
+                                <div class="mkt-submit-form">
+                                    <input type="submit" value="Send Message" class="mkt-sub-form">
+                                    <div submit-success>
+                                        <template type="amp-mustache">
+                                            <amp-img
+                                                    src="./img/icons/tick.svg"
+                                                    height="30"
+                                                    width="30"
+                                                    layout="fixed"
+                                                    alt="mobile chat"
+                                                    noloading=""
+                                            >
+                                                <div placeholder=""></div>
+                                            </amp-img>
+                                        </template>
+                                    </div>
+                                </div>
+
+
+                                <div submit-error>
+                                    <template type="amp-mustache">
+                                        Email Failed to send
+                                    </template>
+                                </div>
+                            </form>
+
+                            <div>
+                                <a href="blog-home.html##back" on="tap:my-lightbox.close">
+                                    <p class="mkt-4box-icon-challenges">
+                                        <i class="material-icons mkt-md-36">close</i>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="rcx12 rcm2"></div>
-
-                <div class="rcx12 rcm5 bl-border">
-                    <div class="rcx12">
-                        <h2>
-                            Discover our unique solution
-                        </h2>
-                    </div>
-                    <div class="rcx12">
-                        Services for publishers
-                    </div>
-                </div>
-            </div>
+            </amp-lightbox>
+            <button on="tap:my-lightbox" class="mkt-button-audit">
+                CLAIM YOUR FREE AUDIT NOW
+            </button>
         </div>
     </section>
+
+
+
 
 
 
