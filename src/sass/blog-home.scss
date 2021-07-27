@@ -19,7 +19,7 @@
 }
 
 .bl-bck-box-01 {
-  background-color: #0489DB;
+  background-color: #2c548e;
   color: #FFFFFF;
   padding-top: 90px;
   padding-bottom: 90px;
@@ -79,8 +79,37 @@
 
 
 
+.buttons {
+  padding: .8rem;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #2c548e;
+  color: #fff;
+  font-family: 'Noto Sans', sans-serif;
+  border: 1px solid #2c548e;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.buttons:hover {
+  background-color: #fff;
+  color: #2c548e;
+  transition: all .3s ease-in;
+}
+
+.button-pad {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+
 .mkt-audit {
-  background-color: #0489DB;
+  background-color: #2c548e;
   text-align: center;
   padding: 65px 31px 80px 31px;
 }
