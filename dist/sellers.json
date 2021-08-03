@@ -165,7 +165,7 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Talk Basket",
+      "name": " Talk Basket  ",
       "domain": "talkbasket.net",
       "seller_id": "035",
       "seller_type": "PUBLISHER"
@@ -204,7 +204,7 @@
       "name": "Publisher First Inc (Freestar)",
       "domain": "freestar.com",
       "seller_id": "041",
-      "seller_type": "PUBLISHER"
+      "seller_type": "INTERMEDIARY"
     },
     {
       "name": "Valnet Inc",
@@ -235,12 +235,46 @@
       "domain": "whatculture.com",
       "seller_id": "046",
       "seller_type": "PUBLISHER"
-    },
     {
       "name": "CV Media info",
       "domain": "aceshowbiz.com",
       "seller_id": "047",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Wasted Talent",
+      "domain": "kerrang.com",
+      "seller_id": "048",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Wasted Talent",
+      "domain": "mixmag.net",
+      "seller_id": "049",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Wasted Talent",
+      "domain": "theface.com",
+      "seller_id": "050",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Sports Mole Ltd",
+      "domain": "sportsmole.co.uk",
+      "seller_id": "051",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Sports Mole Ltd",
+      "domain": "mediamole.co.uk",
+      "seller_id": "052",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Benzinga",
+      "domain": "benzinga.com",
+      "seller_id": "053",
+      "seller_type": "PUBLISHER"
     }
-  ]
-}
+    }]}
