@@ -276,5 +276,11 @@
       "domain": "benzinga.com",
       "seller_id": "053",
       "seller_type": "PUBLISHER"
-    }
+    },
+    {
+      "name": "XDA Developers",
+      "domain": "xda-developers.com",
+      "seller_id": "054",
+      "seller_type": "PUBLISHER"
+    },
     }]}
