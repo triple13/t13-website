@@ -235,7 +235,6 @@
       "domain": "whatculture.com",
       "seller_id": "046",
       "seller_type": "PUBLISHER"
-    },
     {
       "name": "CV Media info",
       "domain": "aceshowbiz.com",
@@ -244,20 +243,8 @@
     },
     {
       "name": "Wasted Talent",
-      "domain": "kerrang.com",
+      "domain": "wastedtalent.com",
       "seller_id": "048",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Wasted Talent",
-      "domain": "mixmag.net",
-      "seller_id": "049",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Wasted Talent",
-      "domain": "theface.com",
-      "seller_id": "050",
       "seller_type": "PUBLISHER"
     },
     {
@@ -267,27 +254,10 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Sports Mole Ltd",
-      "domain": "mediamole.co.uk",
-      "seller_id": "052",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Benzinga",
       "domain": "benzinga.com",
       "seller_id": "053",
       "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "XDA Developers",
-      "domain": "xda-developers.com",
-      "seller_id": "054",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "XDA Developers",
-      "domain": "xda-developers.com",
-      "seller_id": "054",
-      "seller_type": "PUBLISHER"
     }
-    }]}
+  ]
+}
