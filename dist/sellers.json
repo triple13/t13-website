@@ -258,6 +258,12 @@
       "domain": "benzinga.com",
       "seller_id": "053",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Tennis Tonic",
+      "domain": "tennistonic.com",
+      "seller_id": "054",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
