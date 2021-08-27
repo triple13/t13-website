@@ -18,13 +18,44 @@
 }
 
 .lp-16bx {
-  padding-bottom: 12px;
+  padding-bottom: 21px;
 }
 
 .lp-no {
   color: #05CAB6;
 }
 
+.lp-bld {
+  font-weight: bold;
+}
+
+.lp-bkb1 {
+  background-color: #ffd6d6;
+  padding: 71px;
+}
+
+.lp-bkb2 {
+  background-color: #d7fff6;
+  padding: 71px;
+}
+
+.lp-h21 {
+  padding-bottom: 12px;
+}
+
+.lp-bkbl {
+  background-color: #A3C4D9;
+  padding-bottom: 51px;
+  padding-top: 35px;
+}
+
+.lp-pth {
+  padding-top: 21px;
+}
+
+.lp-bk72 {
+  background-color: #cbcbcb;
+}
 
 
 
@@ -80,7 +111,7 @@
 
 .contact-submit {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
   margin: 1rem;
 }
