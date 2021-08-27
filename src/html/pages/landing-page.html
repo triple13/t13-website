@@ -34,6 +34,8 @@
 
 <main>
 
+    <br><br>
+
     <section class="lp-c">
         <div class="rw">
             <div class="rr">
@@ -62,31 +64,80 @@
     <section>
         <div class="rw">
             <div class="rr">
-                <div class="rox2 rcx8 rcm6">
+                <div class="rcx12 rcm6">
                     <amp-img
-                            src="./img/page/software_engineering.svg"
-                            width="490"
-                            height="700"
+                            src="./img/mw.jpeg"
+                            width="300"
+                            height="250"
                             layout="responsive"
                     ></amp-img>
                 </div>
 
-                <div class="rox2 rcx8 rcm6">
+                <div class="rcx12 rcm6">
                     <h4>
                         THIS COMPREHENSIVE AUDIT WILL COVER:
                     </h4>
+
+                    <ul>
+                        <p class="lp-ul"><i class="material-icons md-48">check</i>How you can increase your eCPM and drive more revenue</p>
+                        <p class="lp-ul"><i class="material-icons md-48">check</i>How to attract high quality advertises who are willing to pay more for your inventory</p>
+                        <p class="lp-ul"><i class="material-icons md-48">check</i>Actionable set of instructions to improve your ad performance</p>
+                        <p class="lp-ul"><i class="material-icons md-48">check</i>Tailor made solutions to improve your overall eCPM </p>
+                        <p class="lp-ul"><i class="material-icons md-48">check</i>Our solutions built for every kind publisher</p>
+                    </ul>
+
+                    <div class="m2 max-width-4">
+                        <div class="contact-form-wrapper">
+                            <form
+                                    method="post"
+                                    id="contact-form"
+                                    action-xhr="https://api.arengu.com/forms/161289195123229300/submissions/"
+                                    on="submit:contact-form.clear"
+                                    target="_top"
+                            >
+                                <br>
+                                <div class="contact-textfield">
+                                    <h4>Name</h4>
+                                    <input type="text" name="name" placeholder="" required>
+                                </div>
+                                <br>
+                                <div class="contact-textfield">
+                                    <h4>Email</h4>
+                                    <input type="email" name="email" placeholder="" required>
+                                </div>
+
+                                <br>
+                                <div class="rcx12 rcm6">
+                                    <div class="contact-submit">
+                                        <input type="submit" value="Schedule Your Free Audit">
+                                        <div submit-success>
+                                            <template type="amp-mustache">
+                                                <amp-img
+                                                        src="./img/icons/tick.svg"
+                                                        height="30"
+                                                        width="30"
+                                                        layout="fixed"
+                                                        alt="mobile chat"
+                                                        noloading=""
+                                                >
+                                                    <div placeholder=""></div>
+                                                </amp-img>
+                                            </template>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div submit-error>
+                                    <template type="amp-mustache">
+                                        Email Failed to send
+                                    </template>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="rox2 rcx8 rcm6">
-                    <ul>
-                        <li>How you can increase your eCPM and drive more revenue</li>
-                        <li>How to attract high quality advertises who are willing to pay more for your inventory</li>
-                        <li>Actionable set of instructions to improve your ad performance</li>
-                        <li>Tailor made solutions to improve your overall eCPM </li>
-                        <li>Our solutions built for every kind publisher</li>
-                        <li>And much much more</li>
-                    </ul>
-                </div>
+
             </div>
         </div>
     </section>
