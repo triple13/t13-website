@@ -87,14 +87,6 @@
 
 
 
-#contact-form {
-  width: 300px;
-  height: 350px;
-  @include desktop {
-    width: 630px;
-    height: 350px;
-  }
-}
 
 .contact-form-wrapper {
   display: flex;
@@ -256,10 +248,10 @@
 
 #contact-form {
   width: 300px;
-  height: 500px;
+  height: 300px;
   @include desktop {
     width: 630px;
-    height: 500px;
+    height: 300px;
   }
 }
 
@@ -351,4 +343,3 @@
   font-size: 28px;
   padding: 0px 61px 0px 61px;
 }
-
