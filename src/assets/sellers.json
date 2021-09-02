@@ -264,6 +264,12 @@
       "domain": "tennistonic.com",
       "seller_id": "054",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Chicago Tribune",
+      "domain": "chicagotribune.com",
+      "seller_id": "055",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
