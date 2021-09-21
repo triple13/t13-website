@@ -270,6 +270,12 @@
       "domain": "chicagotribune.com",
       "seller_id": "055",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "When In Manila Inc",
+      "domain": "wheninmanila.com",
+      "seller_id": "056",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
