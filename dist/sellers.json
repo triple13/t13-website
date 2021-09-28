@@ -276,6 +276,12 @@
       "domain": "wheninmanila.com",
       "seller_id": "056",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Ubuntu Pit",
+      "domain": "ubuntupit.com",
+      "seller_id": "057",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
