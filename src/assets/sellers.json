@@ -282,6 +282,12 @@
       "domain": "ubuntupit.com",
       "seller_id": "057",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Its Foss",
+      "domain": "news.itsfoss.com",
+      "seller_id": "058",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
