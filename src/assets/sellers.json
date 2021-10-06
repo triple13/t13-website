@@ -288,6 +288,12 @@
       "domain": "news.itsfoss.com",
       "seller_id": "058",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Pink Villa",
+      "domain": "pinkvilla.com",
+      "seller_id": "059",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
