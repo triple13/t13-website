@@ -300,7 +300,14 @@
       "domain": "amp.university",
       "seller_id": "060",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "The Game House LLC",
+      "domain": "thegamehaus.com",
+      "seller_id": "061",
+      "seller_type": "PUBLISHER"
     }
+
   ]
 }
 
