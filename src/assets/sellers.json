@@ -294,6 +294,14 @@
       "domain": "pinkvilla.com",
       "seller_id": "059",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "amp.university",
+      "domain": "amp.university",
+      "seller_id": "060",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
+
+
