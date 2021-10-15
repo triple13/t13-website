@@ -307,8 +307,13 @@
       "domain": "thegamehaus.com",
       "seller_id": "061",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Pajiba",
+      "domain": "pajiba.com",
+      "seller_id": "062",
+      "seller_type": "PUBLISHER"
     }
-
   ]
 }
 
