@@ -313,6 +313,12 @@
       "domain": "pajiba.com",
       "seller_id": "062",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Al Nisr Publishing LLC",
+      "domain": "gulfnews.com",
+      "seller_id": "063",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
