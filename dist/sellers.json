@@ -313,6 +313,12 @@
       "domain": "gulfnews.com",
       "seller_id": "063",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Geeksaresexy",
+      "domain": "geeksaresexy.net",
+      "seller_id": "064",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
