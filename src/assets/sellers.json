@@ -319,6 +319,12 @@
       "domain": "geeksaresexy.net",
       "seller_id": "064",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Moviefone",
+      "domain": "moviefone.com",
+      "seller_id": "065",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
