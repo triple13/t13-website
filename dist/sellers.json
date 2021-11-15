@@ -325,6 +325,12 @@
       "domain": "moviefone.com",
       "seller_id": "065",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Reach PLC",
+      "domain": "reachplc.com",
+      "seller_id": "066",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
