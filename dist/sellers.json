@@ -331,6 +331,12 @@
       "domain": "reachplc.com",
       "seller_id": "066",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Healthday",
+      "domain": "consumer.healthday.com",
+      "seller_id": "067",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
