@@ -337,6 +337,36 @@
       "domain": "consumer.healthday.com",
       "seller_id": "067",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Slant Magazine",
+      "domain": "slantmagazine.com",
+      "seller_id": "068",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "The Nation",
+      "domain": "thenation.com",
+      "seller_id": "069",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Reason",
+      "domain": "reason.com",
+      "seller_id": "070",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Slant Magazine",
+      "domain": "slantmagazine.com",
+      "seller_id": "071",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "DW",
+      "domain": "dw.com",
+      "seller_id": "072",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
