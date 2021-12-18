@@ -367,6 +367,18 @@
       "domain": "dw.com",
       "seller_id": "072",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Aljazeera",
+      "domain": "aljazeera.com",
+      "seller_id": "073",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "TV Series Finale",
+      "domain": "tvseriesfinale.com",
+      "seller_id": "074",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
