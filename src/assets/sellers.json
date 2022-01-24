@@ -379,8 +379,32 @@
       "domain": "tvseriesfinale.com",
       "seller_id": "074",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Insider Paper",
+      "domain": "insiderpaper.com",
+      "seller_id": "075",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "This Is Anfield",
+      "domain": "thisisanfield.com",
+      "seller_id": "076",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Film School Rejects",
+      "domain": "filmschoolrejects.com",
+      "seller_id": "077",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Komando",
+      "domain": "komandon.com",
+      "seller_id": "078",
+      "seller_type": "PUBLISHER"
     }
-  ]
+]
 }
 
 
