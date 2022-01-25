@@ -400,11 +400,18 @@
     },
     {
       "name": "Komando",
-      "domain": "komandon.com",
+      "domain": "komando.com",
       "seller_id": "078",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Top Speed",
+      "domain": "topspeed.com",
+      "seller_id": "079",
+      "seller_type": "PUBLISHER"
     }
-]
+
+  ]
 }
 
 
