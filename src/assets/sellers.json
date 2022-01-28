@@ -409,8 +409,13 @@
       "domain": "topspeed.com",
       "seller_id": "079",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Insider Paper",
+      "domain": "insiderpaper.com",
+      "seller_id": "080",
+      "seller_type": "PUBLISHER"
     }
-
   ]
 }
 
