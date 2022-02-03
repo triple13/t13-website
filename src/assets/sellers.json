@@ -411,21 +411,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Insider Paper",
-      "domain": "insiderpaper.com",
-      "seller_id": "080",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Investor Observer",
       "domain": "investorobserver..com",
-      "seller_id": "081",
+      "seller_id": "080",
       "seller_type": "PUBLISHER"
     },
     {
       "name": "Nat Law Review",
       "domain": "natlawreview.com",
-      "seller_id": "082",
+      "seller_id": "081",
       "seller_type": "PUBLISHER"
     }
 
