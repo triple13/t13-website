@@ -1,3 +1,5 @@
+UPDATED SELLERS.JSON - 2022-02-18
+
 {
   "contact_address": "Triple 13 Ltd, Scott House, Suite 1, The Concourse, Waterloo Station, London, SE1 7LY, UK",
   "version": "1.0",
@@ -57,12 +59,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "GoFar Enterprises Ltd",
-      "domain": "singletrackworld.com",
-      "seller_id": "011",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Lifecycle Marketing Ltd",
       "domain": "lifecyclemarketing.co.uk",
       "seller_id": "013",
@@ -105,12 +101,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "The Middle-Sized Garden",
-      "domain": "themiddlesizedgarden.co.uk",
-      "seller_id": "022",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Vivat Direct Ltd",
       "domain": "readersdigest.co.uk",
       "seller_id": "024",
@@ -135,21 +125,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "HanCinema",
-      "domain": "hancinema.net",
-      "seller_id": "030",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Energy JobLine Ltd",
       "domain": "enegyjobline.com",
       "seller_id": "031",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Outmatch Associates Inc",
-      "domain": "outmatch.org",
-      "seller_id": "032",
       "seller_type": "PUBLISHER"
     },
     {
@@ -162,12 +140,6 @@
       "name": "British Forces Broadcasting Service",
       "domain": "bfbs.com",
       "seller_id": "034",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": " Talk Basket  ",
-      "domain": "talkbasket.net",
-      "seller_id": "035",
       "seller_type": "PUBLISHER"
     },
     {
@@ -201,12 +173,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Publisher First Inc (Freestar)",
-      "domain": "freestar.com",
-      "seller_id": "041",
-      "seller_type": "INTERMEDIARY"
-    },
-    {
       "name": "Valnet Inc",
       "domain": "valnetinc.com",
       "seller_id": "042",
@@ -225,18 +191,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "SamMobile BV",
-      "domain": "sammobile.com",
-      "seller_id": "045",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "What Culture Ltd",
-      "domain": "whatculture.com",
-      "seller_id": "046",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Wasted Talent",
       "domain": "wastedtalent.com",
       "seller_id": "048",
@@ -249,21 +203,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Benzinga",
+      "name": "Accretive Capital LLC",
       "domain": "benzinga.com",
       "seller_id": "053",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Tennis Tonic",
+      "name": "Tonic Consultancy Pte Ltd",
       "domain": "tennistonic.com",
       "seller_id": "054",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Chicago Reader",
-      "domain": "chicagoreader.com",
-      "seller_id": "055",
       "seller_type": "PUBLISHER"
     },
     {
@@ -273,37 +221,31 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Ubuntu Pit",
-      "domain": "ubuntupit.com",
-      "seller_id": "057",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Its Foss",
+      "name": "CHMOD 777 Media Tech OPC PVT LTD",
       "domain": "news.itsfoss.com",
       "seller_id": "058",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Pink Villa",
+      "name": "Pinkvilla Inc",
       "domain": "pinkvilla.com",
       "seller_id": "059",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "amp.university",
-      "domain": "amp.university",
+      "name": "Triple13 Ltd",
+      "domain": "triple13.io",
       "seller_id": "060",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "The Game House LLC",
-      "domain": "thegamehaus.com",
+      "name": "RealNetworks, Inc",
+      "domain": "realnetworks.com",
       "seller_id": "061",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Pajiba",
+      "name": "Scathing Websites LLC",
       "domain": "pajiba.com",
       "seller_id": "062",
       "seller_type": "PUBLISHER"
@@ -315,13 +257,13 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Geeksaresexy",
+      "name": "Yan Fortin",
       "domain": "geeksaresexy.net",
       "seller_id": "064",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Moviefone",
+      "name": "Born In Cleveland LLC",
       "domain": "moviefone.com",
       "seller_id": "065",
       "seller_type": "PUBLISHER"
@@ -333,49 +275,43 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Healthday",
+      "name": "eHealthcare Solutions LLC",
       "domain": "consumer.healthday.com",
       "seller_id": "067",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Slant Magazine",
-      "domain": "slantmagazine.com",
-      "seller_id": "068",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "The Nation",
+      "name": "The Nation Company LLC",
       "domain": "thenation.com",
       "seller_id": "069",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Reason",
-      "domain": "reason.com",
+      "name": "Reason Foundation",
+      "domain": "reason.org",
       "seller_id": "070",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Slant Magazine",
+      "name": "Slant Magazine LLC",
       "domain": "slantmagazine.com",
       "seller_id": "071",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "DW",
+      "name": "Deutsche Welle",
       "domain": "dw.com",
       "seller_id": "072",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Aljazeera",
-      "domain": "aljazeera.com",
+      "name": "AlJazeera Media Network",
+      "domain": "network.aljazeera.net",
       "seller_id": "073",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "TV Series Finale",
+      "name": "My Design Studio LLC",
       "domain": "tvseriesfinale.com",
       "seller_id": "074",
       "seller_type": "PUBLISHER"
@@ -387,43 +323,217 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "This Is Anfield",
+      "name": "Soccer Publishing Limited",
       "domain": "thisisanfield.com",
       "seller_id": "076",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Film School Rejects",
+      "name": "Reject Media LLC",
       "domain": "filmschoolrejects.com",
       "seller_id": "077",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Komando",
-      "domain": "komando.com",
+      "name": "WestStar Multimedia Entertainment Inc",
+      "domain": "weststar.com",
       "seller_id": "078",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Top Speed",
+      "name": "Daixtech Inc",
       "domain": "topspeed.com",
       "seller_id": "079",
       "seller_type": "PUBLISHER"
     },
     {
       "name": "Investors Observer",
-      "domain": "investorsobserver..com",
+      "domain": "investorsobserver.com",
       "seller_id": "080",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Nat Law Review",
-      "domain": "natlawreview.com",
+      "name": "National Law Forum LLC",
+      "domain": "nationallawforum.com",
       "seller_id": "081",
       "seller_type": "PUBLISHER"
     }
+    {
+      "name": "Hardware Times Pvt Ltd",
+      "domain": "hardwaretimes.com",
+      "seller_id": "082",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Soccer Publishing Limited",
+      "domain": "thisisanfield.com",
+      "seller_id": "082",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "The Social Edge",
+      "domain": "georgetakei.com",
+      "seller_id": "083",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Bleeping Computer LLC",
+      "domain": "bleepingcomputer.com",
+      "seller_id": "041",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Happy Mutants LLC",
+      "domain": "boingboing.net",
+      "seller_id": "084",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "SXL Media Group",
+      "domain": "gottabemobile.com",
+      "seller_id": "083",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Filmifeed",
+      "domain": "filmifeed.com",
+      "seller_id": "086",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Popdust Inc",
+      "domain": "popdust.com",
+      "seller_id": "087",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Basketball News International LLC",
+      "domain": "basketballnews.com",
+      "seller_id": "088",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "MLRP Media Group Inc",
+      "domain": "mlrpmediagroup.com",
+      "seller_id": "089",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Vandal Networks SL",
+      "domain": "elespanol.com",
+      "seller_id": "090",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Cointelegraph",
+      "domain": "cointelegraph.com",
+      "seller_id": "091",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Photography Life Inc",
+      "domain": "photographylife.com",
+      "seller_id": "092",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "PuppyFinder",
+      "domain": "puppyfinder.com",
+      "seller_id": "093",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Parli Inc",
+      "domain": "slant.co",
+      "seller_id": "094",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Sports Mockery Inc",
+      "domain": "sportsmockery.com",
+      "seller_id": "095",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "We Got This Covered",
+      "domain": "wegotthiscovered.com",
+      "seller_id": "096",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Your EDM LLC",
+      "domain": "youredm.com",
+      "seller_id": "097",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "PanaGenius Inc",
+      "domain": "panagenius.com",
+      "seller_id": "098",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "WP Engine Inc",
+      "domain": "wpengine.com",
+      "seller_id": "099",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Valuewalk LLC",
+      "domain": "valuewalk.com",
+      "seller_id": "100",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "JoBlo Media Inc",
+      "domain": "joblo.com",
+      "seller_id": "101",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "AK Internet Consulting Inc",
+      "domain": "akinternetconsulting.com",
+      "seller_id": "102",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Young Hollywood LLC",
+      "domain": "younghollywood.com",
+      "seller_id": "103",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Futbol Sites Network Group",
+      "domain": "futbolsites.net",
+      "seller_id": "104",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": "Coppini Trading Pty Ltd",
+      "domain": "tennisworldusa.org",
+      "seller_id": "105",
+      "seller_type": "PUBLISHER"
+    }
+    {
+      "name": “Tango Media Corporation",
+      "domain": "yourtango.com",
+      "seller_id": "106",
+      "seller_type": "PUBLISHER"
+    }
 
-  ]
-}
+  }]}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
