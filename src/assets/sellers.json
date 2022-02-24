@@ -522,6 +522,12 @@
       "domain": "demo.freestar.com",
       "seller_id": "108",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": “Good Worldwide Inc",
+      "domain": "goodinc.com",
+      "seller_id": "109",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
