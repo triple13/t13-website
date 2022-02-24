@@ -516,6 +516,12 @@
       "domain": "yourtango.com",
       "seller_id": "106",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Publisher First, Inc",
+      "domain": "demo.freestar.com",
+      "seller_id": "108",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
