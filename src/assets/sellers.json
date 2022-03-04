@@ -537,8 +537,20 @@
     },
     {
       "name": "Express Network Private Limited",
-      "domain": "",
+      "domain": "newindianexpress.com",
       "seller_id": "111",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "AK Internet Consulting Inc",
+      "domain": "switchingtomac.com",
+      "seller_id": "112",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "AK Internet Consulting Inc",
+      "domain": "helpdeskgeek.com",
+      "seller_id": "113",
       "seller_type": "PUBLISHER"
     }
   ]
