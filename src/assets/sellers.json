@@ -542,16 +542,23 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "AK Internet Consulting Inc",
-      "domain": "switchingtomac.com",
+      "name": "Comeback Media",
+      "domain": "thecomeback.com",
       "seller_id": "112",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "AK Internet Consulting Inc",
-      "domain": "helpdeskgeek.com",
+      "name": "MixedBin",
+      "domain": "mixedbin.com",
       "seller_id": "113",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Daily Caller Inc",
+      "domain": "dailycaller.com",
+      "seller_id": "114",
+      "seller_type": "PUBLISHER"
     }
+
   ]
 }
