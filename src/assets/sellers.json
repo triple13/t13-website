@@ -558,7 +558,18 @@
       "domain": "dailycaller.com",
       "seller_id": "114",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Pulse 2.0 LLC",
+      "domain": "pulse2.com",
+      "seller_id": "115",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Mireille Anawati",
+      "domain": "thecollector.com",
+      "seller_id": "116",
+      "seller_type": "PUBLISHER"
     }
-
   ]
 }
