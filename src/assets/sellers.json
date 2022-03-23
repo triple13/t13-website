@@ -570,6 +570,49 @@
       "domain": "thecollector.com",
       "seller_id": "116",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Hello Ltd",
+      "domain": "hellomagazine.com",
+      "seller_id": "118",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Brit+Co.",
+      "domain": "brit.co",
+      "seller_id": "119",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Empresa Editora El Comercio SA",
+      "domain": "grupoelcomercio.com.pe",
+      "seller_id": "120",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Nasdaq",
+      "domain": "nasdaq.com",
+      "seller_id": "121",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "VaynerStudios LLC",
+      "domain": "gallerymediagroup.com",
+      "seller_id": "122",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Black Enterprise",
+      "domain": "blackenterprise.com",
+      "seller_id": "123",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Black Enterprise",
+      "domain": "blackenterprise.com",
+      "seller_id": "123",
+      "seller_type": "PUBLISHER"
     }
+
   ]
 }
