@@ -612,7 +612,24 @@
       "domain": "blackenterprise.com",
       "seller_id": "123",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Essence Communications LLC",
+      "domain": "essence.com",
+      "seller_id": "124",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Bandwidth Place LLC",
+      "domain": "bandwidthplace.com",
+      "seller_id": "125",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Wrestling Headlines",
+      "domain": "wrestlingheadlines.com",
+      "seller_id": "126",
+      "seller_type": "PUBLISHER"
     }
-
   ]
 }
