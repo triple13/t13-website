@@ -630,6 +630,25 @@
       "domain": "wrestlingheadlines.com",
       "seller_id": "126",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Motrolix LLC",
+      "domain": "motrolix.com",
+      "seller_id": "127",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "G/O Media",
+      "domain": "g-omedia.com",
+      "seller_id": "128",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Listen Notes, LLC",
+      "domain": "listennotes.com",
+      "seller_id": "129",
+      "seller_type": "PUBLISHER"
     }
+
   ]
 }
