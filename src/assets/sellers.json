@@ -640,15 +640,20 @@
     {
       "name": "G/O Media",
       "domain": "g-omedia.com",
-      "seller_id": "128",
+      "seller_id": "1157",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Listen Notes, LLC",
+      "name": "Listen Notes LLC",
       "domain": "listennotes.com",
       "seller_id": "129",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Ultimate Guitar USA LLC",
+      "domain": "ultimate-guitar.com",
+      "seller_id": "477",
+      "seller_type": "PUBLISHER"
     }
-
   ]
 }
