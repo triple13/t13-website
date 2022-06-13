@@ -654,6 +654,30 @@
       "domain": "ultimate-guitar.com",
       "seller_id": "477",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Neowin LLC",
+      "domain": "neowin.net",
+      "seller_id": "1151",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "G/O Media",
+      "domain": "g-omedia.com",
+      "seller_id": "1157",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "eWrestlingNews",
+      "domain": "ewrestlingnews.com",
+      "seller_id": "1161",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Grupo Imagen S.A. de C.V.",
+      "domain": "imagen.com.mx",
+      "seller_id": "1230",
+      "seller_type": "PUBLISHER"
     }
   ]
 }
