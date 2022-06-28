@@ -56,12 +56,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Lifecycle Marketing Ltd",
-      "domain": "lifecyclemarketing.co.uk",
-      "seller_id": "013",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Kelsey Media Ltd",
       "domain": "kelsey.co.uk",
       "seller_id": "014",
@@ -104,12 +98,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Zetha Ltd",
-      "domain": "zetha.co.uk",
-      "seller_id": "025",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Adsparc PTY Ltd",
       "domain": "adsparc.com",
       "seller_id": "027",
@@ -128,12 +116,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Business Data Group Ltd",
-      "domain": "bdgroup.co.uk",
-      "seller_id": "033",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "British Forces Broadcasting Service",
       "domain": "bfbs.com",
       "seller_id": "034",
@@ -143,12 +125,6 @@
       "name": "925 LLC",
       "domain": "9to5mac.com",
       "seller_id": "036",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Brave Bison",
-      "domain": "bravebison.io",
-      "seller_id": "037",
       "seller_type": "PUBLISHER"
     },
     {
@@ -170,6 +146,12 @@
       "seller_type": "PUBLISHER"
     },
     {
+      "name": "Bleeping Computer LLC",
+      "domain": "bleepingcomputer.com",
+      "seller_id": "041",
+      "seller_type": "PUBLISHER"
+    },
+    {
       "name": "Valnet Inc",
       "domain": "valnetinc.com",
       "seller_id": "042",
@@ -182,21 +164,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "4Control Media Inc",
-      "domain": "sohh.com",
-      "seller_id": "044",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Wasted Talent",
       "domain": "wastedtalent.com",
       "seller_id": "048",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Sports Mole Ltd",
-      "domain": "sportsmole.co.uk",
-      "seller_id": "051",
       "seller_type": "PUBLISHER"
     },
     {
@@ -248,12 +218,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Al Nisr Publishing LLC",
-      "domain": "gulfnews.com",
-      "seller_id": "063",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Yan Fortin",
       "domain": "geeksaresexy.net",
       "seller_id": "064",
@@ -269,12 +233,6 @@
       "name": "Reach PLC",
       "domain": "reachplc.com",
       "seller_id": "066",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "eHealthcare Solutions LLC",
-      "domain": "consumer.healthday.com",
-      "seller_id": "067",
       "seller_type": "PUBLISHER"
     },
     {
@@ -320,12 +278,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Soccer Publishing Limited",
-      "domain": "thisisanfield.com",
-      "seller_id": "076",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Reject Media LLC",
       "domain": "filmschoolrejects.com",
       "seller_id": "077",
@@ -335,12 +287,6 @@
       "name": "WestStar Multimedia Entertainment Inc",
       "domain": "weststar.com",
       "seller_id": "078",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Daixtech Inc",
-      "domain": "topspeed.com",
-      "seller_id": "079",
       "seller_type": "PUBLISHER"
     },
     {
@@ -362,21 +308,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Soccer Publishing Limited",
-      "domain": "thisisanfield.com",
-      "seller_id": "107",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "The Social Edge",
       "domain": "georgetakei.com",
       "seller_id": "083",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Bleeping Computer LLC",
-      "domain": "bleepingcomputer.com",
-      "seller_id": "041",
       "seller_type": "PUBLISHER"
     },
     {
@@ -512,9 +446,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Tango Media Corporation",
+      "name": "Tango Publishing Corporation",
       "domain": "yourtango.com",
       "seller_id": "106",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Soccer Publishing Limited",
+      "domain": "thisisanfield.com",
+      "seller_id": "107",
       "seller_type": "PUBLISHER"
     },
     {
@@ -530,7 +470,7 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Real GM",
+      "name": "RealGM LLC",
       "domain": "realgm.com",
       "seller_id": "110",
       "seller_type": "PUBLISHER"
@@ -572,13 +512,13 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Hello Ltd",
+      "name": "Hola SL",
       "domain": "hellomagazine.com",
       "seller_id": "118",
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Brit+Co.",
+      "name": "Brit Media Inc",
       "domain": "brit.co",
       "seller_id": "119",
       "seller_type": "PUBLISHER"
@@ -599,12 +539,6 @@
       "name": "VaynerStudios LLC",
       "domain": "gallerymediagroup.com",
       "seller_id": "122",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "name": "Black Enterprise",
-      "domain": "blackenterprise.com",
-      "seller_id": "123",
       "seller_type": "PUBLISHER"
     },
     {
@@ -638,15 +572,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "G/O Media",
-      "domain": "g-omedia.com",
-      "seller_id": "1157",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "name": "Listen Notes LLC",
       "domain": "listennotes.com",
       "seller_id": "129",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "NextShark Inc",
+      "domain": "nextshark.com",
+      "seller_id": "140",
       "seller_type": "PUBLISHER"
     },
     {
@@ -674,9 +608,21 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "name": "Grupo Imagen S.A. de C.V.",
-      "domain": "imagen.com.mx",
-      "seller_id": "1230",
+      "name": "Absolute Sports Pvt Ltd",
+      "domain": "sportskeeda.com",
+      "seller_id": "1212",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "The Arena Group",
+      "domain": "thearenagroup.net",
+      "seller_id": "1207",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "DRD Life Inc",
+      "domain": "droid-life.com",
+      "seller_id": "1215",
       "seller_type": "PUBLISHER"
     }
   ]
