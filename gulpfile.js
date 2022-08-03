@@ -3,7 +3,7 @@ const gulp = require('gulp');
 const plumber = require('gulp-plumber');
 const autoprefixer = require('gulp-autoprefixer');
 const fileinclude = require('gulp-file-include');
-const sass = require('gulp-sass');
+const sass = require('gulp-sass')(require('sass'));
 const filter = require('gulp-filter')
 const minimist = require('minimist');
 const del = require('del');
@@ -180,12 +180,12 @@ gulp.task('html', gulp.series('styles', function buildHtml() {
 /**
  * Checks resulting output AMP HTML for validity.
  */
-gulp.task('validate', function validate() {
-    return gulp.src(paths.html.dest + '/**/*.html')
-        .pipe(gulpAmpValidator.validate())
-        .pipe(gulpAmpValidator.format())
-        .pipe(gulpAmpValidator.failAfterError());
-});
+// gulp.task('validate', function validate() {
+//     return gulp.src(paths.html.dest + '/**/*.html')
+//         .pipe(gulpAmpValidator.validate())
+//         .pipe(gulpAmpValidator.format())
+//         .pipe(gulpAmpValidator.failAfterError());
+// });
 
 /**
  * Removes all files from the distribution directory, and also the CSS build
@@ -206,7 +206,7 @@ gulp.task('build', gulp.series('images',
     'lib',
     'assets',
     'html',
-    'validate'
+//    'validate'
 ));
 
 /**
@@ -240,6 +240,7 @@ gulp.task('watch', function watch(done) {
     done();
 });
 
+
 /**
  * Prepares a clean build.
  */
@@ -253,3 +254,14 @@ gulp.task('default', gulp.series('build',
     'browserSync',
     'watch'
 ));
+
+/*  Signals async completion
+const { src, dest } = require('gulp');
+
+function streamTask() {
+  return src('*.js')
+    .pipe(dest('output'));
+}
+
+exports.default = streamTask;
+*/
