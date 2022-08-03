@@ -15,6 +15,7 @@ If the branch needs to be updated
 ```
 
 ``` updating sellers.json
+  git pull
   gulp build
   git add .
   git commit -m "message"
