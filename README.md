@@ -14,3 +14,10 @@ If the branch needs to be updated
   git push origin `git subtree split --prefix dist main`:gh-pages --force
 ```
 
+``` updating sellers.json
+  gulp build
+  git add .
+  git commit -m "message"
+  git push main
+  git push origin `git subtree split --prefix dist main`:gh-pages --force
+```   
