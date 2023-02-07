@@ -15,10 +15,13 @@ If the branch needs to be updated
 ```
 
 ``` updating sellers.json
+  git checkout main
   git pull
+  rm -rf dist
   gulp build
-  git add .
+  git add dist -f
   git commit -m "message"
-  git push main
   git push origin `git subtree split --prefix dist main`:gh-pages --force
+  git reset --soft HEAD~1
+  git stash
 ```   
