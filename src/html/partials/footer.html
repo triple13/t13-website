@@ -1,28 +1,35 @@
-<footer class="border-top flex justify-center ampfooter">
-    <div class="max-width-4 flex col-12 ampfooter-first-div">
-        <div class="flex-column lg-col-6 self-center sm-col-12 dark-gray">
-            <div class="ampfooter-copyright-text"><span>&copy; 2021&nbsp;</span><span
-                    class="ampfooter-span">Triple13 Ltd</span></div>
-            <div class="ampfooter-copyright-text"><span>All Rights Reserved</span></div>
+<footer class="border-top flex flex-column p4" style="background-color: #2c548e; border: 2px white solid ">
+    <div class="flex flex-column col-12 justify-center items-center mb2 mt2" >
+        <div class="lg-col-2 sm-col-7">
+            <amp-img
+                    src="./img/freestar.png"
+                    height="100"
+                    width="525"
+                    layout="responsive"
+                    alt="Fast, Efficient & Seamless Auctions At Scale"
+                    noloading=""
+            >
+                <div placeholder="" class="commerce-loader"></div>
+            </amp-img>
         </div>
-        <div class="lg-col-2 sm-col-12 self-center">
-            %%include('../partials/social.html')
+    </div>
+    <div class="flex col-12 justify-center">
+        <div class="max-width-3">
+            <p class="lg-col-12 sm-col-12 self-center text">
+                In an ever-changing industry full of buzzwords and empty promises, Freestar was founded to simplify
+                the challenges of monetizing websites and apps. Leveraging the ideal mix of programmatic header bidder, private marketplace deals,
+                and a unified analytics platform. Freestar's team of monetization experts help publishers, e-commerce
+                sites and apps unleash their true revenue potential. Freestar's ever-expanding family of publisher and app developer
+                partners reach over 70% of all U.S. internet users each month and provide unique opportunities for advertisers
+                to reach their target audiences efficiently at scale. For more information, visit www.freestar.com.
+            </p>
         </div>
-        <div class="lg-col-6 sm-col-12 flex flex-wrap self-center ampfooter-links dark-gray">
-            <div class="lg-col-6 sm-col-12 mt1 mb1 ampfooter-link">
-                <a href="privacy-policy.html" class="text-decoration-none ampfooter-anchor">Privacy policy</a>
-            </div>
-            <div class="lg-col-6 sm-col-12 mt1 mb1 ampfooter-link">
-                <div id="ccpa-consent-ui" class="consent-ccpa text-decoration-none ampfooter-anchor">
-                    <a on="tap:consent.prompt(consent=SourcePoint)">Do Not Sell My Info</a>
-                </div>
-                <div id="eea-consent-ui" class="consent-eea text-decoration-none ampfooter-anchor">
-                    <a on="tap:consent.prompt(consent=SourcePoint)">Privacy Settings</a>
-                </div>
-            </div>
-            <div class="lg-col-6 sm-col-12 mt1 mb1 ampfooter-link">
-                <a href="terms-and-conditions.html" class="text-decoration-none ampfooter-anchor">Terms and Conditions</a>
-            </div>
+    </div>
+    <div class="flex col-12 justify-center">
+        <div class="lg-mt4 sm-mt2">
+            <span class="text">&copy; 2023&nbsp; Publisher First, Inc. All rights reserved.
+                <a href="https://freestar.com/privacy-policy/" class="text" target="_blank">Privacy Policy.</a>
+            </span>
         </div>
     </div>
 </footer>
