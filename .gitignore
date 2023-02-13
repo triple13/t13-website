@@ -1,9 +1,0 @@
-.idea
-
-.DS_Store
-
-node_modules
-
-src/css
-
-dist
