@@ -552,6 +552,24 @@
 			"domain": "cordcuttersnews.com",
 			"seller_id": "1522",
 			"seller_type": "PUBLISHER"
+		},
+		{
+			"name": "Quillt Media",
+			"domain": "quillt.com",
+			"seller_id": "1548",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"name": "GSMArena",
+			"domain": "gsmarena.com",
+			"seller_id": "1531",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"name": "Kaushan Media Corp",
+			"domain": "allwomenstalk.com",
+			"seller_id": "1468",
+			"seller_type": "PUBLISHER"
 		}
 	]
 }
