@@ -32,12 +32,6 @@
 			"seller_type": "PUBLISHER"
 		},
 		{
-			"name": "Double Black Ltd",
-			"domain": "rpgsite.com",
-			"seller_id": "006",
-			"seller_type": "PUBLISHER"
-		},
-		{
 			"name": "Digital MotorSports Media Ltd",
 			"domain": "f1i.com",
 			"seller_id": "1364",
@@ -53,18 +47,6 @@
 			"name": "Kelsey Media Ltd",
 			"domain": "kelsey.co.uk",
 			"seller_id": "1372",
-			"seller_type": "PUBLISHER"
-		},
-		{
-			"name": "Phil Sumbler Internet Publishing",
-			"domain": "planetswans.co.uk",
-			"seller_id": "1373",
-			"seller_type": "PUBLISHER"
-		},
-		{
-			"name": "RunLevelThree Ltd",
-			"domain": "runlevelthree.com",
-			"seller_id": "1374",
 			"seller_type": "PUBLISHER"
 		},
 		{
@@ -95,12 +77,6 @@
 			"name": "Energy JobLine Ltd",
 			"domain": "enegyjobline.com",
 			"seller_id": "031",
-			"seller_type": "PUBLISHER"
-		},
-		{
-			"name": "British Forces Broadcasting Service",
-			"domain": "bfbs.com",
-			"seller_id": "034",
 			"seller_type": "PUBLISHER"
 		},
 		{
@@ -256,7 +232,7 @@
 		{
 			"name": "Hardware Times Pvt Ltd",
 			"domain": "hardwaretimes.com",
-			"seller_id": "1473",
+			"seller_id": "1437",
 			"seller_type": "PUBLISHER"
 		},
 		{
