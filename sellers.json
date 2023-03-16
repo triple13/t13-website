@@ -1143,6 +1143,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "lipstickalley.com",
+            "name": "Lipstick Alley ",
+            "seller_id": "1584",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "scorestream.com",
             "name": "ScoreStream, Inc.",
             "seller_id": "817",
@@ -1161,6 +1167,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "goconqr.com",
+            "name": "Examtime LTD",
+            "seller_id": "1585",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pokemonprice.com",
             "name": "Pokemon Price",
             "seller_id": "818",
@@ -1173,9 +1185,21 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "coupongini.com",
+            "name": "Inventive Key Private Limited ",
+            "seller_id": "1586",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "unlimitedrevs.com",
             "name": "unlimitedrevs",
             "seller_id": "1331",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "www.mapsofworld.com",
+            "name": "MapSherpa Inc",
+            "seller_id": "1587",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1188,6 +1212,12 @@
             "domain": "twistedsifter.com",
             "name": "twistedsifter",
             "seller_id": "1332",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "babypips.com",
+            "name": "Babypips.com ",
+            "seller_id": "1588",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1209,6 +1239,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "ringsidenews.com",
+            "name": "Ringside News ",
+            "seller_id": "1589",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bodybuilding.com",
             "name": "Vitalize, LLC",
             "seller_id": "822",
@@ -1224,6 +1260,12 @@
             "domain": "tapology.com",
             "name": "tapology",
             "seller_id": "1334",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "shareably.net",
+            "name": "Shareably Media LLC ",
+            "seller_id": "1590",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1398,12 +1440,6 @@
             "domain": "styledemocracy.com",
             "name": "styledemocracy Inc",
             "seller_id": "1342",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "worldofcardgames.com",
-            "name": "Marya R Doery",
-            "seller_id": "319",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2703,6 +2739,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "dwellsy.com",
+            "name": "Dwellsy Inc.",
+            "seller_id": "1411",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tvseriesfinale.com",
             "name": "My Design Studio LLC",
             "seller_id": "132",
@@ -3136,7 +3178,7 @@
         },
         {
             "domain": "thecinemaholic.com",
-            "name": "Cinemaholic Inc.",
+            "name": "Gomsy Media LLC",
             "seller_id": "407",
             "seller_type": "PUBLISHER"
         },
@@ -3627,12 +3669,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "livecoinwatch.com",
-            "name": "LiveCoinWatch LLC",
-            "seller_id": "1455",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "tripstodiscover.com",
             "name": "Strive Media",
             "seller_id": "176",
@@ -3963,6 +3999,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "familylifegoals.com",
+            "name": "Outmatch Associates Inc",
+            "seller_id": "1216",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "elpais.hn",
             "name": "Medios Unidos S.A. de C.V.",
             "seller_id": "705",
@@ -4194,12 +4236,6 @@
             "domain": "rave.io",
             "name": "Rave Inc",
             "seller_id": "1483",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "carlostestapp.com",
-            "name": "Born In Cleveland LLC",
-            "seller_id": "716",
             "seller_type": "PUBLISHER"
         },
         {
