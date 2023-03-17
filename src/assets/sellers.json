@@ -1287,6 +1287,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "supremecommunity.com",
+            "name": "Thommen IT ",
+            "seller_id": "1591",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "geeky-gadgets.com",
             "name": "Geeky-Gadgets.com",
             "seller_id": "568",
@@ -1311,6 +1317,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.anthem.co.uk/",
+            "name": "Anthem Publishing Ltd",
+            "seller_id": "1592",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "365chess.com",
             "name": "365 Chess",
             "seller_id": "825",
@@ -1326,6 +1338,12 @@
             "domain": "shopforyourcause.com",
             "name": "shopforyourcause",
             "seller_id": "1337",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lotostats.ro",
+            "name": "Creative Events Service SRL",
+            "seller_id": "1593",
             "seller_type": "PUBLISHER"
         },
         {
