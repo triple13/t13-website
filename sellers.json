@@ -1395,6 +1395,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wordcheats.com",
+            "name": "Firecracker Software LLC",
+            "seller_id": "1595",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "raider.io",
             "name": "Ludicrous Speed LLC",
             "seller_id": "316",
@@ -1410,6 +1416,12 @@
             "domain": "aggro-gator.com",
             "name": "theworstthingsforsale",
             "seller_id": "1340",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "planefinder.net",
+            "name": "Pinkfroot LTD",
+            "seller_id": "1596",
             "seller_type": "PUBLISHER"
         },
         {
