@@ -5217,12 +5217,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "zoosk.com",
-            "name": "Spark Networks, Inc.",
-            "seller_id": "503",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stacker.com",
             "name": "Stacker Holdings LLC",
             "seller_id": "759",
@@ -5370,12 +5364,6 @@
             "domain": "dotandbo.com",
             "name": "OpenSky",
             "seller_id": "766",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "untappdiosapp.com",
-            "name": "Next Glass",
-            "seller_id": "1022",
             "seller_type": "PUBLISHER"
         },
         {
