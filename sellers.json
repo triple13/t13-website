@@ -2547,6 +2547,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "emailondeck.com",
+            "name": "Lucid LXIX",
+            "seller_id": "120",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "copypastecharacter.com",
             "name": "Todays Growth Consultant",
             "seller_id": "376",
