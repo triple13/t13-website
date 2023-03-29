@@ -1491,6 +1491,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gurushots.com",
+            "name": "GuruShots Ltd",
+            "seller_id": "1599",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "vandal.elespanol.com",
             "name": "Vandal Networks SL",
             "seller_id": "832",
@@ -1506,6 +1512,12 @@
             "domain": "onlineslangdictionary.com",
             "name": "The Online Slang Dictionary",
             "seller_id": "1344",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "theblock.co",
+            "name": "Block Bonds Holding Inc",
+            "seller_id": "1600",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4656,12 +4668,6 @@
             "domain": "crowdmedia.pl",
             "name": "Mediana S.A.",
             "seller_id": "1501",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tigerdirect.com",
-            "name": "Insight Direct USA, Inc",
-            "seller_id": "734",
             "seller_type": "PUBLISHER"
         },
         {
