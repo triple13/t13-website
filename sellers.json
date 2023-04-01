@@ -1533,6 +1533,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bearstalk.com",
+            "name": "Bears Talk LLC ",
+            "seller_id": "1601",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "time.is",
             "name": "North Code AS",
             "seller_id": "66",
