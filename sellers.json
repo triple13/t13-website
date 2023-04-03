@@ -1497,12 +1497,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "uberduck.ai",
-            "name": "Uberduck.ai",
-            "seller_id": "1088",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "onlineslangdictionary.com",
             "name": "The Online Slang Dictionary",
             "seller_id": "1344",
@@ -1788,12 +1782,6 @@
             "domain": "thefreethoughtproject.com",
             "name": "Free Thought, LLC",
             "seller_id": "78",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "epicstream.com",
-            "name": "Gfinity plc",
-            "seller_id": "846",
             "seller_type": "PUBLISHER"
         },
         {
