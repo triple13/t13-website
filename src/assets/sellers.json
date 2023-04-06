@@ -1539,6 +1539,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "www.amcnetworks.com",
+            "name": "AMC Networks International ",
+            "seller_id": "1602",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "eventhubs.com",
             "name": "EventHubs LLC",
             "seller_id": "67",
