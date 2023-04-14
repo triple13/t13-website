@@ -1707,12 +1707,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "bittbox.com",
-            "name": "MNCS LCC",
-            "seller_id": "1097",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "theimpulsivebuy.com",
             "name": "theimpulsivebuy",
             "seller_id": "1353",
@@ -3096,12 +3090,6 @@
             "domain": "Thecustomdroid.com",
             "name": "TheCustomDroid",
             "seller_id": "1424",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "azlottery.com",
-            "name": "OH Partners",
-            "seller_id": "657",
             "seller_type": "PUBLISHER"
         },
         {
