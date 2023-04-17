@@ -5409,12 +5409,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "gamingpirate.com",
-            "name": "Gaming Pirate",
-            "seller_id": "1023",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dd-wrt.com",
             "name": "DD-WRT",
             "seller_id": "1279",
