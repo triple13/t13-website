@@ -1695,6 +1695,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "musicstax.com",
+            "name": "Musicstax",
+            "seller_id": "1608",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "130point.com",
             "name": "130 Point Pty Ltd",
             "seller_id": "841",
