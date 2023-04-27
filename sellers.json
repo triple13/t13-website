@@ -1743,6 +1743,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "winprizesonline.com",
+            "name": "B-Tech Holdings LLC",
+            "seller_id": "1610",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thedailyhoosier.com",
             "name": "The Daily Hoosier, LLC",
             "seller_id": "843",
@@ -1758,6 +1764,12 @@
             "domain": "gojinshi.com",
             "name": "Venture 4th Media LLC",
             "seller_id": "1355",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bad.cards",
+            "name": "Bad Cards LLC ",
+            "seller_id": "1611",
             "seller_type": "PUBLISHER"
         },
         {
