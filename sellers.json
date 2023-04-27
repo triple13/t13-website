@@ -1785,6 +1785,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "abrams-media.com",
+            "name": "Mediaite LLC ",
+            "seller_id": "1612",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "uproxx.com",
             "name": "Warner Music, Inc dba Uproxx",
             "seller_id": "589",
