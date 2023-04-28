@@ -1815,6 +1815,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "boredpanda.com",
+            "name": "UAB Pandos ",
+            "seller_id": "1613",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thefreethoughtproject.com",
             "name": "Free Thought, LLC",
             "seller_id": "78",
@@ -4878,12 +4884,6 @@
             "domain": "androidheadlines.com",
             "name": "Android Headlines",
             "seller_id": "1512",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nitromath.com",
-            "name": "TTW Innovations LLC",
-            "seller_id": "489",
             "seller_type": "PUBLISHER"
         },
         {
