@@ -897,12 +897,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "grid.news",
-            "name": "MIP, LLC",
-            "seller_id": "1063",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "parlemag.com",
             "name": "Parle Media Company LLC",
             "seller_id": "1319",
@@ -1836,6 +1830,12 @@
             "domain": "nofilmschool.com",
             "name": "NONETWORK, LLC",
             "seller_id": "1358",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "awardwallet.com",
+            "name": "AwardWallet LLC",
+            "seller_id": "1614",
             "seller_type": "PUBLISHER"
         },
         {
