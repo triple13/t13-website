@@ -1863,6 +1863,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "brainzilla.com",
+            "name": "HEX Servicos de Informatica LT",
+            "seller_id": "1615",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dermnetnz.org",
             "name": "DermNet New Zealand",
             "seller_id": "848",
