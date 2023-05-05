@@ -1881,6 +1881,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "sporticos.com",
+            "name": "Sporticos Sp. z.o.o",
+            "seller_id": "1616",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dobberhockey.com",
             "name": "Dobber Sports Inc",
             "seller_id": "849",
