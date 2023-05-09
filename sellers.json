@@ -63,12 +63,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "hothardware.com",
-            "name": "Hot Hardware, Inc",
-            "seller_id": "514",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "rokuguide.com",
             "name": "Fire Mountain Digital, LLC",
             "seller_id": "1026",
@@ -1248,12 +1242,6 @@
             "domain": "akinternetconsulting.com",
             "name": "AK Internet Conulsting, Inc.",
             "seller_id": "1079",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tellonym.me",
-            "name": "Tellonym",
-            "seller_id": "1335",
             "seller_type": "PUBLISHER"
         },
         {
