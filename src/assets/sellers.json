@@ -1899,6 +1899,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "Airportia.com",
+            "name": "Glimpse Limited ",
+            "seller_id": "1617",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fstoppers.com",
             "name": "Fstoppers",
             "seller_id": "82",
@@ -3306,12 +3312,6 @@
             "domain": "winstonbrands.com",
             "name": "Winston Brands, Inc",
             "seller_id": "1434",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "terezowens.com",
-            "name": "8blocks LLC",
-            "seller_id": "411",
             "seller_type": "PUBLISHER"
         },
         {
