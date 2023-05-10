@@ -1245,6 +1245,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tellonym.me",
+            "name": "Tellonym",
+            "seller_id": "1335",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "supremecommunity.com",
             "name": "Thommen IT ",
             "seller_id": "1591",
