@@ -1929,6 +1929,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bestsimilar.com",
+            "name": "FOP Maletskiy Ihor",
+            "seller_id": "1618",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "zacks.com",
             "name": "Zacks Analyst Watch, Inc",
             "seller_id": "1107",
