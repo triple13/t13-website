@@ -1947,6 +1947,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "daylily.com",
+            "name": "Lily Auction ",
+            "seller_id": "1619",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "f1i.com",
             "name": "Digital Motorsport Media Ltd",
             "seller_id": "1364",
