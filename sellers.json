@@ -1959,6 +1959,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "guessthe.game",
+            "name": "Sheeshblockchaineducation, LLC",
+            "seller_id": "1620",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "watchtv24.com",
             "name": "Zeinab Ghasemi",
             "seller_id": "597",
@@ -3588,12 +3594,6 @@
             "domain": "textnow.com",
             "name": "TextNow Inc",
             "seller_id": "1192",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "guessthe.game",
-            "name": "Bitfox Games Inc",
-            "seller_id": "1448",
             "seller_type": "PUBLISHER"
         },
         {
