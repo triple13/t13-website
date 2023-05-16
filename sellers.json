@@ -2109,6 +2109,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "kyero.com",
+            "name": "Portal 47 ",
+            "seller_id": "1626",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gmap-pedometer.com",
             "name": "Groovy Partners",
             "seller_id": "347",
