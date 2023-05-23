@@ -2163,6 +2163,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tinybeans.com",
+            "name": "Tinybeans USA Ltd ",
+            "seller_id": "1628",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "course-notes.org",
             "name": "Christopher Keenan",
             "seller_id": "349",
