@@ -2199,6 +2199,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "biblegateway.com",
+            "name": "HarperCollins Christian Publishing, LLC",
+            "seller_id": "1629",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "studystack.com",
             "name": "StudyStack LLC",
             "seller_id": "606",
@@ -2214,6 +2220,12 @@
             "domain": "runlevelthree.com",
             "name": "RunLevelThree Ltd",
             "seller_id": "1374",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "soccercatch.com",
+            "name": "Soccer Catch ",
+            "seller_id": "1630",
             "seller_type": "PUBLISHER"
         },
         {
