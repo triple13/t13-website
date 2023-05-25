@@ -1617,12 +1617,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "mygolfspy.com",
-            "name": "MyGolfSpy LLC",
-            "seller_id": "838",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "tinhatranch.com",
             "name": "tinhatranch",
             "seller_id": "1350",
@@ -2286,6 +2280,12 @@
             "domain": "lifelabs.com",
             "name": "LifeLabs LP",
             "seller_id": "1121",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "chordu.com",
+            "name": "Flowrec Solutions Private Limit",
+            "seller_id": "1633",
             "seller_type": "PUBLISHER"
         },
         {
