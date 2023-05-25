@@ -2247,6 +2247,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "popnable.com",
+            "name": "Netox Ltd",
+            "seller_id": "1631",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "boxrec.com",
             "name": "BoxRec LTD",
             "seller_id": "608",
@@ -2262,6 +2268,12 @@
             "domain": "streampublishing.net",
             "name": "Stream Publishing Ltd",
             "seller_id": "1376",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "addressesandpostcodes.co.uk",
+            "name": "InfoLogic Ltd",
+            "seller_id": "1632",
             "seller_type": "PUBLISHER"
         },
         {
