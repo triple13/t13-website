@@ -2367,6 +2367,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "royaldraw.com",
+            "name": "Consumer Smart Media Inc",
+            "seller_id": "1638",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "moomoo.io",
             "name": " FRVR Limited",
             "seller_id": "359",
