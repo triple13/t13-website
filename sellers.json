@@ -2433,6 +2433,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "hikersbay.com",
+            "name": "Rubicone sp. z o.o",
+            "seller_id": "1640",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "powerpyx.com",
             "name": "Alpha Online Empire FZ LLE",
             "seller_id": "361",
@@ -2463,6 +2469,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "girlstalkinsmack.com",
+            "name": "Girlstalkinsmack ",
+            "seller_id": "1641",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "latest-hairstyles.com",
             "name": "Invision Management Group LLC",
             "seller_id": "106",
@@ -2478,6 +2490,12 @@
             "domain": "hunt4freebies.com",
             "name": "Hunt4Freebies",
             "seller_id": "874",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "linuxopsys.com",
+            "name": "BTreme",
+            "seller_id": "1642",
             "seller_type": "PUBLISHER"
         },
         {
