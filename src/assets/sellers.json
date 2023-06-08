@@ -1497,6 +1497,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "basketball.realgm.com",
+            "name": "RealGM LLC",
+            "seller_id": "1090",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "steephill.tv",
             "name": "Steephill",
             "seller_id": "1346",
