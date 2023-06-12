@@ -2529,6 +2529,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "shawlocal.com",
+            "name": "Shaw Media",
+            "seller_id": "1643",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "racingdudes.com",
             "name": "Thoroughbred Racing Dudes LLC",
             "seller_id": "876",
@@ -2544,6 +2550,12 @@
             "domain": "https://ambaliyainfotech.com/",
             "name": "Ambaliya Infotech",
             "seller_id": "1388",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "genshin-builds.com",
+            "name": "AIPurrjects",
+            "seller_id": "1644",
             "seller_type": "PUBLISHER"
         },
         {
