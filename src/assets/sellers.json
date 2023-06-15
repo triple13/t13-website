@@ -2571,6 +2571,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "franchiseball.com",
+            "name": "Franchise Ball",
+            "seller_id": "1645",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "watchcharts.com",
             "name": "WatchEnthusiasts LLC",
             "seller_id": "878",
