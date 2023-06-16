@@ -2583,6 +2583,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "plantaddicts.com",
+            "name": "Plant Addicts",
+            "seller_id": "1646",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "classicwow.live",
             "name": "Classicwow.live Inc",
             "seller_id": "623",
