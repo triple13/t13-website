@@ -2607,6 +2607,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "botmake.io",
+            "name": "Craftshift",
+            "seller_id": "1647",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thefirsttv.com",
             "name": "The First Digital Media, Inc.",
             "seller_id": "880",
