@@ -2631,6 +2631,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "seatmaps.com",
+            "name": "Quicket GmbH",
+            "seller_id": "1648",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "smartertravel.com",
             "name": "SmarterTravel Media, LLC",
             "seller_id": "881",
