@@ -2649,6 +2649,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "championgames.com",
+            "name": "Champion Games SL ",
+            "seller_id": "1649",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "investors.com",
             "name": "Investor's Business Daily",
             "seller_id": "626",
