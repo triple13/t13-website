@@ -2673,6 +2673,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "Free.ca",
+            "name": "Freebies.com Inc",
+            "seller_id": "1650",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "insidermonkey.com",
             "name": "Koalaguide LLC",
             "seller_id": "115",
