@@ -2703,6 +2703,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "scribd.com",
+            "name": "Scribd Inc",
+            "seller_id": "1651",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "capecod.com",
             "name": "CapeCod",
             "seller_id": "1140",
