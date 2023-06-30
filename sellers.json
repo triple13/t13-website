@@ -2722,6 +2722,12 @@
         },
         {
             "domain": "memedroid.com",
+            "name": "Coinbench",
+            "seller_id": "1652",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "memedroid.com",
             "name": "Novagecko SLU",
             "seller_id": "373",
             "seller_type": "PUBLISHER"
