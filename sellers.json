@@ -225,6 +225,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "freepicks.picksandparlays.net",
+            "name": "P&P Vegas Group",
+            "seller_id": "778",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "stilltasty.com",
             "name": "StillTasty LLC",
             "seller_id": "1034",
