@@ -225,12 +225,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "freepicks.picksandparlays.net",
-            "name": "P&P Vegas Group",
-            "seller_id": "778",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stilltasty.com",
             "name": "StillTasty LLC",
             "seller_id": "1034",
@@ -2748,6 +2742,12 @@
             "domain": "themoscowtimes.com",
             "name": "The Moscow Times",
             "seller_id": "1397",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "raketech.com",
+            "name": "RakeTech US ",
+            "seller_id": "1653",
             "seller_type": "PUBLISHER"
         },
         {
