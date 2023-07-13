@@ -2811,6 +2811,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "dezgo.com",
+            "name": "Dezgo SAS ",
+            "seller_id": "1656",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "microbenotes.com",
             "name": "Microbe Notes",
             "seller_id": "889",
