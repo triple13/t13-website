@@ -2481,6 +2481,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "yobo.dev",
+            "name": "Yobo, Inc",
+            "seller_id": "1130",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "linuxopsys.com",
             "name": "BTreme",
             "seller_id": "1642",
