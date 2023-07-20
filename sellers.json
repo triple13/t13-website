@@ -2901,6 +2901,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "trancos.com",
+            "name": "Trancos Inc ",
+            "seller_id": "1660",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "warcraftlogs.com",
             "name": "RPGLogs LLC",
             "seller_id": "381",
