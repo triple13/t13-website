@@ -2961,6 +2961,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "liveatc.net",
+            "name": "LiveATC.net LLC",
+            "seller_id": "1662",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "razzball.com",
             "name": "Razzball LLC",
             "seller_id": "383",
@@ -2982,6 +2988,12 @@
             "domain": "rhymeswithsnitch.com",
             "name": "Rhymes With Snitch",
             "seller_id": "1407",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "123multimedia.com",
+            "name": "123 Multimedia",
+            "seller_id": "1663",
             "seller_type": "PUBLISHER"
         },
         {
