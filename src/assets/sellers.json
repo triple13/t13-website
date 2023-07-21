@@ -3015,6 +3015,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "javatpoint.com",
+            "name": "Javatpoint Tech",
+            "seller_id": "1664",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wapoapp.com",
             "name": "Wapo y Wapa LTD",
             "seller_id": "1409",
