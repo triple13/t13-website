@@ -3021,6 +3021,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "biblekeeper.com",
+            "name": "Bible Keeper",
+            "seller_id": "1665",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "quanthockey.com",
             "name": "QuantData Oy",
             "seller_id": "386",
