@@ -3051,6 +3051,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "currentschoolnews.com",
+            "name": "Current School News",
+            "seller_id": "1666",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "moviemistakes.com",
             "name": "Moviemistakes.com",
             "seller_id": "131",
