@@ -3141,6 +3141,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "motherjones.com",
+            "name": "Mother Jones Inc",
+            "seller_id": "1669",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fselite.net",
             "name": "FSElite",
             "seller_id": "1158",
