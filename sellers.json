@@ -3141,6 +3141,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "www.profootballnetwork.com",
+            "name": "Pro Football Network Inc",
+            "seller_id": "1670",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "animemotivation.com",
             "name": "Anime Motivation",
             "seller_id": "903",
@@ -3159,6 +3165,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "masterychart.com",
+            "name": "MS Digital Solutions",
+            "seller_id": "1671",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sports.ws",
             "name": "Dingofox Media",
             "seller_id": "392",
@@ -3174,6 +3186,12 @@
             "domain": "kultivi.com",
             "name": "KULTIVI - PRODUCAO E EDICAO DE CONTEUDO LTDA",
             "seller_id": "1416",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "xconvert.com",
+            "name": "SoftCo PVT LTD",
+            "seller_id": "1672",
             "seller_type": "PUBLISHER"
         },
         {
