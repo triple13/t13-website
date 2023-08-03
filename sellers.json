@@ -3309,6 +3309,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "sporked.com",
+            "name": "Mythical Entertainment LLC ",
+            "seller_id": "1676",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "essence.com",
             "name": "Essence Communications, Inc",
             "seller_id": "653",
