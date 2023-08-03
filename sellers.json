@@ -3243,6 +3243,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "vesus.org",
+            "name": "Vesus.org",
+            "seller_id": "1674",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "truthandaction.org",
             "name": "NewsStandPress.com LLC",
             "seller_id": "139",
