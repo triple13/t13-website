@@ -2445,12 +2445,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "yobo.dev",
-            "name": "Yobo, Inc",
-            "seller_id": "1130",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "linuxopsys.com",
             "name": "BTreme",
             "seller_id": "1642",
@@ -3330,6 +3324,12 @@
             "domain": "crypto-insiders.nl",
             "name": "Crypto Insiders BV",
             "seller_id": "1421",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "themoviespoiler.com ",
+            "name": "TheMovieSpoiler",
+            "seller_id": "1677",
             "seller_type": "PUBLISHER"
         },
         {
