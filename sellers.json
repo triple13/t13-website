@@ -3339,6 +3339,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "austinkrance.com",
+            "name": "Austin Kranc",
+            "seller_id": "1678",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "conversordeletras.com",
             "name": "Jose Andres Ballester Huesca",
             "seller_id": "1167",
