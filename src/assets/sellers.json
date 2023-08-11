@@ -3255,12 +3255,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "The Fantasy Footballers",
-            "name": "Engaging Media LLC",
-            "seller_id": "1675",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nextshark.com",
             "name": "Nextshark Inc.",
             "seller_id": "140",
@@ -3396,6 +3390,12 @@
             "domain": "techlabsolution.in",
             "name": "Techlab Solution",
             "seller_id": "1425",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "www.statmuse.com",
+            "name": "StatMuse Inc",
+            "seller_id": "1681",
             "seller_type": "PUBLISHER"
         },
         {
