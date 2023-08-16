@@ -3531,6 +3531,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "afar.com",
+            "name": "Afar ",
+            "seller_id": "1686",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thecinemaholic.com",
             "name": "Gomsy Media LLC",
             "seller_id": "407",
