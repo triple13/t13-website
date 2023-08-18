@@ -963,12 +963,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "mmaweekly.com",
-            "name": "mmaweekly",
-            "seller_id": "1326",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "couponscorpion.com",
             "name": "Coupon Scorpion ",
             "seller_id": "1582",
@@ -3900,12 +3894,6 @@
             "domain": "mob.co.uk",
             "name": "Mouth Group Limited",
             "seller_id": "1456",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "surviv.io",
-            "name": "Kongregate",
-            "seller_id": "433",
             "seller_type": "PUBLISHER"
         },
         {
