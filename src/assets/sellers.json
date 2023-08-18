@@ -477,12 +477,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "musicgateway.com",
-            "name": "Music Gateway Ltd",
-            "seller_id": "1560",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "pajiba.com",
             "name": "Scathing Websites LLC",
             "seller_id": "281",
@@ -3021,7 +3015,7 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "www.profootballnetwork.com",
+            "domain": "profootballnetwork.com",
             "name": "Pro Football Network Inc",
             "seller_id": "1670",
             "seller_type": "PUBLISHER"
@@ -3279,7 +3273,7 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "www.statmuse.com",
+            "domain": "statmuse.com",
             "name": "StatMuse Inc",
             "seller_id": "1681",
             "seller_type": "PUBLISHER"
