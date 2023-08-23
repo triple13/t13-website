@@ -3435,6 +3435,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "Cryptoslate.com",
+            "name": "CryptoSlate",
+            "seller_id": "1689",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "androidforums.com",
             "name": "Neverstill Media, LLC",
             "seller_id": "666",
