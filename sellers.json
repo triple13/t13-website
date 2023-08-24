@@ -3465,6 +3465,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mcpedl.org",
+            "name": "Kanat",
+            "seller_id": "1690",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "groovypost.com",
             "name": "GroovyPost",
             "seller_id": "667",
@@ -3480,6 +3486,12 @@
             "domain": "Creaders.net",
             "name": "Creaders.net",
             "seller_id": "1435",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wallstreetmojo.com",
+            "name": "WallStreetMojo",
+            "seller_id": "1691",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5040,6 +5052,12 @@
             "domain": "namechk.com",
             "name": "Namechk",
             "seller_id": "240",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "h1bgrader.com",
+            "name": "CyBusAir Services Private Limited",
+            "seller_id": "1008",
             "seller_type": "PUBLISHER"
         },
         {
