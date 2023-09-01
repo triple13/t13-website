@@ -3693,6 +3693,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "filmmakermagazine.com",
+            "name": "The Independent Feature Project, Inct.",
+            "seller_id": "1700",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "savings.com",
             "name": "Savings.com, Inc",
             "seller_id": "1445",
