@@ -3597,6 +3597,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "inman.com",
+            "name": "Inman",
+            "seller_id": "1696",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thefantasyfootballers.com",
             "name": "Engaging Media LLC",
             "seller_id": "417",
@@ -3621,6 +3627,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "rotoballer.com",
+            "name": "RotoBaller LLC",
+            "seller_id": "1697",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fantasyfootballnerd.com",
             "name": "TayTech LLC",
             "seller_id": "418",
@@ -3630,6 +3642,12 @@
             "domain": "nosybee.com",
             "name": "Bright Flower Media LLC",
             "seller_id": "674",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hobbydb.com",
+            "name": "HobbyDB",
+            "seller_id": "1698",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3648,6 +3666,12 @@
             "domain": "newser.com",
             "name": "Newser, LLC",
             "seller_id": "1443",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "insurify.com",
+            "name": "Insurify, Inc",
+            "seller_id": "1699",
             "seller_type": "PUBLISHER"
         },
         {
