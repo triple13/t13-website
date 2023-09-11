@@ -2475,12 +2475,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "77wabc.com",
-            "name": "WABC Radio",
-            "seller_id": "1139",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "uploadvr.com",
             "name": "UVR Media LLC",
             "seller_id": "1395",
@@ -4404,6 +4398,12 @@
             "domain": "valuewalk.com",
             "name": "Valuewalk LLC",
             "seller_id": "203",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thegamehaus.com",
+            "name": "The Game Haus",
+            "seller_id": "971",
             "seller_type": "PUBLISHER"
         },
         {
