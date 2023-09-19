@@ -3783,6 +3783,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bjpenn.com",
+            "name": "BJ Penn Enterprises",
+            "seller_id": "1705",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sneakerbardetroit.com",
             "name": "Sneaker Bar Detroit",
             "seller_id": "170",
@@ -4530,12 +4536,6 @@
             "domain": "sportsmole.co.uk",
             "name": "Sports Mole Limited ",
             "seller_id": "1489",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "filmifeed.com",
-            "name": "FilmiFeed",
-            "seller_id": "978",
             "seller_type": "PUBLISHER"
         },
         {
