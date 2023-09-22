@@ -3435,6 +3435,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cardgames.io",
+            "name": "Raudas Hugbunadur ehf.",
+            "seller_id": "155",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "groovypost.com",
             "name": "GroovyPost",
             "seller_id": "667",
