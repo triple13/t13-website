@@ -3951,6 +3951,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "scamalytics.com",
+            "name": "Scamalytics Ltd",
+            "seller_id": "1713",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gameranx.com",
             "name": "A.K.A. Media",
             "seller_id": "434",
