@@ -2289,12 +2289,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "racingdudes.com",
-            "name": "Thoroughbred Racing Dudes LLC",
-            "seller_id": "876",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "usclublax.com",
             "name": "US Club Lacrosse LLC",
             "seller_id": "1132",
@@ -2418,12 +2412,6 @@
             "domain": "investors.com",
             "name": "Investor's Business Daily",
             "seller_id": "626",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "countrymusicnation.com",
-            "name": "The Real Market Investors Inc",
-            "seller_id": "882",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2778,12 +2766,6 @@
             "domain": "wapoapp.com",
             "name": "Wapo y Wapa LTD",
             "seller_id": "1409",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "biblekeeper.com",
-            "name": "Bible Keeper",
-            "seller_id": "1665",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3993,6 +3975,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "controlc.com",
+            "name": "URL Ventures, Inc.",
+            "seller_id": "1715",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "netronline.com",
             "name": "Nationwide Environmental Title Research",
             "seller_id": "436",
@@ -4098,12 +4086,6 @@
             "domain": "whatismyipaddress.com",
             "name": "CGP Holdings, Inc.",
             "seller_id": "441",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "healthday.com",
-            "name": "eHealthcare Solutions",
-            "seller_id": "953",
             "seller_type": "PUBLISHER"
         },
         {
