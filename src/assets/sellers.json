@@ -4011,6 +4011,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "beincrypto.com",
+            "name": "BeInCrypto",
+            "seller_id": "1716",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fossmint.com",
             "name": "TecMint",
             "seller_id": "437",
