@@ -4101,6 +4101,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "technology.org",
+            "name": "Neurotechnology",
+            "seller_id": "1719",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "datagemba.com",
             "name": "Datagemba",
             "seller_id": "1464",
