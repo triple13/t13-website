@@ -2685,12 +2685,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "mmad.link",
-            "name": "MMADX",
-            "seller_id": "1150",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "WindingRoad.com",
             "name": "NextScreen LLC",
             "seller_id": "1406",
@@ -5238,12 +5232,6 @@
             "domain": "bigbrothernetwork.com",
             "name": "Gravy Train Productions LLC",
             "seller_id": "1270",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "list25.com",
-            "name": "List25 LLC",
-            "seller_id": "1526",
             "seller_type": "PUBLISHER"
         },
         {
