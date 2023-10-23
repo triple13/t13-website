@@ -3862,7 +3862,7 @@
         },
         {
             "domain": "saltwater.com",
-            "name": "Saltwater",
+            "name": "SVSW",
             "seller_id": "1710",
             "seller_type": "PUBLISHER"
         },
@@ -4080,6 +4080,12 @@
             "domain": "datagemba.com",
             "name": "Datagemba",
             "seller_id": "1464",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "herhoopstats.com",
+            "name": "Fairer Stats LLC",
+            "seller_id": "1720",
             "seller_type": "PUBLISHER"
         },
         {
