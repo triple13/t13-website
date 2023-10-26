@@ -4131,6 +4131,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "slickcharts.com",
+            "name": "Slickcharts",
+            "seller_id": "1722",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sidelineswap.com",
             "name": "SidelineSwap, Inc.",
             "seller_id": "699",
