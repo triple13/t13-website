@@ -1893,12 +1893,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "typing.com",
-            "name": "Typing.com LLC",
-            "seller_id": "860",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "kelsey.co.uk",
             "name": "Kelsey Publishing Ltd",
             "seller_id": "1372",
@@ -1920,12 +1914,6 @@
             "domain": "latribuna.hn",
             "name": "Periodicos y Revistas, S.A de C.V.",
             "seller_id": "605",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nitrotype.com",
-            "name": "NitroTeaching LLC",
-            "seller_id": "861",
             "seller_type": "PUBLISHER"
         },
         {
