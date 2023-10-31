@@ -4161,6 +4161,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "knowt.com",
+            "name": "Knowt Inc",
+            "seller_id": "1724",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thetechgame.com",
             "name": "The Tech Game Ltd",
             "seller_id": "189",
