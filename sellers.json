@@ -4197,6 +4197,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "vecteezy.com",
+            "name": "Rubel Creative Inc.",
+            "seller_id": "448",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "word.tips",
             "name": "Cliqpod S.L. ",
             "seller_id": "704",
@@ -4698,6 +4704,12 @@
             "domain": "delhibreakings.com",
             "name": "Digiaud OPC private Limited",
             "seller_id": "1496",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "freevector.com",
+            "name": "Compass Graphics",
+            "seller_id": "473",
             "seller_type": "PUBLISHER"
         },
         {
