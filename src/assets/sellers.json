@@ -4191,6 +4191,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "Tellwut.com",
+            "name": "Tellwut",
+            "seller_id": "1726",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "droid-life.com",
             "name": "DRD LIFE INC",
             "seller_id": "1215",
