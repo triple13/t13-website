@@ -2727,6 +2727,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "biblekeeper.com",
+            "name": "Bible Keeper",
+            "seller_id": "1665",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "quanthockey.com",
             "name": "QuantData Oy",
             "seller_id": "386",
@@ -3066,6 +3072,12 @@
             "domain": "conversordeletras.com",
             "name": "Jose Andres Ballester Huesca",
             "seller_id": "1167",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thekrazycouponlady.com",
+            "name": "Krazy Coupon Lady, LLC",
+            "seller_id": "1423",
             "seller_type": "PUBLISHER"
         },
         {
