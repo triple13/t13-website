@@ -4239,6 +4239,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "htmlmahjonggames.com",
+            "name": "Isko Games",
+            "seller_id": "1728",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "elpais.hn",
             "name": "Medios Unidos S.A. de C.V.",
             "seller_id": "705",
