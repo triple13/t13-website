@@ -4257,6 +4257,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "solitairen.com",
+            "name": "solitairen.com",
+            "seller_id": "1729",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "purewow.com",
             "name": "Gallery Media Group",
             "seller_id": "706",
