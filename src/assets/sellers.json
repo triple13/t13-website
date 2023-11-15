@@ -4329,6 +4329,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "personality-database.com",
+            "name": "PDB PTE LTD",
+            "seller_id": "1732",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "surfchex.com",
             "name": "Christopher L Marshall",
             "seller_id": "965",
