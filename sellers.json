@@ -4353,6 +4353,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "poeticous.com",
+            "name": "Poeticous",
+            "seller_id": "1733",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "taming.io",
             "name": "Paul Lenczner",
             "seller_id": "454",
@@ -4368,6 +4374,12 @@
             "domain": "dokari.gr",
             "name": "Matinas Media Group",
             "seller_id": "1478",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "antena3.ro",
+            "name": "antena3",
+            "seller_id": "1734",
             "seller_type": "PUBLISHER"
         },
         {
