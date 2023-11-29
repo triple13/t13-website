@@ -4521,6 +4521,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "jumperbrasil.com.br",
+            "name": "jumperbrasil.com.br",
+            "seller_id": "1739",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "accuradio.com",
             "name": "AccuRadio, LLC",
             "seller_id": "972",
@@ -4536,6 +4542,12 @@
             "domain": "royaleapi.com",
             "name": "SML Universe Limited",
             "seller_id": "1484",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "subeta.net",
+            "name": "Subeta Inc ",
+            "seller_id": "1740",
             "seller_type": "PUBLISHER"
         },
         {
