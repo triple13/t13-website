@@ -4569,6 +4569,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "houseplans.com",
+            "name": "Zonda Home",
+            "seller_id": "1741",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ahrn.com",
             "name": "JumpCrew",
             "seller_id": "462",
