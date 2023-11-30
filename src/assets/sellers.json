@@ -4605,6 +4605,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "thestudentroom.co.uk",
+            "name": "The Student Room Group Ltd",
+            "seller_id": "1742",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sportoport.com",
             "name": "2D ADV (K Content Media)",
             "seller_id": "1231",
