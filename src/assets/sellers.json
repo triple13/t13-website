@@ -4665,9 +4665,21 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bloodyelbow.com",
+            "name": "BE Presents Publishing Inc",
+            "seller_id": "1745",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "copypastecharacter.com ",
             "name": "Copypastecharacter.com",
             "seller_id": "1490",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dkpittsburghsports.com",
+            "name": "DK Pittsburgh Sports",
+            "seller_id": "1746",
             "seller_type": "PUBLISHER"
         },
         {
