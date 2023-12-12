@@ -4677,6 +4677,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "patientslikeme.com",
+            "name": "PatientsLikeMe LLC",
+            "seller_id": "1747",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gaiaonline.com",
             "name": "Gaia Interactive Inc",
             "seller_id": "724",
