@@ -4701,6 +4701,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "merriam-webster.com",
+            "name": "Merriam-Webster, Incorporated",
+            "seller_id": "1748",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "okkgame.com",
             "name": "Zhou Yan ",
             "seller_id": "1237",
