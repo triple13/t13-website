@@ -4713,6 +4713,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "1001tracklists.com",
+            "name": "1001Tracklists",
+            "seller_id": "1749",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "weststar.com",
             "name": "WestStar Multimedia Entertainment",
             "seller_id": "214",
@@ -4740,6 +4746,12 @@
             "domain": "shaalaa.com",
             "name": "Sapphire Globe ",
             "seller_id": "1494",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Shpock.com",
+            "name": "Shpock",
+            "seller_id": "1750",
             "seller_type": "PUBLISHER"
         },
         {
