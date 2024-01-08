@@ -4797,6 +4797,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "maddenratings.com",
+            "name": "2K Ratings",
+            "seller_id": "1752",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "chordindonesia.com",
             "name": "ChordIndonesia.com",
             "seller_id": "1497",
