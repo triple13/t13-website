@@ -531,12 +531,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "weatherforyou.com",
-            "name": "WeatherForYou.com LLC",
-            "seller_id": "285",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "realtimetrains.co.uk",
             "name": "Swlines LTD",
             "seller_id": "1053",
@@ -1407,12 +1401,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "allmusic.com",
-            "name": "Net Aktion LLC ",
-            "seller_id": "1607",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "kitchenstories.com",
             "name": "AJNS New Media GmbH",
             "seller_id": "1096",
@@ -1650,6 +1638,12 @@
             "domain": "bestsimilar.com",
             "name": "FOP Maletskiy Ihor",
             "seller_id": "1618",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zacks.com",
+            "name": "Zacks Analyst Watch, Inc",
+            "seller_id": "1107",
             "seller_type": "PUBLISHER"
         },
         {
