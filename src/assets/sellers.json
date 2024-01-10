@@ -3381,12 +3381,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "theweatheroutlook.com",
-            "name": "Technimatch Limited",
-            "seller_id": "925",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "hardwaretimes.com",
             "name": "HardwareTimes",
             "seller_id": "1437",
@@ -4200,12 +4194,6 @@
             "domain": "solitairen.com",
             "name": "solitairen.com",
             "seller_id": "1729",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "purewow.com",
-            "name": "Gallery Media Group",
-            "seller_id": "706",
             "seller_type": "PUBLISHER"
         },
         {
