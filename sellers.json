@@ -3063,12 +3063,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "techlabsolution.in",
-            "name": "Techlab Solution",
-            "seller_id": "1425",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "statmuse.com",
             "name": "StatMuse Inc",
             "seller_id": "1681",
@@ -3198,12 +3192,6 @@
             "domain": "tvguide.co.uk",
             "name": "tvguide.co.uk LTD",
             "seller_id": "662",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "topgames247.com",
-            "name": "Money Media Group Limited",
-            "seller_id": "918",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4782,6 +4770,12 @@
             "domain": "chordindonesia.com",
             "name": "ChordIndonesia.com",
             "seller_id": "1497",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "whoscored.com",
+            "name": "Whoscored",
+            "seller_id": "1753",
             "seller_type": "PUBLISHER"
         },
         {
