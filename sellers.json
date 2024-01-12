@@ -3,12 +3,6 @@
     "contact_email": "sellers.json@triple13.io",
     "sellers": [
         {
-            "domain": "unfollowed.me",
-            "name": "cjgraphix",
-            "seller_id": "256",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "thecolor.com",
             "name": "Semsense, LLC",
             "seller_id": "768",
