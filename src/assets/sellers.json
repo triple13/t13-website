@@ -4833,6 +4833,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mypt3.com",
+            "name": "JUPITER MEDIA RESOURCES",
+            "seller_id": "1756",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "panzoid.com",
             "name": "Conrad Creative Inc.",
             "seller_id": "221",
@@ -4854,6 +4860,12 @@
             "domain": "crowdmedia.pl",
             "name": "Mediana S.A.",
             "seller_id": "1501",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://www.way2news.com/",
+            "name": "Way2news Private Limited",
+            "seller_id": "1757",
             "seller_type": "PUBLISHER"
         },
         {
