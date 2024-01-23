@@ -4881,6 +4881,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "pagalworld.com.pe",
+            "name": "Pagal World",
+            "seller_id": "1758",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "footballdb.com",
             "name": "The Football Database LLC",
             "seller_id": "223",
@@ -5358,12 +5364,6 @@
             "domain": "farmville2free.com",
             "name": "Farm Free",
             "seller_id": "1272",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "leaguetips.net",
-            "name": "TreasureHunter GmbH",
-            "seller_id": "1528",
             "seller_type": "PUBLISHER"
         },
         {
