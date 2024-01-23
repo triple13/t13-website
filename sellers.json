@@ -4683,6 +4683,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "shaalaa.com",
+            "name": "Sapphire Globe ",
+            "seller_id": "1494",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "Shpock.com",
             "name": "Shpock",
             "seller_id": "1750",
@@ -4914,12 +4920,6 @@
             "domain": "thecourierdaily.com",
             "name": "X News Weekly",
             "seller_id": "737",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "omnicalculator.com",
-            "name": "KATARZYNA MUCHA | MATEUSZ MUCHA S.C.",
-            "seller_id": "993",
             "seller_type": "PUBLISHER"
         },
         {
