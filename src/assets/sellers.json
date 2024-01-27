@@ -771,12 +771,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "weddbook.com",
-            "name": "CAS GLOBAL BUSINESS SERVICES LLC",
-            "seller_id": "42",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "pulseblueprint.com",
             "name": "PulseBlueprint",
             "seller_id": "1322",
@@ -3747,6 +3741,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "thenakedscientists.com",
+            "name": "Naked Science Limited",
+            "seller_id": "432",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "mob.co.uk",
             "name": "Mouth Group Limited",
             "seller_id": "1456",
@@ -4104,12 +4104,6 @@
             "domain": "word.tips",
             "name": "Cliqpod S.L. ",
             "seller_id": "704",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "slashfilm.com",
-            "name": "7Hops.com Inc. (dba ZergNet)",
-            "seller_id": "960",
             "seller_type": "PUBLISHER"
         },
         {
