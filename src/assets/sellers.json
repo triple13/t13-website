@@ -795,6 +795,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "lyricsondemand.com",
+            "name": "Cyphr LLC",
+            "seller_id": "44",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "worldofsolitaire.com",
             "name": "Telparia, Inc.",
             "seller_id": "300",
