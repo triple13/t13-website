@@ -4929,6 +4929,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tastemade.com",
+            "name": "Tastemade, Inc.",
+            "seller_id": "1764",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pleated-jeans.com",
             "name": "OOO Media",
             "seller_id": "229",
