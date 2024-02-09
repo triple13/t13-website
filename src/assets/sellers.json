@@ -4959,6 +4959,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.zleague.gg/",
+            "name": "Z League Inc",
+            "seller_id": "1765",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pixlr.com",
             "name": "Inmagine Lab Pte Ltd",
             "seller_id": "230",
