@@ -4971,6 +4971,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "zerogpt.com",
+            "name": "Zero GPT",
+            "seller_id": "1766",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fanatics.com",
             "name": "Fanatics Inc",
             "seller_id": "743",
