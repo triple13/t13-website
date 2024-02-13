@@ -3069,12 +3069,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "f1technical.net",
-            "name": "Steven De Groote",
-            "seller_id": "404",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "flightaware.com",
             "name": "FlightAware LLC",
             "seller_id": "1172",
