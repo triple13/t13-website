@@ -4989,6 +4989,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "freetelly.com",
+            "name": "Telly",
+            "seller_id": "1767",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "avforums.com",
             "name": "M2N Ltd",
             "seller_id": "488",
