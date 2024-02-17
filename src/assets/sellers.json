@@ -5019,6 +5019,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "semana.com",
+            "name": "Grupo Semana",
+            "seller_id": "1768",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "onlinepianist.com",
             "name": "Online Pianist N.T",
             "seller_id": "745",
@@ -5040,6 +5046,12 @@
             "domain": "cartalk.com",
             "name": "Cartalk Digital Inc",
             "seller_id": "1513",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "famousbirthdays.com ",
+            "name": "Famous Birthdays",
+            "seller_id": "1769",
             "seller_type": "PUBLISHER"
         },
         {
