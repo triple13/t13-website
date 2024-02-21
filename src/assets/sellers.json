@@ -5109,6 +5109,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "dribble.com",
+            "name": "Dribbble Holdings Ltd",
+            "seller_id": "1771",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pennantchase.com",
             "name": "Bacci Media LLC",
             "seller_id": "748",
@@ -5121,6 +5127,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "nextchessmove.com",
+            "name": "Next Chess Move LLC",
+            "seller_id": "1772",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "notdoppler.com",
             "name": "Not Doppler Pty Limited",
             "seller_id": "237",
@@ -5130,6 +5142,12 @@
             "domain": "zappallas-usa.com",
             "name": "Zappallas Inc",
             "seller_id": "1517",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "equipboard.com",
+            "name": "Equipboard Inc",
+            "seller_id": "1773",
             "seller_type": "PUBLISHER"
         },
         {
