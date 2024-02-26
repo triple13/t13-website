@@ -5151,6 +5151,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "india.com",
+            "name": "Indiadotcom Digital Private Limited",
+            "seller_id": "1774",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thenation.com",
             "name": "The Nation, LLC",
             "seller_id": "751",
