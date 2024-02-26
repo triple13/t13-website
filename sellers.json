@@ -1011,6 +1011,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tapology.com",
+            "name": "tapology",
+            "seller_id": "1334",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "shareably.net",
             "name": "Shareably Media LLC ",
             "seller_id": "1590",
