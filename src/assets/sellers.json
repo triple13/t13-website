@@ -5169,6 +5169,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "home.myfantasyleague.com",
+            "name": "First Pick Labs",
+            "seller_id": "1775",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "namechk.com",
             "name": "Namechk",
             "seller_id": "240",
@@ -5310,12 +5316,6 @@
             "domain": "ktt2.com",
             "name": "MADEINTHEURL LTD",
             "seller_id": "1015",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "home.myfantasyleague.com",
-            "name": "Sideline Software Inc",
-            "seller_id": "1527",
             "seller_type": "PUBLISHER"
         },
         {
