@@ -5193,6 +5193,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "areavibes.com",
+            "name": "AreaVibes Inc",
+            "seller_id": "1776",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dailysoapdish.com",
             "name": "Daily Soap Dish",
             "seller_id": "497",
