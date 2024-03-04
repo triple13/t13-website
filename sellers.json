@@ -5217,6 +5217,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "scamadviser.com",
+            "name": "scamadviser",
+            "seller_id": "1777",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gotceleb.com",
             "name": "Gotceleb",
             "seller_id": "498",
