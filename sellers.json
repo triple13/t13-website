@@ -5265,6 +5265,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "clarosports.com",
+            "name": "AMX Contenido",
+            "seller_id": "1782",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zoosk.com",
+            "name": "Spark Networks, Inc.",
+            "seller_id": "503",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "stacker.com",
             "name": "Stacker Holdings LLC",
             "seller_id": "759",
@@ -5274,6 +5286,12 @@
             "domain": "ktt2.com",
             "name": "MADEINTHEURL LTD",
             "seller_id": "1015",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elpais.com.uy",
+            "name": "El Pais S.A",
+            "seller_id": "1783",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5292,6 +5310,12 @@
             "domain": "farmville2free.com",
             "name": "Farm Free",
             "seller_id": "1272",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ConnectionsUnlimited.org",
+            "name": "ConnectionsUnlimited.org",
+            "seller_id": "1784",
             "seller_type": "PUBLISHER"
         },
         {
