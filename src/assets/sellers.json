@@ -1245,12 +1245,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "basketball.realgm.com",
-            "name": "RealGM LLC",
-            "seller_id": "1090",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "steephill.tv",
             "name": "Steephill",
             "seller_id": "1346",
@@ -4452,12 +4446,6 @@
             "domain": "merriam-webster.com",
             "name": "Merriam-Webster, Incorporated",
             "seller_id": "1748",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "okkgame.com",
-            "name": "Zhou Yan ",
-            "seller_id": "1237",
             "seller_type": "PUBLISHER"
         },
         {
