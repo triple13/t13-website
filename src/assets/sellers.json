@@ -5289,6 +5289,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "boredcomics.com",
+            "name": "Bored Comics",
+            "seller_id": "1785",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "instantstreetview.com",
             "name": "MapInvent Ltd",
             "seller_id": "762",
