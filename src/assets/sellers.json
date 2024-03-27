@@ -861,12 +861,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dimensions.com",
-            "name": "Fantastic Offense LLC",
-            "seller_id": "559",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "recipefy.net",
             "name": "Recipefy",
             "seller_id": "815",
@@ -3543,12 +3537,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "lotterycorner.com",
-            "name": "Lottery Corner",
-            "seller_id": "1197",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "Calculat.io",
             "name": "Calculat.io",
             "seller_id": "1709",
@@ -5346,6 +5334,12 @@
             "domain": "evolvemediallc.com",
             "name": "Evolve Media LLC",
             "seller_id": "1532",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "leconnections.app",
+            "name": "LeConnections",
+            "seller_id": "1788",
             "seller_type": "PUBLISHER"
         },
         {
