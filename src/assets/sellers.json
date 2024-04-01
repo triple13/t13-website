@@ -1605,12 +1605,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dailyprincetonian.com",
-            "name": "The Daily Princetonian Publishing Co",
-            "seller_id": "855",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "circlly.com",
             "name": "Circlly",
             "seller_id": "1111",
@@ -2334,12 +2328,6 @@
             "domain": "cheapism.com",
             "name": "Cheapism.com, LLC",
             "seller_id": "378",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "quizwise.com",
-            "name": "Pureweb Limited",
-            "seller_id": "890",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4758,12 +4746,6 @@
             "domain": "signup.com",
             "name": "VolunteerSpot inc, dba SignUp.com",
             "seller_id": "1000",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "appsliced.co",
-            "name": "App Sliced",
-            "seller_id": "1256",
             "seller_type": "PUBLISHER"
         },
         {
