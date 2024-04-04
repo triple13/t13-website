@@ -5281,6 +5281,12 @@
             "name": "DD-WRT",
             "seller_id": "1279",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "kprofiles.com",
+            "name": "Kpop Profiles",
+            "seller_id": "1791",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
