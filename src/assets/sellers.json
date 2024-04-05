@@ -21,6 +21,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "7zap.com",
+            "name": "VIKTOR STUPKO IE",
+            "seller_id": "1792",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "preownedweddingdresses.com",
             "name": "A07 Online Media LLC",
             "seller_id": "513",
@@ -42,6 +48,12 @@
             "domain": "pinchme.com",
             "name": "PINCHme.com Inc",
             "seller_id": "1537",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "instavideosave.net",
+            "name": "InstaVideoSave",
+            "seller_id": "1793",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2826,12 +2838,6 @@
             "domain": "gardenfocused.co.uk",
             "name": "Orange Holdings Ltd",
             "seller_id": "1168",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "Thecustomdroid.com",
-            "name": "TheCustomDroid",
-            "seller_id": "1424",
             "seller_type": "PUBLISHER"
         },
         {
