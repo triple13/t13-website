@@ -93,6 +93,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cnhi.com",
+            "name": "CNHI LLC",
+            "seller_id": "1795",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "styleforum.net",
             "name": "Styleforumnet LLC",
             "seller_id": "1028",
