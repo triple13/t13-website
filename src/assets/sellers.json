@@ -153,6 +153,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "khaleejtimes.com",
+            "name": "Khaleej Times",
+            "seller_id": "1797",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ontvtonight.com",
             "name": "eBroadcast Australia",
             "seller_id": "518",
