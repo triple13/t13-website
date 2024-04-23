@@ -177,6 +177,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "Studylight.org",
+            "name": "Studylight.org",
+            "seller_id": "1798",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "Beebom.com",
             "name": "Beebom Media Private Limited",
             "seller_id": "1543",
