@@ -207,6 +207,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "deepdreamgenerator.com",
+            "name": "Aifnet Ltd.",
+            "seller_id": "1800",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "aftvnews.com",
             "name": "AFTV News",
             "seller_id": "777",
