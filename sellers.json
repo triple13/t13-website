@@ -2373,12 +2373,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "bebasket.fr",
-            "name": "SAS NEO BASKET",
-            "seller_id": "1658",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "ukulele-tabs.com",
             "name": "Websun Solutions UG",
             "seller_id": "635",
@@ -3678,12 +3672,6 @@
             "domain": "Allsides.com",
             "name": "AllSides",
             "seller_id": "1463",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "technology.org",
-            "name": "Neurotechnology",
-            "seller_id": "1719",
             "seller_type": "PUBLISHER"
         },
         {
