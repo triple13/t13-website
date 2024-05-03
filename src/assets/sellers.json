@@ -225,6 +225,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "solvhealth.com",
+            "name": "Solv Health",
+            "seller_id": "1801",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "stilltasty.com",
             "name": "StillTasty LLC",
             "seller_id": "1034",
