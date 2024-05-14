@@ -237,6 +237,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "pokedoku.com",
+            "name": "Doku Games LLC",
+            "seller_id": "1802",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "mingle2.com",
             "name": "Nextc LLC",
             "seller_id": "267",
