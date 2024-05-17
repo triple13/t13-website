@@ -261,6 +261,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mommypoppins.com",
+            "name": "Mommy Poppins",
+            "seller_id": "1803",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bikez.com",
             "name": "bikez.com",
             "seller_id": "268",
@@ -288,6 +294,12 @@
             "domain": "quillt.com",
             "name": "Quillt Media",
             "seller_id": "1548",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "valeursactuelles.com",
+            "name": "Valmonde Media",
+            "seller_id": "1804",
             "seller_type": "PUBLISHER"
         },
         {
