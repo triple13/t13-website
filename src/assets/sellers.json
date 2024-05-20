@@ -1863,12 +1863,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "streampublishing.net",
-            "name": "Stream Publishing Ltd",
-            "seller_id": "1376",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "lifelabs.com",
             "name": "LifeLabs LP",
             "seller_id": "1121",
@@ -2430,6 +2424,12 @@
             "domain": "trendings.net",
             "name": "Thought Nova AB",
             "seller_id": "637",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dinardetectives.com",
+            "name": "Dinar Detectives",
+            "seller_id": "893",
             "seller_type": "PUBLISHER"
         },
         {
