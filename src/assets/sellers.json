@@ -327,6 +327,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "pointsyeah.com",
+            "name": "PointsYeah Inc",
+            "seller_id": "1805",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "flightconnections.com",
             "name": "FlightConnections",
             "seller_id": "782",
