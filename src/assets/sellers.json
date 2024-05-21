@@ -1785,6 +1785,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "songkick.com",
+            "name": "Warner Music, Inc dba Songkick",
+            "seller_id": "604",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tinybeans.com",
             "name": "Tinybeans USA Ltd ",
             "seller_id": "1628",
