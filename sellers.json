@@ -807,12 +807,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "portalbr7.com",
-            "name": "Portal BR7",
-            "seller_id": "1575",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dlisted.com",
             "name": "Dlisted, LLC",
             "seller_id": "552",
@@ -894,12 +888,6 @@
             "domain": "mtgprice.com",
             "name": "mtgprice",
             "seller_id": "1324",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "escolaeducacaobr.com.br",
-            "name": "Dig 3 Solutions",
-            "seller_id": "1580",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1386,12 +1374,6 @@
             "domain": "sportscardforum.com",
             "name": "sportscardforum",
             "seller_id": "1352",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "musicstax.com",
-            "name": "Musicstax",
-            "seller_id": "1608",
             "seller_type": "PUBLISHER"
         },
         {
