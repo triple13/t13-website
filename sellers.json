@@ -483,6 +483,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gradesaver.com",
+            "name": "GradeSaver LLC",
+            "seller_id": "1811",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pinknewsiosapp.com.com",
             "name": "PinkNews Media Group Ltd",
             "seller_id": "788",
@@ -2106,12 +2112,6 @@
             "domain": "pinkvilla.com",
             "name": "Pinkvilla Media Private Limited",
             "seller_id": "1389",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "franchiseball.com",
-            "name": "Franchise Ball",
-            "seller_id": "1645",
             "seller_type": "PUBLISHER"
         },
         {
