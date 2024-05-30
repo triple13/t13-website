@@ -411,6 +411,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "Cinenerdle2.app",
+            "name": "Cinenerdle2.app",
+            "seller_id": "1808",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "flightera.net",
             "name": "Kreet GmbH",
             "seller_id": "529",
@@ -438,6 +444,12 @@
             "domain": "androidauthority.com",
             "name": "Authority Media",
             "seller_id": "1553",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bleachernation.com",
+            "name": "Bleacher Nation",
+            "seller_id": "1809",
             "seller_type": "PUBLISHER"
         },
         {
