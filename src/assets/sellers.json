@@ -501,6 +501,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "realityblurb.com",
+            "name": "Reality Blurb",
+            "seller_id": "1812",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "1001freefonts.com",
             "name": "Jason Nolan",
             "seller_id": "533",
