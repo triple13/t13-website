@@ -519,6 +519,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cointiply.com",
+            "name": "Cointply",
+            "seller_id": "1813",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "chosic.com",
             "name": "Chosic",
             "seller_id": "790",
