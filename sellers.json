@@ -531,6 +531,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "dmarge.com",
+            "name": "D'Marge Pty Ltd",
+            "seller_id": "1814",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "app.firstblood.io",
             "name": "FirstBlood Technologies",
             "seller_id": "1047",
