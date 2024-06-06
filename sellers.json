@@ -4875,6 +4875,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "carfolio.com",
+            "name": "Carfolio",
+            "seller_id": "1263",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "laxnumbers.com",
             "name": "Lax Data, LLC",
             "seller_id": "1519",
