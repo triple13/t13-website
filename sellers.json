@@ -543,6 +543,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wikihow.com",
+            "name": "wikiHow, Inc.",
+            "seller_id": "1815",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "nlop.com",
             "name": "Cafrino, LLC",
             "seller_id": "536",
