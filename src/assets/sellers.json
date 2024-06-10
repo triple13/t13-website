@@ -1665,12 +1665,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "bounty.com",
-            "name": "Bounty Media Ltd",
-            "seller_id": "1366",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "gamerescape.com",
             "name": "Telatexo LLC",
             "seller_id": "1622",
@@ -2166,12 +2160,6 @@
             "domain": "sneakernews.com",
             "name": "Sneaker News Inc",
             "seller_id": "1391",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "botmake.io",
-            "name": "Craftshift",
-            "seller_id": "1647",
             "seller_type": "PUBLISHER"
         },
         {
