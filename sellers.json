@@ -561,6 +561,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "recurrent.io",
+            "name": "Recurrent Ventures",
+            "seller_id": "1816",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pajiba.com",
             "name": "Scathing Websites LLC",
             "seller_id": "281",
