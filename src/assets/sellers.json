@@ -615,6 +615,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.rcnradio.com/",
+            "name": "Radio Cadena Nacional SAS ",
+            "seller_id": "1818",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wmagazine.com",
             "name": "W Media LLC",
             "seller_id": "795",
