@@ -591,6 +591,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "ewrepublic.com",
+            "name": "TNR II LLC AKA The New Republic",
+            "seller_id": "1817",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "hancinema.net",
             "name": "Cedric Thomas Collemine",
             "seller_id": "26",
