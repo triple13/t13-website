@@ -520,7 +520,7 @@
         },
         {
             "domain": "cointiply.com",
-            "name": "Cointply",
+            "name": "Cointiply",
             "seller_id": "1813",
             "seller_type": "PUBLISHER"
         },
@@ -630,6 +630,12 @@
             "domain": "fantasysixpack.net",
             "name": "Fantasy Six Pack",
             "seller_id": "1563",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "primis.tech",
+            "name": "M.D. PRIMIS TECHNOLOGIES LTD",
+            "seller_id": "1819",
             "seller_type": "PUBLISHER"
         },
         {
