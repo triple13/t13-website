@@ -3315,6 +3315,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mmanews.com",
+            "name": "SESCOOPS LLC",
+            "seller_id": "1191",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tribeofnoise.com",
             "name": "Tribe of Noise B.V. ",
             "seller_id": "1447",
