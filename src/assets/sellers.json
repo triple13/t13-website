@@ -681,6 +681,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.caracoltv.com/",
+            "name": "Caracol Televisi\u00f3n S.A.",
+            "seller_id": "1821",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "godzinnik.pl",
             "name": "Opes sp zoo",
             "seller_id": "1310",
