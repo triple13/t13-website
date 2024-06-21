@@ -711,6 +711,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "zerogpt.net",
+            "name": "Mohamed AIT LARAYEK",
+            "seller_id": "1823",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "coindesk.com",
             "name": "Coin Desk Inc.",
             "seller_id": "32",
