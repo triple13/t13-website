@@ -699,6 +699,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cheddar.tv",
+            "name": "Cheddar Cheese, Inc.",
+            "seller_id": "1822",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "theartstory.org",
             "name": "Art Agency Inc",
             "seller_id": "799",
