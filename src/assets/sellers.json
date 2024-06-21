@@ -843,12 +843,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "slrlounge.com",
-            "name": "SLR Lounge LLC",
-            "seller_id": "806",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "smithsonianmag.com",
             "name": "Smithsonian Enterprises",
             "seller_id": "1062",
@@ -1698,6 +1692,12 @@
             "domain": "housecreep.com",
             "name": "Housecreep",
             "seller_id": "1110",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bounty.com",
+            "name": "Bounty Media Ltd",
+            "seller_id": "1366",
             "seller_type": "PUBLISHER"
         },
         {
