@@ -2235,12 +2235,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "investors.com",
-            "name": "Investor's Business Daily",
-            "seller_id": "626",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "7media.xyz",
             "name": "7Media",
             "seller_id": "1394",
@@ -2286,12 +2280,6 @@
             "domain": "memedroid.com",
             "name": "Coinbench",
             "seller_id": "1652",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "isekaiscan.com",
-            "name": "Isekasiscan",
-            "seller_id": "885",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2406,12 +2394,6 @@
             "domain": "iphonekeyboardandroidapp.com.com",
             "name": "7Seasol",
             "seller_id": "1147",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "etfdb.com",
-            "name": "Ouzsan ",
-            "seller_id": "1659",
             "seller_type": "PUBLISHER"
         },
         {
