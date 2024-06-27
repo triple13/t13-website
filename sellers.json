@@ -741,6 +741,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "testcompany.com",
+            "name": "Test Company",
+            "seller_id": "1824",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "discountmag3.com",
             "name": "Discount Magazines LLC",
             "seller_id": "289",
