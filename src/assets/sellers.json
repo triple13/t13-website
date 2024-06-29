@@ -759,6 +759,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "hollywoodlife.com",
+            "name": "Hollywood Life Media LLC",
+            "seller_id": "1825",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wow-professions.com",
             "name": "Peter Kovacs",
             "seller_id": "802",
