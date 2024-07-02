@@ -1839,6 +1839,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "typing.com",
+            "name": "Typing.com LLC",
+            "seller_id": "860",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tinybeans.com",
             "name": "Tinybeans USA Ltd ",
             "seller_id": "1628",
