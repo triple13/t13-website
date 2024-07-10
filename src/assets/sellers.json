@@ -771,6 +771,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "quackr.io",
+            "name": "quackr.io",
+            "seller_id": "1826",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "virtualpiano.net",
             "name": "Crystal Magic Studio Ltd",
             "seller_id": "803",
