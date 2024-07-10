@@ -195,12 +195,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "deepdreamgenerator.com",
-            "name": "Aifnet Ltd.",
-            "seller_id": "1800",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "aftvnews.com",
             "name": "AFTV News",
             "seller_id": "777",
@@ -3426,12 +3420,6 @@
             "domain": "songfacts.com",
             "name": "Songfacts LLC",
             "seller_id": "172",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "overtake.gg",
-            "name": "OverTake GmbH",
-            "seller_id": "684",
             "seller_type": "PUBLISHER"
         },
         {
