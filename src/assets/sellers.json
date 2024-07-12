@@ -783,6 +783,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "moemate.io",
+            "name": "Moemate",
+            "seller_id": "1827",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "reserveamerica.com",
             "name": "RA Outdoors LLC",
             "seller_id": "548",
