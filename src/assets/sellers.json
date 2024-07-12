@@ -105,12 +105,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "smartsaversunite.com",
-            "name": "Vas Communications LLC",
-            "seller_id": "1796",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "iheartdogs.com",
             "name": "HomeLife Media, LLC",
             "seller_id": "517",
@@ -2004,6 +1998,12 @@
             "domain": "tennistonic.com",
             "name": "Tonic Consultancy Pte Ltd",
             "seller_id": "615",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "proballers.com",
+            "name": "Proballers SARL",
+            "seller_id": "1127",
             "seller_type": "PUBLISHER"
         },
         {
