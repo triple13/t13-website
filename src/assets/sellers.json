@@ -819,6 +819,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "dailysignal.org",
+            "name": "Daily Signal",
+            "seller_id": "1828",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gearmoose.com",
             "name": "GearMoose LLC",
             "seller_id": "805",
