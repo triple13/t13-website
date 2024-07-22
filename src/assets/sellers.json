@@ -477,12 +477,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "realityblurb.com",
-            "name": "Reality Blurb",
-            "seller_id": "1812",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "1001freefonts.com",
             "name": "Jason Nolan",
             "seller_id": "533",
@@ -882,6 +876,12 @@
             "domain": "fragrantica.com",
             "name": "Fragrantica Inc",
             "seller_id": "1574",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "smokymountains.com",
+            "name": "Staysense",
+            "seller_id": "1830",
             "seller_type": "PUBLISHER"
         },
         {
