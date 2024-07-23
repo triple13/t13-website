@@ -897,6 +897,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "colorhunt.co",
+            "name": "Color Hunt",
+            "seller_id": "1831",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dlisted.com",
             "name": "Dlisted, LLC",
             "seller_id": "552",
@@ -906,6 +912,12 @@
             "domain": "racingnews.co",
             "name": "ENAHS, LLC.",
             "seller_id": "808",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wheelofnames.com",
+            "name": "Wheel of Names",
+            "seller_id": "1832",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1980,12 +1992,6 @@
             "domain": "sciencenews.org",
             "name": "Science News / Science for Society",
             "seller_id": "1124",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "hpaudiobooks.club",
-            "name": "Auksines Knygos UAB",
-            "seller_id": "1380",
             "seller_type": "PUBLISHER"
         },
         {
