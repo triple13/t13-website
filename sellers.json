@@ -945,6 +945,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "vikatan.com ",
+            "name": "Vikatan",
+            "seller_id": "1833",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pulseblueprint.com",
             "name": "PulseBlueprint",
             "seller_id": "1322",
