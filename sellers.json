@@ -963,6 +963,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "thehockeywriters.com",
+            "name": "The Hockey Writers",
+            "seller_id": "1834",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "mylapsiosapp.com.com",
             "name": "Mylaps",
             "seller_id": "1067",
@@ -972,6 +978,12 @@
             "domain": "byowner.com",
             "name": "Wild Wild West Group LLC",
             "seller_id": "1579",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "neopets.com",
+            "name": "Neopets",
+            "seller_id": "1835",
             "seller_type": "PUBLISHER"
         },
         {
