@@ -1011,6 +1011,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "storiesdown.com",
+            "name": "Stories Down",
+            "seller_id": "1836",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "brickseek.com",
             "name": "AKSOLOGY LLC",
             "seller_id": "301",
@@ -1194,12 +1200,6 @@
             "domain": "manga-raw.club",
             "name": "Manga Raw Club",
             "seller_id": "823",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "akinternetconsulting.com",
-            "name": "AK Internet Consulting, Inc.",
-            "seller_id": "1079",
             "seller_type": "PUBLISHER"
         },
         {
