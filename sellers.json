@@ -1041,6 +1041,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "",
+            "name": "Test Contract 07-31-2024",
+            "seller_id": "1837",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "notepad.pw",
             "name": "Shroff Holdings LLC",
             "seller_id": "1070",
@@ -1050,6 +1056,12 @@
             "domain": "couponscorpion.com",
             "name": "Coupon Scorpion ",
             "seller_id": "1582",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "",
+            "name": "Test Contract 07-31-2024-2",
+            "seller_id": "1838",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5110,7 +5122,7 @@
         },
         {
             "domain": "worldometers.info",
-            "name": "Dario Pasqualino",
+            "name": "NEXUS SRL",
             "seller_id": "252",
             "seller_type": "PUBLISHER"
         },
