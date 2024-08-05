@@ -1941,12 +1941,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "popnable.com",
-            "name": "Netox Ltd",
-            "seller_id": "1631",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "boxrec.com",
             "name": "BoxRec LTD",
             "seller_id": "608",
@@ -2658,12 +2652,6 @@
             "domain": "profootballnetwork.com",
             "name": "Pro Football Network Inc",
             "seller_id": "1670",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "animemotivation.com",
-            "name": "Anime Motivation",
-            "seller_id": "903",
             "seller_type": "PUBLISHER"
         },
         {
