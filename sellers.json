@@ -1107,6 +1107,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cruisebound.com",
+            "name": "Cruise Bound",
+            "seller_id": "1840",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "scorestream.com",
             "name": "ScoreStream, Inc.",
             "seller_id": "817",
