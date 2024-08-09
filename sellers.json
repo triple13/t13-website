@@ -2703,12 +2703,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "neatorama.com",
-            "name": "Neatorama Inc.",
-            "seller_id": "137",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "thekingdominsider.com",
             "name": "Academy Travel, Inc.",
             "seller_id": "649",
@@ -4368,12 +4362,6 @@
             "domain": "whoscored.com",
             "name": "Whoscored",
             "seller_id": "1753",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "choicehotelswifi.com",
-            "name": "goingto.do, Inc.",
-            "seller_id": "986",
             "seller_type": "PUBLISHER"
         },
         {
