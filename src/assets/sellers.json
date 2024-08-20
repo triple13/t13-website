@@ -1125,6 +1125,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "freepik.com",
+            "name": "Freepik",
+            "seller_id": "1841",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pokemonprice.com",
             "name": "Pokemon Price",
             "seller_id": "818",
