@@ -1161,6 +1161,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "maplemedia.io",
+            "name": "Maple Media, LLC.",
+            "seller_id": "1843",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wiconnect.com",
             "name": "WiConnect LLC",
             "seller_id": "820",
