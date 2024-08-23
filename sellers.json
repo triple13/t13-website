@@ -1179,6 +1179,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wenxuecity.com",
+            "name": "Sinomedia Inc",
+            "seller_id": "1844",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "rvusa.com",
             "name": "NetSource Technologies, Inc.",
             "seller_id": "821",
