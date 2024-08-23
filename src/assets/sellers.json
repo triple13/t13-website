@@ -1233,6 +1233,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mumsnet.com",
+            "name": "Mumsnet",
+            "seller_id": "1846",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "manga-raw.club",
             "name": "Manga Raw Club",
             "seller_id": "823",
