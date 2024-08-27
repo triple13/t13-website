@@ -4947,6 +4947,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "trekmovie.com",
+            "name": "SciFanatic Network",
+            "seller_id": "757",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fingerlakes1.com",
             "name": "FingerLakes1.com, Inc.",
             "seller_id": "1013",
