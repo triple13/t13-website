@@ -1251,6 +1251,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bigbrotherjunkies.com",
+            "name": "JunkyNet",
+            "seller_id": "1847",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "geeky-gadgets.com",
             "name": "Geeky-Gadgets.com",
             "seller_id": "568",
