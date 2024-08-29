@@ -1275,6 +1275,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wrestlingnews.co",
+            "name": "Wrestlingnews.co",
+            "seller_id": "1848",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "365chess.com",
             "name": "365 Chess",
             "seller_id": "825",
