@@ -357,12 +357,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "allaccess.com",
-            "name": "All Access Music Group",
-            "seller_id": "1040",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "heddels.com",
             "name": "Heddels",
             "seller_id": "1296",
@@ -2481,6 +2475,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "investorsobserver.com",
+            "name": "O2 Media LLC d.b.a. Investors Observer",
+            "seller_id": "894",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "WindingRoad.com",
             "name": "NextScreen LLC",
             "seller_id": "1406",
@@ -4023,12 +4023,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "aha-music.com",
-            "name": "ACRCloud PTE LTD",
-            "seller_id": "969",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "meetme.com",
             "name": "The Meet Group, Inc.",
             "seller_id": "458",
@@ -4218,12 +4212,6 @@
             "domain": "dkpittsburghsports.com",
             "name": "DK Pittsburgh Sports",
             "seller_id": "1746",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "lawlessfrench.com",
-            "name": "Laura K Lawless",
-            "seller_id": "979",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4881,12 +4869,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "alarmclock-mymusicalarms.com",
-            "name": "Impala Studios B.V.",
-            "seller_id": "1010",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "estatesales.org",
             "name": "EstateSales LLC",
             "seller_id": "1266",
@@ -4920,12 +4902,6 @@
             "domain": "myforecast.co",
             "name": "CustomWeather, Inc.",
             "seller_id": "756",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "oatcakefanzine.proboards.com",
-            "name": "ProBoards, Inc.",
-            "seller_id": "1012",
             "seller_type": "PUBLISHER"
         },
         {
