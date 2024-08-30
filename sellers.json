@@ -1281,6 +1281,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://yorkmix.com/",
+            "name": "York Sound Ltd",
+            "seller_id": "1849",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "jcpenney.com",
             "name": "JCPenney Corp, Inc",
             "seller_id": "570",
