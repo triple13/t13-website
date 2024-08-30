@@ -69,6 +69,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "rumandmonkey.com",
+            "name": "Advertical Media LLC",
+            "seller_id": "259",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "calibre-ebook.com",
             "name": "Kovid Goyal",
             "seller_id": "771",
@@ -3006,12 +3012,6 @@
             "domain": "thecinemaholic.com",
             "name": "Gomsy Media LLC",
             "seller_id": "407",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "livenewschat.eu",
-            "name": "LNC Networks OU",
-            "seller_id": "919",
             "seller_type": "PUBLISHER"
         },
         {
