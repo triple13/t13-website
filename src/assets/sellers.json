@@ -1323,6 +1323,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "thesensibleshopaholic.com",
+            "name": "The Sensible Shopaholic",
+            "seller_id": "1850",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "totalfratmove.com",
             "name": "TFM Media",
             "seller_id": "315",
