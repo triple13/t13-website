@@ -1347,6 +1347,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "thetruesize.com",
+            "name": "thetruesize.com",
+            "seller_id": "1851",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "raider.io",
             "name": "Ludicrous Speed LLC",
             "seller_id": "316",
