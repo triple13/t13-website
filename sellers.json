@@ -1371,6 +1371,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "teamblind.com",
+            "name": "Teamblind Inc.",
+            "seller_id": "1852",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thecrazytourist.com",
             "name": "TheCrazyTourist",
             "seller_id": "1341",
