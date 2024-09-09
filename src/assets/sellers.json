@@ -1431,6 +1431,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tuesdaymorning.com",
+            "name": "Tuesday Morning",
+            "seller_id": "1854",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gurushots.com",
             "name": "GuruShots Ltd",
             "seller_id": "1599",
@@ -3696,6 +3702,12 @@
             "domain": "whatismyipaddress.com",
             "name": "CGP Holdings, Inc.",
             "seller_id": "441",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "verticalscope.com",
+            "name": "Vertical Scope Inc",
+            "seller_id": "1209",
             "seller_type": "PUBLISHER"
         },
         {
