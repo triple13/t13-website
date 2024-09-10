@@ -1443,6 +1443,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "kanka.io",
+            "name": "Kanka",
+            "seller_id": "1855",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "financefinder.org",
             "name": "Reliant Holdings, Inc.",
             "seller_id": "1089",
