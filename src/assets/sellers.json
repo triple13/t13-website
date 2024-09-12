@@ -1467,6 +1467,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "realtysearch.io",
+            "name": "Genxlead",
+            "seller_id": "1857",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "time.is",
             "name": "North Code AS",
             "seller_id": "66",
