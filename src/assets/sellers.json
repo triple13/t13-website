@@ -1389,12 +1389,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "powerofpositivity.com",
-            "name": "Power of Positivity",
-            "seller_id": "1853",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "chaptercheats.com",
             "name": "EDF Sitestreet",
             "seller_id": "62",
@@ -1482,6 +1476,12 @@
             "domain": "amcnetworks.com",
             "name": "AMC Networks International ",
             "seller_id": "1602",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fifarosters.com",
+            "name": "FifaRosters",
+            "seller_id": "1858",
             "seller_type": "PUBLISHER"
         },
         {
