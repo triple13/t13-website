@@ -1509,6 +1509,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "costcoinsider.com",
+            "name": "Costco Insider",
+            "seller_id": "1859",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "healthyeater.com",
             "name": "Exis Holdings Limited",
             "seller_id": "68",
