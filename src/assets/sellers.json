@@ -1563,6 +1563,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mediumlarge.la",
+            "name": "Medium Large, LLC",
+            "seller_id": "1861",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "factinate.com",
             "name": "Factinate Ltd",
             "seller_id": "71",
@@ -5082,12 +5088,6 @@
             "domain": "hymnary.org",
             "name": "Hymnary.org",
             "seller_id": "1529",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "boredcomics.com",
-            "name": "Bored Comics",
-            "seller_id": "1785",
             "seller_type": "PUBLISHER"
         },
         {
