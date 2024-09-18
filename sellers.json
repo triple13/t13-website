@@ -1533,6 +1533,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bunkersparadise.com",
+            "name": "CG Digital",
+            "seller_id": "1860",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "joblo.com",
             "name": "JoBlo Media, Inc.",
             "seller_id": "325",
