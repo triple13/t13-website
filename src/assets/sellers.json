@@ -1569,6 +1569,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wowprogress.com",
+            "name": "WoWProgress",
+            "seller_id": "1862",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "factinate.com",
             "name": "Factinate Ltd",
             "seller_id": "71",
