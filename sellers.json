@@ -1599,6 +1599,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "www.pc-builds.com",
+            "name": "DELBIT d.o.o.",
+            "seller_id": "1863",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sportscardforum.com",
             "name": "sportscardforum",
             "seller_id": "1352",
