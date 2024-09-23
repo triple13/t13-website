@@ -1755,6 +1755,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "happycow.net",
+            "name": "HappyCow",
+            "seller_id": "336",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "10news.com",
             "name": "CNN",
             "seller_id": "1104",
