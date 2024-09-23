@@ -1623,6 +1623,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "aptdeco.com",
+            "name": "AptDeco",
+            "seller_id": "1865",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wordgamehelper.com",
             "name": "Internet Yield AB",
             "seller_id": "330",
