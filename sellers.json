@@ -795,7 +795,7 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dailysignal.org",
+            "domain": "dailysignal.com",
             "name": "Daily Signal",
             "seller_id": "1828",
             "seller_type": "PUBLISHER"
@@ -1674,6 +1674,12 @@
             "domain": "bad.cards",
             "name": "Bad Cards LLC ",
             "seller_id": "1611",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "conservativebrief.com",
+            "name": "Conservative Brief",
+            "seller_id": "1867",
             "seller_type": "PUBLISHER"
         },
         {
