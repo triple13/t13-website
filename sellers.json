@@ -1815,6 +1815,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wrestlingheadlines.com",
+            "name": "Wrestling Headlines Corporation",
+            "seller_id": "1106",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dw.com",
             "name": "Deutsche Welle",
             "seller_id": "1362",
