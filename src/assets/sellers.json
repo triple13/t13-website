@@ -1731,6 +1731,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "grammarhow.com",
+            "name": "Informateq ApS",
+            "seller_id": "1869",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thefreethoughtproject.com",
             "name": "Free Thought, LLC",
             "seller_id": "78",
