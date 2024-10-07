@@ -1755,6 +1755,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wornontv.net",
+            "name": "Worn on TV",
+            "seller_id": "1870",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "freestar.com",
             "name": "Freestar",
             "seller_id": "79",
@@ -2916,12 +2922,6 @@
             "domain": "toothwhiteningguide.com",
             "name": "Hein Min Oo",
             "seller_id": "1164",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "saucenao.com",
-            "name": "Xamayon Corp",
-            "seller_id": "1420",
             "seller_type": "PUBLISHER"
         },
         {
