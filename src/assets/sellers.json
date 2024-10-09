@@ -1791,6 +1791,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "temp-number.com",
+            "name": "Tharindu Madushan",
+            "seller_id": "1871",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "happycow.net",
             "name": "HappyCow",
             "seller_id": "336",
