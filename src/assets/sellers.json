@@ -2871,6 +2871,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "papergames.io",
+            "name": "Papergames.io",
+            "seller_id": "907",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sltrib.com",
             "name": "Salt Lake Tribune",
             "seller_id": "1163",
