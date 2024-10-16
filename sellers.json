@@ -2751,6 +2751,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "myfridgefood.com",
+            "name": "MyFridgeFood Inc.",
+            "seller_id": "134",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fselite.net",
             "name": "FSElite",
             "seller_id": "1158",
