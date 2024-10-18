@@ -1797,6 +1797,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "deeptide.com, allbluechecks.com, laserpointerforums.com",
+            "name": "All Blue Checks, LLC",
+            "seller_id": "1872",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dobberhockey.com",
             "name": "Dobber Sports Inc",
             "seller_id": "849",
@@ -2088,6 +2094,12 @@
             "domain": "motortrend.com",
             "name": "MotorTrend Group, LLC",
             "seller_id": "866",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Realtimes Network ",
+            "name": "Realtimes Network ",
+            "seller_id": "1122",
             "seller_type": "PUBLISHER"
         },
         {
