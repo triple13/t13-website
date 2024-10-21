@@ -1851,6 +1851,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "marketgrow.com",
+            "name": "World Wide Digital",
+            "seller_id": "1874",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "zacks.com",
             "name": "Zacks Analyst Watch, Inc",
             "seller_id": "1107",
@@ -2244,12 +2250,6 @@
             "domain": "wunderdog.com",
             "name": "Wunderdog Sports Picks LLC",
             "seller_id": "618",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "linuxopsys.com",
-            "name": "BTreme",
-            "seller_id": "1642",
             "seller_type": "PUBLISHER"
         },
         {
