@@ -1869,6 +1869,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "vidburner.com",
+            "name": "Ruji Begum",
+            "seller_id": "1875",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "guessthe.game",
             "name": "Sheeshblockchaineducation, LLC",
             "seller_id": "1620",
@@ -2616,6 +2622,12 @@
             "domain": "rhymeswithsnitch.com",
             "name": "Rhymes With Snitch",
             "seller_id": "1407",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "singletrackworld.com",
+            "name": "Gofar Enterprises ltd",
+            "seller_id": "384",
             "seller_type": "PUBLISHER"
         },
         {
