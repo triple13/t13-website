@@ -2463,12 +2463,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "emailondeck.com",
-            "name": "Lucid LXIX",
-            "seller_id": "120",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dealnewsiosapp.com",
             "name": "DealNews",
             "seller_id": "888",
@@ -3588,12 +3582,6 @@
             "domain": "tripstodiscover.com",
             "name": "Strive Media",
             "seller_id": "176",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "mob.co.uk",
-            "name": "Mouth Group Limited",
-            "seller_id": "1456",
             "seller_type": "PUBLISHER"
         },
         {
