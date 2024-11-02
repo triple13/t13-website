@@ -1887,6 +1887,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "newsmax.com",
+            "name": "Newsmax Media, Inc.",
+            "seller_id": "1877",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "typingclub.com",
             "name": "EDCLUB, INC",
             "seller_id": "342",
