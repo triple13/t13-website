@@ -2025,6 +2025,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gaveanews.com",
+            "name": "Gavea News",
+            "seller_id": "1883",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "biggeekdad.com",
             "name": "JACKNAT, LLC",
             "seller_id": "348",
