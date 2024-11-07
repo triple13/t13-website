@@ -2007,6 +2007,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "sleepfoundation.org",
+            "name": "Sleep Doctor",
+            "seller_id": "1882",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "garden.org",
             "name": "National Gardening Association",
             "seller_id": "859",
