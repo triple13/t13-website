@@ -1977,6 +1977,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "minecraftshader.com",
+            "name": "Minecraft Shader",
+            "seller_id": "1881",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "audiomack.com",
             "name": "Audiomack Inc.",
             "seller_id": "602",
