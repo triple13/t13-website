@@ -2055,6 +2055,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "aviationa2z.com",
+            "name": "Aviation A2Z",
+            "seller_id": "1884",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "course-notes.org",
             "name": "Christopher Keenan",
             "seller_id": "349",
