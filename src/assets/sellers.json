@@ -2109,6 +2109,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "laineygossip.com",
+            "name": "LaineyGossip",
+            "seller_id": "1886",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sportslogos.net",
             "name": "7727011 Canada, Inc.",
             "seller_id": "351",
@@ -2118,6 +2124,12 @@
             "domain": "sift.co.uk",
             "name": "Sift Ltd",
             "seller_id": "1375",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "liveworksheets.com",
+            "name": "LiveWorksheets Holdings, Inc.",
+            "seller_id": "1887",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4606,7 +4618,7 @@
         },
         {
             "domain": "xosodaiphat.com",
-            "name": "xosodaiphat",
+            "name": "WEDIA LTD",
             "seller_id": "1760",
             "seller_type": "PUBLISHER"
         },
