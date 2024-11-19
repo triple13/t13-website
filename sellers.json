@@ -1647,12 +1647,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "conservativebrief.com",
-            "name": "Conservative Brief",
-            "seller_id": "1867",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "firstshowing.net",
             "name": "First Showing LLC",
             "seller_id": "76",
@@ -2142,6 +2136,12 @@
             "domain": "apotelyt.com",
             "name": "Interdiagnostix",
             "seller_id": "1120",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "easytoolz.us",
+            "name": "Easy Toolz",
+            "seller_id": "1888",
             "seller_type": "PUBLISHER"
         },
         {
