@@ -1917,12 +1917,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "bristol247.com",
-            "name": "Bristol247 CIC",
-            "seller_id": "1367",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "webnots.com",
             "name": "WebNots Web Consulting Services",
             "seller_id": "1623",
@@ -2190,6 +2184,12 @@
             "domain": "sciencenews.org",
             "name": "Science News / Science for Society",
             "seller_id": "1124",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "daytondailynews.com",
+            "name": "Cox First Media, Inc.",
+            "seller_id": "1892",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3654,12 +3654,6 @@
             "domain": "sportingplaymakers.com",
             "name": "Ad-Ventures 4, Inc. ",
             "seller_id": "690",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tire-reviews.com",
-            "name": "Tire Reviews LLC",
-            "seller_id": "1202",
             "seller_type": "PUBLISHER"
         },
         {
