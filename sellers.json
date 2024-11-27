@@ -2199,6 +2199,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tourtrivia.com",
+            "name": "Words Trivia",
+            "seller_id": "1893",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "scratchstakes.com",
             "name": "Globalizer, LLC",
             "seller_id": "870",
