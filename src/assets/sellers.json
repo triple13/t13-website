@@ -2223,6 +2223,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "nookazon.com",
+            "name": "Akrew Inc",
+            "seller_id": "1894",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tennistonic.com",
             "name": "Tonic Consultancy Pte Ltd",
             "seller_id": "615",
