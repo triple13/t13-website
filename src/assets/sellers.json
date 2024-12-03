@@ -2223,7 +2223,7 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "nookazon.com",
+            "domain": "traderie.com",
             "name": "Akrew Inc",
             "seller_id": "1894",
             "seller_type": "PUBLISHER"
@@ -2244,6 +2244,12 @@
             "domain": "bespokeunit.com",
             "name": "Bespoke Unit LLC",
             "seller_id": "1639",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "liviant.com",
+            "name": "Liviant Internet",
+            "seller_id": "1895",
             "seller_type": "PUBLISHER"
         },
         {
