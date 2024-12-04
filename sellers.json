@@ -2283,6 +2283,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "puzzle-loop.com",
+            "name": "Puzzle Team",
+            "seller_id": "1896",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "powerpyx.com",
             "name": "Alpha Online Empire FZ LLE",
             "seller_id": "361",
