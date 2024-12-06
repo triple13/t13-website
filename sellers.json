@@ -2151,6 +2151,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "lexipol.com",
+            "name": "Lexipol",
+            "seller_id": "1890",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wallstreetlogic.com",
             "name": "Danayi Capital Corp",
             "seller_id": "1123",
