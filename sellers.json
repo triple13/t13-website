@@ -2337,6 +2337,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "designermedia.com",
+            "name": "Designer Media Ltd",
+            "seller_id": "1898",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "automobile-catalog.com",
             "name": "Professcars Pawel Zal",
             "seller_id": "363",
