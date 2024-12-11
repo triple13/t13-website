@@ -2367,6 +2367,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tvpassport.com",
+            "name": "TV Media Inc",
+            "seller_id": "1899",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "usclublax.com",
             "name": "US Club Lacrosse LLC",
             "seller_id": "1132",
