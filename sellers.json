@@ -519,12 +519,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "calcxml.com",
-            "name": "Financial Calculators Group LLC",
-            "seller_id": "537",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "speedcheck.org",
             "name": "Etrality GmbH",
             "seller_id": "1049",
@@ -720,12 +714,6 @@
             "domain": "pricecharting.com",
             "name": "PriceCharting",
             "seller_id": "1058",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "quackr.io",
-            "name": "quackr.io",
-            "seller_id": "1826",
             "seller_type": "PUBLISHER"
         },
         {
