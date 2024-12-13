@@ -2379,6 +2379,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "insidehook.com",
+            "name": "InsideHook",
+            "seller_id": "1900",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "itsfoss.com",
             "name": "CHMOD777 MEDIA TECH OPC PVT LTD",
             "seller_id": "109",
