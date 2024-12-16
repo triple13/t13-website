@@ -2421,6 +2421,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://sportradar.com/",
+            "name": "Sportradar",
+            "seller_id": "1902",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "classicwow.live",
             "name": "Classicwow.live Inc",
             "seller_id": "623",
@@ -3978,12 +3984,6 @@
             "domain": "grammarist.com",
             "name": "Found First Marketing Inc",
             "seller_id": "1218",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "xlmedia.com",
-            "name": "XL Media ",
-            "seller_id": "1474",
             "seller_type": "PUBLISHER"
         },
         {
