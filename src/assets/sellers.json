@@ -2397,6 +2397,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "whatifsports.com",
+            "name": "Freking Sports LLC",
+            "seller_id": "1901",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "watchcharts.com",
             "name": "WatchEnthusiasts LLC",
             "seller_id": "878",
@@ -3198,12 +3204,6 @@
             "domain": "crossovergrid.com",
             "name": "Crossover Sports Entertainment LLC ",
             "seller_id": "1688",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "whatifsports.com",
-            "name": "SportsHub Games Network, Inc.",
-            "seller_id": "665",
             "seller_type": "PUBLISHER"
         },
         {
