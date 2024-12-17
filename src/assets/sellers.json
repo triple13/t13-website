@@ -2181,7 +2181,7 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tourtrivia.com",
+            "domain": "wordstrivia.com",
             "name": "Words Trivia",
             "seller_id": "1893",
             "seller_type": "PUBLISHER"
@@ -4440,6 +4440,12 @@
             "domain": "reason.com",
             "name": "Reason Foundation",
             "seller_id": "472",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "livebeaches.com",
+            "name": "Coastline Internet, LLC",
+            "seller_id": "984",
             "seller_type": "PUBLISHER"
         },
         {
