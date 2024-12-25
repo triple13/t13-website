@@ -2433,6 +2433,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "collegedekho.com",
+            "name": "College Dekho",
+            "seller_id": "1903",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thefirsttv.com",
             "name": "The First Digital Media, Inc.",
             "seller_id": "880",
