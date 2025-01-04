@@ -2463,6 +2463,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "insidethehall.com",
+            "name": "Inside the Hall",
+            "seller_id": "1904",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "championgames.com",
             "name": "Champion Games SL ",
             "seller_id": "1649",
