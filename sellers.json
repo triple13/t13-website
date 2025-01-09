@@ -2511,6 +2511,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "ballotpedia.org",
+            "name": "Lucy Burns Institute, Inc (dba Ballotpedia)",
+            "seller_id": "1907",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "capecod.com",
             "name": "CapeCod",
             "seller_id": "1140",
