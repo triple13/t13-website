@@ -2529,6 +2529,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.carsized.com",
+            "name": "Carsized",
+            "seller_id": "1908",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "themoscowtimes.com",
             "name": "The Moscow Times",
             "seller_id": "1397",
