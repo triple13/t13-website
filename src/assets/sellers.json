@@ -51,12 +51,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "rokuguide.com",
-            "name": "Fire Mountain Digital, LLC",
-            "seller_id": "1026",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "sonichits.com",
             "name": "Foto Friend Pty Ltd",
             "seller_id": "1538",
@@ -852,12 +846,6 @@
             "domain": "boingboing.net",
             "name": "Happy Mutants LLC",
             "seller_id": "551",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "topdust.com",
-            "name": "Popdust",
-            "seller_id": "807",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1893,12 +1881,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "clickasnap.com",
-            "name": "Clickasnap",
-            "seller_id": "856",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "bandwidthplace.com",
             "name": "Bandwidth Place, LLC",
             "seller_id": "1112",
@@ -2613,12 +2595,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "occupydemocrats.com",
-            "name": "Blue Direction LLC",
-            "seller_id": "1402",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "ukulele-tabs.com",
             "name": "Websun Solutions UG",
             "seller_id": "635",
@@ -3036,12 +3012,6 @@
             "domain": "ffonts.net",
             "name": "WHATFONTIS COM SRL",
             "seller_id": "1679",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "pkmneclipse.net",
-            "name": "Eclipse RPG",
-            "seller_id": "912",
             "seller_type": "PUBLISHER"
         },
         {
