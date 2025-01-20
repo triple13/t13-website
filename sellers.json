@@ -1095,12 +1095,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pokemonprice.com",
-            "name": "Pokemon Price",
-            "seller_id": "818",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fakenamegenerator.com",
             "name": "Corban Works LLC",
             "seller_id": "1074",
@@ -2787,12 +2781,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "moviemistakes.com",
-            "name": "Moviemistakes.com",
-            "seller_id": "131",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dwellsy.com",
             "name": "Dwellsy Inc.",
             "seller_id": "1411",
@@ -4464,12 +4452,6 @@
             "domain": "theratingsnetwork.com",
             "name": "2K Ratings",
             "seller_id": "1752",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "chordindonesia.com",
-            "name": "ChordIndonesia.com",
-            "seller_id": "1497",
             "seller_type": "PUBLISHER"
         },
         {
