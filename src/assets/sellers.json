@@ -2511,6 +2511,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bostonglobe.com",
+            "name": "Boston Globe",
+            "seller_id": "1909",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wdrv.com",
             "name": "Hubbard",
             "seller_id": "1142",
