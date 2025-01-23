@@ -1083,6 +1083,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "pokemonprice.com",
+            "name": "Pokemon Price",
+            "seller_id": "818",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fakenamegenerator.com",
             "name": "Corban Works LLC",
             "seller_id": "1074",
