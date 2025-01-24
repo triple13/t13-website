@@ -2559,6 +2559,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "zmenu.com",
+            "name": "Zmenu Inc",
+            "seller_id": "1911",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dealnewsiosapp.com",
             "name": "DealNews",
             "seller_id": "888",
@@ -2574,6 +2580,12 @@
             "domain": "dezgo.com",
             "name": "Dezgo SAS ",
             "seller_id": "1656",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "neurolaunch.com",
+            "name": "Neurolaunch",
+            "seller_id": "1912",
             "seller_type": "PUBLISHER"
         },
         {
