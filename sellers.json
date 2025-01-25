@@ -1599,6 +1599,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "conservativebrief.com",
+            "name": "Conservative Brief",
+            "seller_id": "1867",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "firstshowing.net",
             "name": "First Showing LLC",
             "seller_id": "76",
