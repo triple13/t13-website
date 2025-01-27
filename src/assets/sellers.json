@@ -2625,6 +2625,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "blockblastsolver.com",
+            "name": "1MB SAAS SL",
+            "seller_id": "1914",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ukulele-tabs.com",
             "name": "Websun Solutions UG",
             "seller_id": "635",
@@ -2634,6 +2640,12 @@
             "domain": "iphonekeyboardandroidapp.com.com",
             "name": "7Seasol",
             "seller_id": "1147",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dealcatcher.com",
+            "name": "eCatcher Inc",
+            "seller_id": "1915",
             "seller_type": "PUBLISHER"
         },
         {
