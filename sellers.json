@@ -2667,6 +2667,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "stjoseph.com",
+            "name": "stjoseph.com",
+            "seller_id": "1916",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "trendings.net",
             "name": "Thought Nova AB",
             "seller_id": "637",
