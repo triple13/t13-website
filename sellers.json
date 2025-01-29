@@ -2697,6 +2697,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "",
+            "name": "FatCoupon.com",
+            "seller_id": "1917",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "lovewhatmatters.com",
             "name": "Love What Matters, LLC",
             "seller_id": "638",
