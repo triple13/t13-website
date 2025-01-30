@@ -2781,6 +2781,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "modsfire.com",
+            "name": "Celer Dynamics LTD",
+            "seller_id": "1920",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "wapoapp.com",
             "name": "Wapo y Wapa LTD",
             "seller_id": "1409",
