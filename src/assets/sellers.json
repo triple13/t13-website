@@ -2721,6 +2721,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "sudoku.com",
+            "name": "Easybrain",
+            "seller_id": "1918",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "razzball.com",
             "name": "Razzball LLC",
             "seller_id": "383",
