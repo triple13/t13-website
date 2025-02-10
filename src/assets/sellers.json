@@ -2685,12 +2685,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "lifestylegoals.co",
-            "name": "Kickflip Media",
-            "seller_id": "1286",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "macdailynews.com",
             "name": "macdailynews",
             "seller_id": "1291",
@@ -3084,12 +3078,6 @@
             "domain": "forebears.io",
             "name": "Forebears DMCC",
             "seller_id": "1427",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "automattic.com",
-            "name": "Automattic Inc",
-            "seller_id": "1428",
             "seller_type": "PUBLISHER"
         },
         {
