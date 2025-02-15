@@ -5221,6 +5221,12 @@
             "name": "Celer Dynamics LTD",
             "seller_id": "1920",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "generalmills.com",
+            "name": "General Mills",
+            "seller_id": "1922",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
