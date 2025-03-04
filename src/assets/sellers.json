@@ -2979,12 +2979,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dafontfree.io",
-            "name": "MD. ANISUR RAHAMAN GAZI",
-            "seller_id": "1401",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "WindingRoad.com",
             "name": "NextScreen LLC",
             "seller_id": "1406",
@@ -4480,7 +4474,7 @@
         },
         {
             "domain": "ConnectionsUnlimited.org",
-            "name": "ConnectionsUnlimited.org",
+            "name": "ConnectionsUnlimited",
             "seller_id": "1784",
             "seller_type": "PUBLISHER"
         },
