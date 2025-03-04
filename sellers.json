@@ -2481,12 +2481,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "mouse-sensitivity.com",
-            "name": "Mouse Sensitivity",
-            "seller_id": "1220",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "officeholidays.com",
             "name": "Office Holidays Ltd",
             "seller_id": "1221",
@@ -2688,12 +2682,6 @@
             "domain": "heddels.com",
             "name": "Heddels",
             "seller_id": "1296",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "foldnfly.com",
-            "name": "Jake Olefsky LLC",
-            "seller_id": "1298",
             "seller_type": "PUBLISHER"
         },
         {
