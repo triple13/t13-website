@@ -5043,12 +5043,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://www.carsized.com",
-            "name": "Carsized",
-            "seller_id": "1908",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "bostonmagazine.com",
             "name": "Boston Globe",
             "seller_id": "1909",
