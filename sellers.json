@@ -1719,6 +1719,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "watchdocumentaries.com",
+            "name": "Watchdocumentaries.com",
+            "seller_id": "900",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "yaytext.com",
             "name": "Yaytext",
             "seller_id": "901",
