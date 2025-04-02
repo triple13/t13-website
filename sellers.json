@@ -9,6 +9,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "solitairen.com",
+            "name": "solitairen.com",
+            "seller_id": "1729",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "twsn.net",
             "name": "Malik r. Wright",
             "seller_id": "1925",
@@ -210,6 +216,12 @@
             "domain": "storenvy.com",
             "name": "STORENVY ONLINE SERVICES LLC",
             "seller_id": "1944",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "rentalhousingdeals.com",
+            "name": "Rental Housing Deals, Inc.",
+            "seller_id": "1945",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4314,12 +4326,6 @@
             "domain": "htmlmahjonggames.com",
             "name": "Isko Games",
             "seller_id": "1728",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "solitairen.com",
-            "name": "solitairen.com",
-            "seller_id": "1729",
             "seller_type": "PUBLISHER"
         },
         {
