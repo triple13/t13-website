@@ -213,6 +213,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "deckshop.pro",
+            "name": "Deck Shop Pro",
+            "seller_id": "1946",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "apnews.com",
             "name": "Associated Press",
             "seller_id": "1930",
@@ -222,12 +228,6 @@
             "domain": "tunefind.com",
             "name": "Songtradr",
             "seller_id": "1934",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "deckshop.pro",
-            "name": "Deck Shop Pro",
-            "seller_id": "1946",
             "seller_type": "PUBLISHER"
         },
         {
