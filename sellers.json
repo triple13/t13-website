@@ -231,6 +231,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
+            "name": "ISocial Sports Private ltd",
+            "seller_id": "1947",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "cssauthor.com",
             "name": "Arun Bhargavan",
             "seller_id": "15",
@@ -1692,12 +1698,6 @@
             "domain": "andrewsmcmeel.com",
             "name": "Andrews McMeel Universal LLC",
             "seller_id": "872",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "watchcharts.com",
-            "name": "WatchEnthusiasts LLC",
-            "seller_id": "878",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4728,12 +4728,6 @@
             "domain": "cheddar.tv",
             "name": "Cheddar Cheese, Inc.",
             "seller_id": "1822",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "zerogpt.net",
-            "name": "Mohamed AIT LARAYEK",
-            "seller_id": "1823",
             "seller_type": "PUBLISHER"
         },
         {
