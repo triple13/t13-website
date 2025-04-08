@@ -225,6 +225,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
+            "name": "ISocial Sports Private ltd",
+            "seller_id": "1947",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "apnews.com",
             "name": "Associated Press",
             "seller_id": "1930",
@@ -234,12 +240,6 @@
             "domain": "tunefind.com",
             "name": "Songtradr",
             "seller_id": "1934",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
-            "name": "ISocial Sports Private ltd",
-            "seller_id": "1947",
             "seller_type": "PUBLISHER"
         },
         {
