@@ -273,6 +273,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "playbill.com",
+            "name": "Playbill",
+            "seller_id": "1950",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "cssauthor.com",
             "name": "Arun Bhargavan",
             "seller_id": "15",
@@ -3084,12 +3090,6 @@
             "domain": "dmgmedia.co.uk",
             "name": "Associated Newspaper Ltd",
             "seller_id": "1384",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "ratemyteachers.com",
-            "name": "VP Limited, LLC",
-            "seller_id": "1385",
             "seller_type": "PUBLISHER"
         },
         {
