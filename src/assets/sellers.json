@@ -159,6 +159,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "liveworksheets.com",
+            "name": "LiveWorksheets Holdings, Inc.",
+            "seller_id": "1887",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "puzzle-loop.com",
             "name": "Puzzle Team",
             "seller_id": "1896",
@@ -5070,12 +5076,6 @@
             "domain": "laineygossip.com",
             "name": "LaineyGossip",
             "seller_id": "1886",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "liveworksheets.com",
-            "name": "LiveWorksheets Holdings, Inc.",
-            "seller_id": "1887",
             "seller_type": "PUBLISHER"
         },
         {
