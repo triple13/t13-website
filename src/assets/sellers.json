@@ -51,6 +51,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "evolvemediallc.com",
+            "name": "Evolve Media LLC",
+            "seller_id": "1532",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tpointtech.com",
             "name": "Javatpoint Tech",
             "seller_id": "1664",
@@ -282,6 +288,12 @@
             "domain": "worldanimalfoundation.org",
             "name": "WorldAnimalFoundation",
             "seller_id": "1951",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "twentytwowords.com",
+            "name": "22 Words",
+            "seller_id": "1952",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3606,12 +3618,6 @@
             "domain": "dnschecker.org",
             "name": "Softrix Technologies",
             "seller_id": "1530",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "evolvemediallc.com",
-            "name": "Evolve Media LLC",
-            "seller_id": "1532",
             "seller_type": "PUBLISHER"
         },
         {
