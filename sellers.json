@@ -123,6 +123,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "worldanimalfoundation.org",
+            "name": "WorldAnimalFoundation",
+            "seller_id": "1951",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bandsintown.com",
             "name": "Bandsintown Amplified, LLC",
             "seller_id": "1101",
@@ -279,15 +285,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "worldanimalfoundation.org",
-            "name": "WorldAnimalFoundation",
-            "seller_id": "1951",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "twentytwowords.com",
             "name": "22 Words",
             "seller_id": "1952",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://www.spielesite.com",
+            "name": "Benito Kummer",
+            "seller_id": "1953",
             "seller_type": "PUBLISHER"
         },
         {
