@@ -957,6 +957,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "fortune.com",
+            "name": "Fortune Media USA Corporation",
+            "seller_id": "538",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "reserveamerica.com",
             "name": "RA Outdoors LLC",
             "seller_id": "548",
