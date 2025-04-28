@@ -309,6 +309,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.alticeusa.com/",
+            "name": "Altice USA Inc",
+            "seller_id": "1956",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "cssauthor.com",
             "name": "Arun Bhargavan",
             "seller_id": "15",
