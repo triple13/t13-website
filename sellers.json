@@ -135,6 +135,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.alticeusa.com/",
+            "name": "Altice USA Inc",
+            "seller_id": "1956",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bandsintown.com",
             "name": "Bandsintown Amplified, LLC",
             "seller_id": "1101",
@@ -306,12 +312,6 @@
             "domain": "tinywow.com",
             "name": "TinyWow Acquisition LLC",
             "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://www.alticeusa.com/",
-            "name": "Altice USA Inc",
-            "seller_id": "1956",
             "seller_type": "PUBLISHER"
         },
         {
