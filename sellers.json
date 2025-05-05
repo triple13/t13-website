@@ -321,7 +321,7 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "",
+            "domain": "greenwichmeantime.com",
             "name": "greenwichmeantime.com",
             "seller_id": "1960",
             "seller_type": "PUBLISHER"
@@ -336,6 +336,12 @@
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nameberry.com",
+            "name": "Nameberry LLC",
+            "seller_id": "1961",
             "seller_type": "PUBLISHER"
         },
         {
