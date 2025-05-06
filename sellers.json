@@ -351,6 +351,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://wordshake.com/",
+            "name": "Wordshake Inc.",
+            "seller_id": "1963",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "cssauthor.com",
             "name": "Arun Bhargavan",
             "seller_id": "15",
@@ -2646,12 +2652,6 @@
             "domain": "ukutabs.com",
             "name": "UkuWorld",
             "seller_id": "1182",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tmx.com",
-            "name": "TSX Inc",
-            "seller_id": "1185",
             "seller_type": "PUBLISHER"
         },
         {
