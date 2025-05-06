@@ -5263,6 +5263,12 @@
             "name": "Nameberry LLC",
             "seller_id": "1961",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "instapv.com",
+            "name": "ERAN ITZHAK LEVIN PARENTI",
+            "seller_id": "1962",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
