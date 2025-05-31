@@ -99,15 +99,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "sudokutable.com",
-            "name": "Final-Level",
-            "seller_id": "1966",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "topuniversities.com",
             "name": "Quacquarelli Symonds",
             "seller_id": "1967",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sudokutable.com",
+            "name": "Final-Level",
+            "seller_id": "1966",
             "seller_type": "PUBLISHER"
         },
         {
@@ -249,12 +249,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "hypebeast.com",
-            "name": "HYPEBEAST Hong Kong Limited",
-            "seller_id": "1205",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "scribd.com",
             "name": "Scribd Inc",
             "seller_id": "1651",
@@ -264,6 +258,12 @@
             "domain": "tupaki.com",
             "name": "Tupaki Media Pvt Ltd",
             "seller_id": "1820",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hypebeast.com",
+            "name": "HYPEBEAST Hong Kong Limited",
+            "seller_id": "1205",
             "seller_type": "PUBLISHER"
         },
         {
@@ -345,15 +345,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "http://slippedisc.com/",
-            "name": "slippedisc.com",
-            "seller_id": "1964",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stockwatch.com",
             "name": "Stockwatch",
             "seller_id": "1965",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "http://slippedisc.com/",
+            "name": "slippedisc.com",
+            "seller_id": "1964",
             "seller_type": "PUBLISHER"
         },
         {
@@ -405,15 +405,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tinywow.com",
-            "name": "TinyWow Acquisition LLC",
-            "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "glyphy.io",
             "name": "QR io LLC",
             "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tinywow.com",
+            "name": "TinyWow Acquisition LLC",
+            "seller_id": "1955",
             "seller_type": "PUBLISHER"
         },
         {
