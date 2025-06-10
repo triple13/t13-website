@@ -5227,6 +5227,12 @@
             "name": "Tyler Test LLC",
             "seller_id": "1958",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wordsmyth.net",
+            "name": "Wordsmyth",
+            "seller_id": "1969",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
