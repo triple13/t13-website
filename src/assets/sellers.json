@@ -1143,6 +1143,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "estatesales.org",
+            "name": "EstateSales LLC",
+            "seller_id": "1266",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fictiondb.com",
             "name": "fictiondb",
             "seller_id": "1267",
@@ -2862,6 +2868,12 @@
             "domain": "meetup.com",
             "name": "Meetup LLC",
             "seller_id": "1020",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "yardsalesearch.com",
+            "name": "Treasure Listings LLC",
+            "seller_id": "1021",
             "seller_type": "PUBLISHER"
         },
         {
