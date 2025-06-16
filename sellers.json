@@ -5217,15 +5217,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "http://slippedisc.com/",
-            "name": "slippedisc.com",
-            "seller_id": "1964",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stockwatch.com",
             "name": "Stockwatch",
             "seller_id": "1965",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "http://slippedisc.com/",
+            "name": "slippedisc.com",
+            "seller_id": "1964",
             "seller_type": "PUBLISHER"
         },
         {
