@@ -435,6 +435,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "pff.com",
+            "name": "Pro Football Focus",
+            "seller_id": "1971",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "coindesk.com",
             "name": "Coin Desk Inc.",
             "seller_id": "32",
