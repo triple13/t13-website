@@ -4929,54 +4929,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tunefind.com",
-            "name": "Songtradr",
-            "seller_id": "1934",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "storenvy.com",
-            "name": "STORENVY ONLINE SERVICES LLC",
-            "seller_id": "1944",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tinywow.com",
-            "name": "TinyWow Acquisition LLC",
-            "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "zedge.net",
-            "name": "Zedge",
-            "seller_id": "1968",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "glyphy.io",
-            "name": "QR io LLC",
-            "seller_id": "1957",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "apnews.com",
-            "name": "Associated Press",
-            "seller_id": "1930",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "perfectgame.org",
-            "name": "Perfect Game",
-            "seller_id": "1921",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "generalmills.com",
-            "name": "General Mills",
-            "seller_id": "1922",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "eatthismuch.com",
             "name": "Eat This Much, Inc.",
             "seller_id": "1923",
@@ -5007,6 +4959,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "apnews.com",
+            "name": "Associated Press",
+            "seller_id": "1930",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "solitairex.io",
             "name": "Forty Media",
             "seller_id": "1931",
@@ -5025,9 +4983,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "themirror.com",
-            "name": "Reach PLC 2",
-            "seller_id": "1936",
+            "domain": "tunefind.com",
+            "name": "Songtradr",
+            "seller_id": "1934",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5070,6 +5028,12 @@
             "domain": "nationalinterest.org",
             "name": "The National Interest",
             "seller_id": "1943",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "storenvy.com",
+            "name": "STORENVY ONLINE SERVICES LLC",
+            "seller_id": "1944",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5130,6 +5094,18 @@
             "domain": "Awardtool.com",
             "name": "Award Tool",
             "seller_id": "1954",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "generalmills.com",
+            "name": "General Mills",
+            "seller_id": "1922",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tinywow.com",
+            "name": "TinyWow Acquisition LLC",
+            "seller_id": "1955",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5199,15 +5175,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "wordsmyth.net",
-            "name": "Wordsmyth",
-            "seller_id": "1969",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "coolsymbol.top",
             "name": "Shree Samarth",
             "seller_id": "1970",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zedge.net",
+            "name": "Zedge",
+            "seller_id": "1968",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5235,12 +5211,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tributes.com",
-            "name": "Legacy",
-            "seller_id": "1300",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nationalreview.com",
             "name": "National Review",
             "seller_id": "1975",
@@ -5256,6 +5226,36 @@
             "domain": "mkcllc.ai",
             "name": "MKC LLC",
             "seller_id": "1977",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "perfectgame.org",
+            "name": "Perfect Game",
+            "seller_id": "1921",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "themirror.com",
+            "name": "Reach PLC 2",
+            "seller_id": "1936",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "glyphy.io",
+            "name": "QR io LLC",
+            "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tributes.com",
+            "name": "Legacy",
+            "seller_id": "1300",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wordsmyth.net",
+            "name": "Wordsmyth",
+            "seller_id": "1969",
             "seller_type": "PUBLISHER"
         }
     ],
