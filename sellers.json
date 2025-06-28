@@ -4929,39 +4929,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "twsn.net",
-            "name": "Malik r. Wright",
-            "seller_id": "1925",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "solitairex.io",
-            "name": "Forty Media",
-            "seller_id": "1931",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "minesweeperonline.com",
-            "name": "Minesweeper Online",
-            "seller_id": "1941",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "twentytwowords.com",
-            "name": "22 Words",
-            "seller_id": "1952",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "instapv.com",
-            "name": "ERAN ITZHAK LEVIN PARENTI",
-            "seller_id": "1962",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fbschedules.com",
-            "name": "fbschedules.com",
-            "seller_id": "1973",
+            "domain": "eatthismuch.com",
+            "name": "Eat This Much, Inc.",
+            "seller_id": "1923",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4971,93 +4941,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "astrologyanswers.com",
-            "name": "Astrology Answers",
-            "seller_id": "1929",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "aapc.com",
-            "name": "aapc.com",
-            "seller_id": "1935",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "themirror.com",
-            "name": "Reach PLC 2",
-            "seller_id": "1936",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "peoplefinders.com",
-            "name": "PeopleFinders",
-            "seller_id": "1938",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://www.gujaratsamachar.com/",
-            "name": "Gujarat Samachar",
-            "seller_id": "1940",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "worldanimalfoundation.org",
-            "name": "WorldAnimalFoundation",
-            "seller_id": "1951",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "alticeusa.com/",
-            "name": "Altice USA Inc",
-            "seller_id": "1956",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "theaviationist.com",
-            "name": "LH2 Holdings",
-            "seller_id": "1959",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "stockwatch.com",
-            "name": "Stockwatch",
-            "seller_id": "1965",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "wordsmyth.net",
-            "name": "Wordsmyth",
-            "seller_id": "1969",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nesn.com",
-            "name": "NESN",
-            "seller_id": "1974",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tributes.com",
-            "name": "Legacy",
-            "seller_id": "1300",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "perfectgame.org",
-            "name": "Perfect Game",
-            "seller_id": "1921",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "generalmills.com",
-            "name": "General Mills",
-            "seller_id": "1922",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "eatthismuch.com",
-            "name": "Eat This Much, Inc.",
-            "seller_id": "1923",
+            "domain": "twsn.net",
+            "name": "Malik r. Wright",
+            "seller_id": "1925",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5067,15 +4953,33 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "astrologyanswers.com",
+            "name": "Astrology Answers",
+            "seller_id": "1929",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "apnews.com",
             "name": "Associated Press",
             "seller_id": "1930",
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "solitairex.io",
+            "name": "Forty Media",
+            "seller_id": "1931",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "notus.org",
             "name": "Allbritton Journalism Institute",
             "seller_id": "1933",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "aapc.com",
+            "name": "aapc.com",
+            "seller_id": "1935",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5091,9 +4995,27 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "peoplefinders.com",
+            "name": "PeopleFinders",
+            "seller_id": "1938",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dokkan.wiki",
             "name": "Gacha Wikis LLC",
             "seller_id": "1939",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://www.gujaratsamachar.com/",
+            "name": "Gujarat Samachar",
+            "seller_id": "1940",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "minesweeperonline.com",
+            "name": "Minesweeper Online",
+            "seller_id": "1941",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5151,6 +5073,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "worldanimalfoundation.org",
+            "name": "WorldAnimalFoundation",
+            "seller_id": "1951",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "twentytwowords.com",
+            "name": "22 Words",
+            "seller_id": "1952",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "https://www.spielesite.com",
             "name": "Benito Kummer",
             "seller_id": "1953",
@@ -5163,15 +5097,33 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "generalmills.com",
+            "name": "General Mills",
+            "seller_id": "1922",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tinywow.com",
             "name": "TinyWow Acquisition LLC",
             "seller_id": "1955",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "glyphy.io",
-            "name": "QR io LLC",
-            "seller_id": "1957",
+            "domain": "alticeusa.com/",
+            "name": "Altice USA Inc",
+            "seller_id": "1956",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tylertesting.com",
+            "name": "Tyler Test LLC",
+            "seller_id": "1958",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "theaviationist.com",
+            "name": "LH2 Holdings",
+            "seller_id": "1959",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5187,6 +5139,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "instapv.com",
+            "name": "ERAN ITZHAK LEVIN PARENTI",
+            "seller_id": "1962",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "https://wordshake.com/",
             "name": "Wordshake Inc.",
             "seller_id": "1963",
@@ -5196,6 +5154,12 @@
             "domain": "http://slippedisc.com/",
             "name": "slippedisc.com",
             "seller_id": "1964",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "stockwatch.com",
+            "name": "Stockwatch",
+            "seller_id": "1965",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5211,15 +5175,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "zedge.net",
-            "name": "Zedge",
-            "seller_id": "1968",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "coolsymbol.top",
             "name": "Shree Samarth",
             "seller_id": "1970",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zedge.net",
+            "name": "Zedge",
+            "seller_id": "1968",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5235,6 +5199,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "fbschedules.com",
+            "name": "fbschedules.com",
+            "seller_id": "1973",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nesn.com",
+            "name": "NESN",
+            "seller_id": "1974",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "nationalreview.com",
             "name": "National Review",
             "seller_id": "1975",
@@ -5247,15 +5223,39 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tylertesting.com",
-            "name": "Tyler Test LLC",
-            "seller_id": "1958",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "mkcllc.ai",
             "name": "MKC LLC",
             "seller_id": "1977",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "perfectgame.org",
+            "name": "Perfect Game",
+            "seller_id": "1921",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "themirror.com",
+            "name": "Reach PLC 2",
+            "seller_id": "1936",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "glyphy.io",
+            "name": "QR io LLC",
+            "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tributes.com",
+            "name": "Legacy",
+            "seller_id": "1300",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wordsmyth.net",
+            "name": "Wordsmyth",
+            "seller_id": "1969",
             "seller_type": "PUBLISHER"
         }
     ],
