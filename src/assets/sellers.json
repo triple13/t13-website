@@ -327,15 +327,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "megamillions.com",
-            "name": "MegaMillions",
-            "seller_id": "1937",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "rvusa.com",
             "name": "NetSource Technologies, Inc.",
             "seller_id": "821",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "megamillions.com",
+            "name": "MegaMillions",
+            "seller_id": "1937",
             "seller_type": "PUBLISHER"
         },
         {
@@ -411,15 +411,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "statbroadcast.com",
-            "name": "Radiak Group LLC",
-            "seller_id": "1379",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dealnewsiosapp.com",
             "name": "DealNews",
             "seller_id": "888",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "statbroadcast.com",
+            "name": "Radiak Group LLC",
+            "seller_id": "1379",
             "seller_type": "PUBLISHER"
         },
         {
