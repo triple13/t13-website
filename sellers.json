@@ -483,6 +483,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mindbodygreen.com",
+            "name": "MINDBODYGREEN",
+            "seller_id": "1978",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
