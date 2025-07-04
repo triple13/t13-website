@@ -2463,12 +2463,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "renthop.com",
-            "name": "LM2 Research Inc. d/b/a RealtyHop",
-            "seller_id": "1004",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "podbay.fm",
             "name": "Fancy Soups, Inc.",
             "seller_id": "1009",
@@ -2514,12 +2508,6 @@
             "domain": "yardsalesearch.com",
             "name": "Treasure Listings LLC",
             "seller_id": "1021",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "flightsim.to",
-            "name": "Sepehr Habashi",
-            "seller_id": "1024",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3180,12 +3168,6 @@
             "domain": "uploadvr.com",
             "name": "UVR Media LLC",
             "seller_id": "1395",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "themoscowtimes.com",
-            "name": "The Moscow Times",
-            "seller_id": "1397",
             "seller_type": "PUBLISHER"
         },
         {
