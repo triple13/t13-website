@@ -297,15 +297,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "scribd.com",
-            "name": "Scribd Inc",
-            "seller_id": "1651",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "tupaki.com",
             "name": "Tupaki Media Pvt Ltd",
             "seller_id": "1820",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "scribd.com",
+            "name": "Scribd Inc",
+            "seller_id": "1651",
             "seller_type": "PUBLISHER"
         },
         {
