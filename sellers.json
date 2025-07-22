@@ -9,12 +9,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "amcnetworks.com",
-            "name": "AMC Networks International ",
-            "seller_id": "1602",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "perfectgame.org",
             "name": "Perfect Game",
             "seller_id": "1921",
@@ -24,6 +18,12 @@
             "domain": "lastwordonsports.com",
             "name": "Last Word On Sports Inc",
             "seller_id": "1566",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "amcnetworks.com",
+            "name": "AMC Networks International ",
+            "seller_id": "1602",
             "seller_type": "PUBLISHER"
         },
         {
@@ -129,15 +129,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "fbschedules.com",
-            "name": "fbschedules.com",
-            "seller_id": "1973",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nesn.com",
             "name": "NESN",
             "seller_id": "1974",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fbschedules.com",
+            "name": "fbschedules.com",
+            "seller_id": "1973",
             "seller_type": "PUBLISHER"
         },
         {
@@ -303,15 +303,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tupaki.com",
-            "name": "Tupaki Media Pvt Ltd",
-            "seller_id": "1820",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "scribd.com",
             "name": "Scribd Inc",
             "seller_id": "1651",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tupaki.com",
+            "name": "Tupaki Media Pvt Ltd",
+            "seller_id": "1820",
             "seller_type": "PUBLISHER"
         },
         {
@@ -339,15 +339,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "megamillions.com",
-            "name": "MegaMillions",
-            "seller_id": "1937",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "rvusa.com",
             "name": "NetSource Technologies, Inc.",
             "seller_id": "821",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "megamillions.com",
+            "name": "MegaMillions",
+            "seller_id": "1937",
             "seller_type": "PUBLISHER"
         },
         {
@@ -411,15 +411,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "http://slippedisc.com/",
-            "name": "slippedisc.com",
-            "seller_id": "1964",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stockwatch.com",
             "name": "Stockwatch",
             "seller_id": "1965",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "http://slippedisc.com/",
+            "name": "slippedisc.com",
+            "seller_id": "1964",
             "seller_type": "PUBLISHER"
         },
         {
@@ -507,15 +507,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tinywow.com",
-            "name": "TinyWow Acquisition LLC",
-            "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "glyphy.io",
             "name": "QR io LLC",
             "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tinywow.com",
+            "name": "TinyWow Acquisition LLC",
+            "seller_id": "1955",
             "seller_type": "PUBLISHER"
         },
         {
