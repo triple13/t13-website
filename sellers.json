@@ -33,12 +33,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "amcnetworks.com",
-            "name": "AMC Networks International ",
-            "seller_id": "1602",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "perfectgame.org",
             "name": "Perfect Game",
             "seller_id": "1921",
@@ -48,6 +42,12 @@
             "domain": "lastwordonsports.com",
             "name": "Last Word On Sports Inc",
             "seller_id": "1566",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "amcnetworks.com",
+            "name": "AMC Networks International ",
+            "seller_id": "1602",
             "seller_type": "PUBLISHER"
         },
         {
@@ -153,15 +153,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "fbschedules.com",
-            "name": "fbschedules.com",
-            "seller_id": "1973",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nesn.com",
             "name": "NESN",
             "seller_id": "1974",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fbschedules.com",
+            "name": "fbschedules.com",
+            "seller_id": "1973",
             "seller_type": "PUBLISHER"
         },
         {
@@ -237,15 +237,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
-            "name": "ISocial Sports Private ltd",
-            "seller_id": "1947",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nbadraft.net",
             "name": "NBADraft.net",
             "seller_id": "1948",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
+            "name": "ISocial Sports Private ltd",
+            "seller_id": "1947",
             "seller_type": "PUBLISHER"
         },
         {
@@ -465,27 +465,27 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "http://slippedisc.com/",
-            "name": "slippedisc.com",
-            "seller_id": "1964",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stockwatch.com",
             "name": "Stockwatch",
             "seller_id": "1965",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "statbroadcast.com",
-            "name": "Radiak Group LLC",
-            "seller_id": "1379",
+            "domain": "http://slippedisc.com/",
+            "name": "slippedisc.com",
+            "seller_id": "1964",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "dealnewsiosapp.com",
             "name": "DealNews",
             "seller_id": "888",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "statbroadcast.com",
+            "name": "Radiak Group LLC",
+            "seller_id": "1379",
             "seller_type": "PUBLISHER"
         },
         {
@@ -567,15 +567,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tinywow.com",
-            "name": "TinyWow Acquisition LLC",
-            "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "glyphy.io",
             "name": "QR io LLC",
             "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tinywow.com",
+            "name": "TinyWow Acquisition LLC",
+            "seller_id": "1955",
             "seller_type": "PUBLISHER"
         },
         {
