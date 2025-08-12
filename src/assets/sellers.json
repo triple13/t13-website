@@ -4947,15 +4947,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "sudokutable.com",
-            "name": "Final-Level",
-            "seller_id": "1966",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "topuniversities.com",
             "name": "Quacquarelli Symonds",
             "seller_id": "1967",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sudokutable.com",
+            "name": "Final-Level",
+            "seller_id": "1966",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4971,15 +4971,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "fbschedules.com",
-            "name": "fbschedules.com",
-            "seller_id": "1973",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nesn.com",
             "name": "NESN",
             "seller_id": "1974",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fbschedules.com",
+            "name": "fbschedules.com",
+            "seller_id": "1973",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4995,9 +4995,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "lake-link.com",
-            "name": "Lake-Link, Inc",
-            "seller_id": "1982",
+            "domain": "https://dazepuzzle.com/",
+            "name": "Dazepuzzle",
+            "seller_id": "1984",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5007,9 +5007,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://dazepuzzle.com/",
-            "name": "Dazepuzzle",
-            "seller_id": "1984",
+            "domain": "lake-link.com",
+            "name": "Lake-Link, Inc",
+            "seller_id": "1982",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5043,15 +5043,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
-            "name": "ISocial Sports Private ltd",
-            "seller_id": "1947",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nbadraft.net",
             "name": "NBADraft.net",
             "seller_id": "1948",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
+            "name": "ISocial Sports Private ltd",
+            "seller_id": "1947",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5265,15 +5265,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tinywow.com",
-            "name": "TinyWow Acquisition LLC",
-            "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "glyphy.io",
             "name": "QR io LLC",
             "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tinywow.com",
+            "name": "TinyWow Acquisition LLC",
+            "seller_id": "1955",
             "seller_type": "PUBLISHER"
         },
         {
