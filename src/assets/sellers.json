@@ -4947,15 +4947,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "topuniversities.com",
-            "name": "Quacquarelli Symonds",
-            "seller_id": "1967",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "sudokutable.com",
             "name": "Final-Level",
             "seller_id": "1966",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "topuniversities.com",
+            "name": "Quacquarelli Symonds",
+            "seller_id": "1967",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4971,15 +4971,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "fbschedules.com",
-            "name": "fbschedules.com",
-            "seller_id": "1973",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nesn.com",
             "name": "NESN",
             "seller_id": "1974",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fbschedules.com",
+            "name": "fbschedules.com",
+            "seller_id": "1973",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4995,9 +4995,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://dazepuzzle.com/",
-            "name": "Dazepuzzle",
-            "seller_id": "1984",
+            "domain": "bdfutbol.com",
+            "name": "BD Futbol",
+            "seller_id": "1983",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5007,9 +5007,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "bdfutbol.com",
-            "name": "BD Futbol",
-            "seller_id": "1983",
+            "domain": "https://dazepuzzle.com/",
+            "name": "Dazepuzzle",
+            "seller_id": "1984",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5199,15 +5199,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "stockwatch.com",
-            "name": "Stockwatch",
-            "seller_id": "1965",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "http://slippedisc.com/",
             "name": "slippedisc.com",
             "seller_id": "1964",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "stockwatch.com",
+            "name": "Stockwatch",
+            "seller_id": "1965",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5232,6 +5232,12 @@
             "domain": "blackdoctor.org",
             "name": "Black Doctor",
             "seller_id": "1989",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Refer.io",
+            "name": "Refer.io",
+            "seller_id": "1990",
             "seller_type": "PUBLISHER"
         },
         {
