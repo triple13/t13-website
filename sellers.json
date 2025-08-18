@@ -99,12 +99,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "theaviationist.com",
-            "name": "LH2 Holdings",
-            "seller_id": "1959",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "instapv.com",
             "name": "ERAN ITZHAK LEVIN PARENTI",
             "seller_id": "1962",
@@ -588,6 +582,12 @@
             "domain": "storenvy.com",
             "name": "STORENVY ONLINE SERVICES LLC",
             "seller_id": "1944",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "theaviationist.com",
+            "name": "LH2 Holdings",
+            "seller_id": "1959",
             "seller_type": "PUBLISHER"
         },
         {
