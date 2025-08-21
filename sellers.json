@@ -33,15 +33,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "amcnetworks.com",
-            "name": "AMC Networks International ",
-            "seller_id": "1602",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "perfectgame.org",
             "name": "Perfect Game",
             "seller_id": "1921",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "amcnetworks.com",
+            "name": "AMC Networks International ",
+            "seller_id": "1602",
             "seller_type": "PUBLISHER"
         },
         {
@@ -153,15 +153,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "fbschedules.com",
-            "name": "fbschedules.com",
-            "seller_id": "1973",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nesn.com",
             "name": "NESN",
             "seller_id": "1974",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fbschedules.com",
+            "name": "fbschedules.com",
+            "seller_id": "1973",
             "seller_type": "PUBLISHER"
         },
         {
@@ -177,6 +177,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://dazepuzzle.com/",
+            "name": "Dazepuzzle",
+            "seller_id": "1984",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "lake-link.com",
             "name": "Lake-Link, Inc",
             "seller_id": "1982",
@@ -186,12 +192,6 @@
             "domain": "bdfutbol.com",
             "name": "BD Futbol",
             "seller_id": "1983",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://dazepuzzle.com/",
-            "name": "Dazepuzzle",
-            "seller_id": "1984",
             "seller_type": "PUBLISHER"
         },
         {
@@ -519,15 +519,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "statbroadcast.com",
-            "name": "Radiak Group LLC",
-            "seller_id": "1379",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dealnews.com",
             "name": "DealNews",
             "seller_id": "888",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "statbroadcast.com",
+            "name": "Radiak Group LLC",
+            "seller_id": "1379",
             "seller_type": "PUBLISHER"
         },
         {
@@ -621,15 +621,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tinywow.com",
-            "name": "TinyWow Acquisition LLC",
-            "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "glyphy.io",
             "name": "QR io LLC",
             "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tinywow.com",
+            "name": "TinyWow Acquisition LLC",
+            "seller_id": "1955",
             "seller_type": "PUBLISHER"
         },
         {
