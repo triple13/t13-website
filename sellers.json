@@ -651,6 +651,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "fordauthority.com",
+            "name": "Motrolix LLC",
+            "seller_id": "1087",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ents24.com",
             "name": "Ents24 Ltd",
             "seller_id": "1103",
@@ -2592,12 +2598,6 @@
             "domain": "heygames.club",
             "name": "Gemstone (HK) Entertainment",
             "seller_id": "1082",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fordauthority.com",
-            "name": "Motrolix LLC",
-            "seller_id": "1087",
             "seller_type": "PUBLISHER"
         },
         {
