@@ -4845,15 +4845,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "testbalhum.com",
-            "name": "testbalhum",
-            "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "testing123456.com",
             "name": "testing123456",
             "seller_id": "1986",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "testbalhum.com",
+            "name": "testbalhum",
+            "seller_id": "1987",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4935,15 +4935,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "nesn.com",
-            "name": "NESN",
-            "seller_id": "1974",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fbschedules.com",
             "name": "fbschedules.com",
             "seller_id": "1973",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nesn.com",
+            "name": "NESN",
+            "seller_id": "1974",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4965,15 +4965,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://dazepuzzle.com/",
-            "name": "Dazepuzzle",
-            "seller_id": "1984",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "bdfutbol.com",
             "name": "BD Futbol",
             "seller_id": "1983",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://dazepuzzle.com/",
+            "name": "Dazepuzzle",
+            "seller_id": "1984",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4983,15 +4983,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tetr.io",
-            "name": "OSK",
-            "seller_id": "1992",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "base64decode.org",
             "name": "HAZOTA Europe Kft.",
             "seller_id": "1991",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tetr.io",
+            "name": "OSK",
+            "seller_id": "1992",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5181,15 +5181,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "stockwatch.com",
-            "name": "Stockwatch",
-            "seller_id": "1965",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "http://slippedisc.com/",
             "name": "slippedisc.com",
             "seller_id": "1964",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "stockwatch.com",
+            "name": "Stockwatch",
+            "seller_id": "1965",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5229,15 +5229,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "www.ufc.com",
-            "name": "TKO Group Holdings",
-            "seller_id": "1997",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "welcome.ufcfightpass.com",
             "name": "UFC",
             "seller_id": "1996",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "www.ufc.com",
+            "name": "TKO Group Holdings",
+            "seller_id": "1997",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5265,15 +5265,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "glyphy.io",
-            "name": "QR io LLC",
-            "seller_id": "1957",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "tinywow.com",
             "name": "TinyWow Acquisition LLC",
             "seller_id": "1955",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "glyphy.io",
+            "name": "QR io LLC",
+            "seller_id": "1957",
             "seller_type": "PUBLISHER"
         },
         {
