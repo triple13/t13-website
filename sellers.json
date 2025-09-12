@@ -3,837 +3,9 @@
     "contact_email": "sellers.json@triple13.io",
     "sellers": [
         {
-            "domain": "freestar.com",
-            "name": "Freestar",
-            "seller_id": "79",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "htmlcolorcodes.com",
-            "name": "Wasai LLC",
-            "seller_id": "335",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "solitairen.com",
-            "name": "solitairen.com",
-            "seller_id": "1729",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "jsonformatter.org",
-            "name": "Neti Consulting",
-            "seller_id": "1731",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "twsn.net",
-            "name": "Malik r. Wright",
-            "seller_id": "1925",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "solitairex.io",
-            "name": "Forty Media",
-            "seller_id": "1931",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "minesweeperonline.com",
-            "name": "Minesweeper Online",
-            "seller_id": "1941",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "twentytwowords.com",
-            "name": "22 Words",
-            "seller_id": "1952",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "instapv.com",
-            "name": "ERAN ITZHAK LEVIN PARENTI",
-            "seller_id": "1962",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fbschedules.com",
-            "name": "fbschedules.com",
-            "seller_id": "1973",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "lake-link.com",
-            "name": "Lake-Link, Inc",
-            "seller_id": "1982",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tarheeltimes.com",
-            "name": "Tarheel Times",
-            "seller_id": "1985",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "loveawake.com",
-            "name": "LA Media LTD",
-            "seller_id": "1998",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "rvusa.com",
-            "name": "NetSource Technologies, Inc.",
-            "seller_id": "821",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dealnews.com",
-            "name": "DealNews",
-            "seller_id": "888",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fordauthority.com",
-            "name": "Motrolix LLC",
-            "seller_id": "1087",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "hypebeast.com",
-            "name": "HYPEBEAST Hong Kong Limited",
-            "seller_id": "1205",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "zedge.net",
-            "name": "Zedge Inc",
-            "seller_id": "1382",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "minutemedia.com",
-            "name": "Sportority Inc",
-            "seller_id": "1475",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "evolvemediallc.com",
-            "name": "Evolve Media LLC",
-            "seller_id": "1532",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "iplocation.io",
-            "name": "Fusion Bits ",
-            "seller_id": "1755",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "hoopgrids.com",
-            "name": "MPL Enterprises",
-            "seller_id": "1763",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "ConnectionsUnlimited.org",
-            "name": "ConnectionsUnlimited",
-            "seller_id": "1784",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "bostonmagazine.com",
-            "name": "Boston Globe",
-            "seller_id": "1909",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "speedcafe.com",
-            "name": "Speedcafe Pty Ltd",
-            "seller_id": "1910",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "parentfromheart.com",
-            "name": "Brown Brothers Media",
-            "seller_id": "1913",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "color-hex.com",
-            "name": "Color Hex",
-            "seller_id": "1924",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "astrologyanswers.com",
-            "name": "Astrology Answers",
-            "seller_id": "1929",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "aapc.com",
-            "name": "aapc.com",
-            "seller_id": "1935",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "themirror.com",
-            "name": "Reach PLC 2",
-            "seller_id": "1936",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "peoplefinders.com",
-            "name": "PeopleFinders",
-            "seller_id": "1938",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://www.gujaratsamachar.com/",
-            "name": "Gujarat Samachar",
-            "seller_id": "1940",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "worldanimalfoundation.org",
-            "name": "WorldAnimalFoundation",
-            "seller_id": "1951",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "alticeusa.com/",
-            "name": "Altice USA Inc",
-            "seller_id": "1956",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "theaviationist.com",
-            "name": "LH2 Holdings",
-            "seller_id": "1959",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "stockwatch.com",
-            "name": "Stockwatch",
-            "seller_id": "1965",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "wordsmyth.net",
-            "name": "Wordsmyth",
-            "seller_id": "1969",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nesn.com",
-            "name": "NESN",
-            "seller_id": "1974",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "mkcllc.ai",
-            "name": "MKC LLC",
-            "seller_id": "1977",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "alphacoders.com",
-            "name": "Alpha Coders",
-            "seller_id": "1981",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "Refer.io",
-            "name": "Refer.io",
-            "seller_id": "1990",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tetr.io",
-            "name": "OSK",
-            "seller_id": "1992",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "Koimoi.com",
-            "name": "Contests2win India Pvt. Ltd.",
-            "seller_id": "1995",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sportstats.one",
-            "name": "Endurancesportsmediagroup",
-            "seller_id": "1999",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "zona-militar.com",
-            "name": "Blue Field Media",
-            "seller_id": "2001",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "classiccars.com",
-            "name": "The Collector Car Network, Inc.",
-            "seller_id": "611",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "essence.com",
-            "name": "Essence Communications, Inc",
-            "seller_id": "653",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "chronicleonline.com",
-            "name": "Paxton Media Group LLC",
-            "seller_id": "714",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "myforecast.com",
-            "name": "CustomWeather, Inc.",
-            "seller_id": "756",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "bandsintown.com",
-            "name": "Bandsintown Amplified, LLC",
-            "seller_id": "1101",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "waterloomedia.com",
-            "name": "Waterloo Media",
-            "seller_id": "1145",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tributes.com",
-            "name": "Legacy",
-            "seller_id": "1300",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "statbroadcast.com",
-            "name": "Radiak Group LLC",
-            "seller_id": "1379",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "groupon.com",
-            "name": "Groupon Inc",
-            "seller_id": "1436",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "lastwordonsports.com",
-            "name": "Last Word On Sports Inc",
-            "seller_id": "1566",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "amcnetworks.com",
-            "name": "AMC Networks International ",
-            "seller_id": "1602",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fantasypros.com",
-            "name": "Marzen Media LLC",
-            "seller_id": "1727",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "onboardingtest1.com",
-            "name": "Onboarding Test",
-            "seller_id": "1736",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "telly.com",
-            "name": "Telly",
-            "seller_id": "1767",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tupaki.com",
-            "name": "Tupaki Media Pvt Ltd",
-            "seller_id": "1820",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "thehockeywriters.com",
-            "name": "The Hockey Writers",
-            "seller_id": "1834",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "bunkersparadise.com",
-            "name": "CG Digital",
-            "seller_id": "1860",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "liveworksheets.com",
-            "name": "LiveWorksheets Holdings, Inc.",
-            "seller_id": "1887",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "puzzle-loop.com",
-            "name": "Puzzle Team",
-            "seller_id": "1896",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "stjoseph.com",
-            "name": "stjoseph.com",
-            "seller_id": "1916",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "perfectgame.org",
-            "name": "Perfect Game",
-            "seller_id": "1921",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "generalmills.com",
-            "name": "General Mills",
-            "seller_id": "1922",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "reelgood.com",
-            "name": "Reel Good",
-            "seller_id": "1928",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "apnews.com",
-            "name": "Associated Press",
-            "seller_id": "1930",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "notus.org",
-            "name": "Allbritton Journalism Institute",
-            "seller_id": "1933",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tunefind.com",
-            "name": "Songtradr",
-            "seller_id": "1934",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "megamillions.com",
-            "name": "MegaMillions",
-            "seller_id": "1937",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dokkan.wiki",
-            "name": "Gacha Wikis LLC",
-            "seller_id": "1939",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "pinger.com",
-            "name": "Pinger",
-            "seller_id": "1942",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nationalinterest.org",
-            "name": "The National Interest",
-            "seller_id": "1943",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "storenvy.com",
-            "name": "STORENVY ONLINE SERVICES LLC",
-            "seller_id": "1944",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "rentalhousingdeals.com",
-            "name": "Rental Housing Deals, Inc.",
-            "seller_id": "1945",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "deckshop.pro",
-            "name": "Deck Shop Pro",
-            "seller_id": "1946",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
-            "name": "ISocial Sports Private ltd",
-            "seller_id": "1947",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nbadraft.net",
-            "name": "NBADraft.net",
-            "seller_id": "1948",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "heartlandcollegesports.com",
-            "name": "Heartland College Sports",
-            "seller_id": "1949",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "playbill.com",
-            "name": "Playbill",
-            "seller_id": "1950",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://www.spielesite.com",
-            "name": "Benito Kummer",
-            "seller_id": "1953",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "Awardtool.com",
-            "name": "Award Tool",
-            "seller_id": "1954",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tinywow.com",
-            "name": "TinyWow Acquisition LLC",
-            "seller_id": "1955",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "glyphy.io",
-            "name": "QR io LLC",
-            "seller_id": "1957",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "greenwichmeantime.com",
-            "name": "greenwichmeantime.com",
-            "seller_id": "1960",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nameberry.com",
-            "name": "Nameberry LLC",
-            "seller_id": "1961",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://wordshake.com/",
-            "name": "Wordshake Inc.",
-            "seller_id": "1963",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "http://slippedisc.com/",
-            "name": "slippedisc.com",
-            "seller_id": "1964",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sudokutable.com",
-            "name": "Final-Level",
-            "seller_id": "1966",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "topuniversities.com",
-            "name": "Quacquarelli Symonds",
-            "seller_id": "1967",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "zedge.net",
-            "name": "Zedge",
-            "seller_id": "1968",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "coolsymbol.top",
-            "name": "Shree Samarth",
-            "seller_id": "1970",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "pff.com",
-            "name": "Pro Football Focus",
-            "seller_id": "1971",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "FUT.GG",
-            "name": "Stormstrike Inc",
-            "seller_id": "1972",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nationalreview.com",
-            "name": "National Review",
-            "seller_id": "1975",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "timesofsandiego.com",
-            "name": "Newswell",
-            "seller_id": "1976",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "mindbodygreen.com",
-            "name": "MINDBODYGREEN",
-            "seller_id": "1978",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "remax.com",
-            "name": "Remax",
-            "seller_id": "1979",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "gpacalculator.net",
-            "name": "Calcadia Inc. ",
-            "seller_id": "1980",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://dazepuzzle.com/",
-            "name": "Dazepuzzle",
-            "seller_id": "1984",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "blackdoctor.org",
-            "name": "Black Doctor",
-            "seller_id": "1989",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "base64decode.org",
-            "name": "HAZOTA Europe Kft.",
-            "seller_id": "1991",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nfldraftbuzz.com",
-            "name": "NFL Draft Buzz",
-            "seller_id": "1994",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "welcome.ufcfightpass.com",
-            "name": "UFC",
-            "seller_id": "1996",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "www.ufc.com",
-            "name": "TKO Group Holdings",
-            "seller_id": "1997",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "skyvector.com",
-            "name": "Sky Vector",
-            "seller_id": "2000",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tylertesting.com",
-            "name": "Tyler Test LLC",
-            "seller_id": "1958",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "testing123456.com",
-            "name": "testing123456",
-            "seller_id": "1986",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "testbalhum.com",
-            "name": "testbalhum",
-            "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "test789",
-            "name": "test789",
-            "seller_id": "1988",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "onlineradiobox.com",
-            "name": "Online Radio Box sp.z.o.o",
-            "seller_id": "1993",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "itsfoss.com",
-            "name": "CHMOD777 MEDIA TECH OPC PVT LTD",
-            "seller_id": "109",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "firstshowing.net",
-            "name": "First Showing LLC",
-            "seller_id": "76",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "latest-hairstyles.com",
-            "name": "Invision Management Group LLC",
-            "seller_id": "106",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "cssauthor.com",
             "name": "Arun Bhargavan",
             "seller_id": "15",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nextshark.com",
-            "name": "Nextshark Inc.",
-            "seller_id": "140",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "songfacts.com",
-            "name": "Songfacts LLC",
-            "seller_id": "172",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "10fastfingers.com",
-            "name": "Creationes Virtuales CV Gmbh",
-            "seller_id": "38",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "stockcharts.com",
-            "name": "StockCharts.com",
-            "seller_id": "525",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "valuewalk.com",
-            "name": "Valuewalk LLC",
-            "seller_id": "203",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "healthyeater.com",
-            "name": "Exis Holdings Limited",
-            "seller_id": "68",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "eventhubs.com",
-            "name": "EventHubs LLC",
-            "seller_id": "67",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sneakerbardetroit.com",
-            "name": "Sneaker Bar Detroit",
-            "seller_id": "170",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sports-reference.com",
-            "name": "Sports Reference LLC",
-            "seller_id": "174",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "thekingdominsider.com",
-            "name": "Academy Travel, Inc.",
-            "seller_id": "649",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tvseriesfinale.com",
-            "name": "My Design Studio LLC",
-            "seller_id": "132",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "petapixel.com",
-            "name": "Petapixel",
-            "seller_id": "146",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "cashbackmonitor.com",
-            "name": "Yansonic LLC",
-            "seller_id": "216",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "coindesk.com",
-            "name": "Coin Desk Inc.",
-            "seller_id": "32",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "factinate.com",
-            "name": "Factinate Ltd",
-            "seller_id": "71",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "rightthisminute.com",
-            "name": "Right This Minute LLC",
-            "seller_id": "159",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "hancinema.net",
-            "name": "Cedric Thomas Collemine",
-            "seller_id": "26",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "myfridgefood.com",
-            "name": "MyFridgeFood Inc.",
-            "seller_id": "134",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "countdowntopregnancy.com",
-            "name": "Countdown Family Inc",
-            "seller_id": "124",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fstoppers.com",
-            "name": "Fstoppers",
-            "seller_id": "82",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tunefind.com",
-            "name": "Tunefind LLC",
-            "seller_id": "199",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "photographylife.com",
-            "name": "Photography Life, Inc",
-            "seller_id": "148",
             "seller_type": "PUBLISHER"
         },
         {
@@ -843,15 +15,33 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "insidermonkey.com",
-            "name": "Koalaguide LLC",
-            "seller_id": "115",
+            "domain": "hancinema.net",
+            "name": "Cedric Thomas Collemine",
+            "seller_id": "26",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "43rumors.com",
-            "name": "Amonsul VOF",
-            "seller_id": "689",
+            "domain": "coindesk.com",
+            "name": "Coin Desk Inc.",
+            "seller_id": "32",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "recipepair.com",
+            "name": "Crate Network",
+            "seller_id": "37",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "10fastfingers.com",
+            "name": "Creationes Virtuales CV Gmbh",
+            "seller_id": "38",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "chaptercheats.com",
+            "name": "EDF Sitestreet",
+            "seller_id": "62",
             "seller_type": "PUBLISHER"
         },
         {
@@ -861,9 +51,147 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "eventhubs.com",
+            "name": "EventHubs LLC",
+            "seller_id": "67",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "healthyeater.com",
+            "name": "Exis Holdings Limited",
+            "seller_id": "68",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "factinate.com",
+            "name": "Factinate Ltd",
+            "seller_id": "71",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "firstshowing.net",
+            "name": "First Showing LLC",
+            "seller_id": "76",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "freestar.com",
+            "name": "Freestar",
+            "seller_id": "79",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fstoppers.com",
+            "name": "Fstoppers",
+            "seller_id": "82",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "latest-hairstyles.com",
+            "name": "Invision Management Group LLC",
+            "seller_id": "106",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "itsfoss.com",
+            "name": "CHMOD777 MEDIA TECH OPC PVT LTD",
+            "seller_id": "109",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "insidermonkey.com",
+            "name": "Koalaguide LLC",
+            "seller_id": "115",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "countdowntopregnancy.com",
+            "name": "Countdown Family Inc",
+            "seller_id": "124",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tvseriesfinale.com",
+            "name": "My Design Studio LLC",
+            "seller_id": "132",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "myfridgefood.com",
+            "name": "MyFridgeFood Inc.",
+            "seller_id": "134",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "truthandaction.org",
+            "name": "NewsStandPress.com LLC",
+            "seller_id": "139",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nextshark.com",
+            "name": "Nextshark Inc.",
+            "seller_id": "140",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "petapixel.com",
+            "name": "Petapixel",
+            "seller_id": "146",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "photographylife.com",
+            "name": "Photography Life, Inc",
+            "seller_id": "148",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "cardgames.io",
             "name": "Raudas Hugbunadur ehf.",
             "seller_id": "155",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "rightthisminute.com",
+            "name": "Right This Minute LLC",
+            "seller_id": "159",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sneakerbardetroit.com",
+            "name": "Sneaker Bar Detroit",
+            "seller_id": "170",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "songfacts.com",
+            "name": "Songfacts LLC",
+            "seller_id": "172",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sports-reference.com",
+            "name": "Sports Reference LLC",
+            "seller_id": "174",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tunefind.com",
+            "name": "Tunefind LLC",
+            "seller_id": "199",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "footyroom.co",
+            "name": "UP Media Inc.",
+            "seller_id": "201",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "valuewalk.com",
+            "name": "Valuewalk LLC",
+            "seller_id": "203",
             "seller_type": "PUBLISHER"
         },
         {
@@ -873,21 +201,33 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cashbackmonitor.com",
+            "name": "Yansonic LLC",
+            "seller_id": "216",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "footballdb.com",
             "name": "The Football Database LLC",
             "seller_id": "223",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pixlr.com",
-            "name": "Pixlr Pte Ltd",
-            "seller_id": "230",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "powerthesaurus.org",
             "name": "Radyushin Pty Ltd",
             "seller_id": "228",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pleated-jeans.com",
+            "name": "OOO Media",
+            "seller_id": "229",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pixlr.com",
+            "name": "Pixlr Pte Ltd",
+            "seller_id": "230",
             "seller_type": "PUBLISHER"
         },
         {
@@ -927,6 +267,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "rumandmonkey.com",
+            "name": "Advertical Media LLC",
+            "seller_id": "259",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "mingle2.com",
             "name": "Nextc LLC",
             "seller_id": "267",
@@ -939,33 +285,21 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pajiba.com",
-            "name": "Scathing Websites LLC",
-            "seller_id": "281",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "recurrent.io",
-            "name": "Recurrent Ventures",
-            "seller_id": "1816",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fool.com",
             "name": "The Motley Fool",
             "seller_id": "278",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "rumandmonkey.com",
-            "name": "Advertical Media LLC",
-            "seller_id": "259",
+            "domain": "pajiba.com",
+            "name": "Scathing Websites LLC",
+            "seller_id": "281",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "start.me",
-            "name": "start.me B.V. ",
-            "seller_id": "297",
+            "domain": "discountmag3.com",
+            "name": "Discount Magazines LLC",
+            "seller_id": "289",
             "seller_type": "PUBLISHER"
         },
         {
@@ -975,15 +309,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "thingshealth.com",
-            "name": "Things Interactive",
-            "seller_id": "318",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "raider.io",
-            "name": "Ludicrous Speed LLC",
-            "seller_id": "316",
+            "domain": "start.me",
+            "name": "start.me B.V. ",
+            "seller_id": "297",
             "seller_type": "PUBLISHER"
         },
         {
@@ -993,21 +321,39 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "worldofcardgames.com",
-            "name": "Holger Sindbaek",
-            "seller_id": "669",
+            "domain": "brickseek.com",
+            "name": "AKSOLOGY LLC",
+            "seller_id": "301",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "totalfratmove.com",
+            "name": "TFM Media",
+            "seller_id": "315",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "raider.io",
+            "name": "Ludicrous Speed LLC",
+            "seller_id": "316",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thingshealth.com",
+            "name": "Things Interactive",
+            "seller_id": "318",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "joetec.net",
+            "name": "JoeTec Networks, Inc.",
+            "seller_id": "324",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "joblo.com",
             "name": "JoBlo Media, Inc.",
             "seller_id": "325",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "intmath.com",
-            "name": "MRA Roasty LLC",
-            "seller_id": "983",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1023,21 +369,21 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "htmlcolorcodes.com",
+            "name": "Wasai LLC",
+            "seller_id": "335",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "typingclub.com",
             "name": "EDCLUB, INC",
             "seller_id": "342",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "brickseek.com",
-            "name": "AKSOLOGY LLC",
-            "seller_id": "301",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "course-notes.org",
-            "name": "Christopher Keenan",
-            "seller_id": "349",
+            "domain": "highlightsfootball.net",
+            "name": "Merohub Ltd",
+            "seller_id": "343",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1047,21 +393,15 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "course-notes.org",
+            "name": "Christopher Keenan",
+            "seller_id": "349",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sportslogos.net",
             "name": "7727011 Canada, Inc.",
             "seller_id": "351",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "cordcuttersnews.com",
-            "name": "Beechtree Assets LLC",
-            "seller_id": "1522",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "powerpyx.com",
-            "name": "Alpha Online Empire FZ LLE",
-            "seller_id": "361",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1071,9 +411,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "truthandaction.org",
-            "name": "NewsStandPress.com LLC",
-            "seller_id": "139",
+            "domain": "powerpyx.com",
+            "name": "Alpha Online Empire FZ LLE",
+            "seller_id": "361",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1089,12 +429,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "brutal.io",
-            "name": "Wings.io",
-            "seller_id": "389",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "razzball.com",
             "name": "Razzball LLC",
             "seller_id": "383",
@@ -1107,21 +441,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "discountmag3.com",
-            "name": "Discount Magazines LLC",
-            "seller_id": "289",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "globalsecurity.org",
             "name": "Pike Consultants LLC",
             "seller_id": "388",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "cesarsway.com",
-            "name": "CESAR'S WAY INC",
-            "seller_id": "442",
+            "domain": "brutal.io",
+            "name": "Wings.io",
+            "seller_id": "389",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1131,21 +459,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "thefantasyfootballers.com",
-            "name": "Engaging Media LLC",
-            "seller_id": "417",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "vecteezy.com",
-            "name": "Eezy LLC",
-            "seller_id": "448",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "gomsymedia.com",
-            "name": "Gomsy Media LLC",
-            "seller_id": "407",
+            "domain": "ilovemydogsomuch.tv",
+            "name": "Organic Pet LLC",
+            "seller_id": "394",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1155,27 +471,27 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gomsymedia.com",
+            "name": "Gomsy Media LLC",
+            "seller_id": "407",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bleepingcomputer.com",
             "name": "Bleeping Computer, LLC.",
             "seller_id": "412",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "test82.com",
-            "name": "dashboard testing company",
-            "seller_id": "658",
+            "domain": "thefantasyfootballers.com",
+            "name": "Engaging Media LLC",
+            "seller_id": "417",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "alchetron.com",
-            "name": "Alchetron Technologies Private Limited",
-            "seller_id": "438",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "ahrn.com",
-            "name": "JumpCrew",
-            "seller_id": "462",
+            "domain": "fantasyfootballnerd.com",
+            "name": "TayTech LLC",
+            "seller_id": "418",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1185,9 +501,33 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "fossmint.com",
+            "name": "TecMint",
+            "seller_id": "437",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "alchetron.com",
+            "name": "Alchetron Technologies Private Limited",
+            "seller_id": "438",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "whatismyipaddress.com",
             "name": "CGP Holdings, Inc.",
             "seller_id": "441",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cesarsway.com",
+            "name": "CESAR'S WAY INC",
+            "seller_id": "442",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "vecteezy.com",
+            "name": "Eezy LLC",
+            "seller_id": "448",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1197,9 +537,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "keybr.com",
-            "name": "keybr.com",
-            "seller_id": "464",
+            "domain": "taming.io",
+            "name": "Paul Lenczner",
+            "seller_id": "454",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1215,6 +555,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "ahrn.com",
+            "name": "JumpCrew",
+            "seller_id": "462",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "keybr.com",
+            "name": "keybr.com",
+            "seller_id": "464",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "geektyrant.com",
             "name": "GeekTyrant Industries LLC",
             "seller_id": "470",
@@ -1227,27 +579,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "totalfratmove.com",
-            "name": "TFM Media",
-            "seller_id": "315",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "snowdaycalculator.com",
             "name": "Snow Day Calculator, LLC",
             "seller_id": "482",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "zoosk.com",
-            "name": "Spark Networks, Inc.",
-            "seller_id": "503",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "typing.com",
-            "name": "Typing.com LLC",
-            "seller_id": "860",
+            "domain": "dailysoapdish.com",
+            "name": "Daily Soap Dish",
+            "seller_id": "497",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1257,27 +597,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "uni-watch.com",
-            "name": "Inconspicuous LLC",
-            "seller_id": "1507",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "petcurious.com",
-            "name": "Ryan White",
-            "seller_id": "586",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "freshstuff4you.com",
-            "name": "Leonrd Doda Digital Grown",
-            "seller_id": "528",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "flightera.net",
-            "name": "Kreet GmbH",
-            "seller_id": "529",
+            "domain": "zoosk.com",
+            "name": "Spark Networks, Inc.",
+            "seller_id": "503",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1287,33 +609,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "fortune.com",
-            "name": "Fortune Media USA Corporation",
-            "seller_id": "538",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "iheartdogs.com",
             "name": "HomeLife Media, LLC",
             "seller_id": "517",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "advfn.com",
-            "name": "ADVFN PLC",
-            "seller_id": "1712",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "mkyong.com",
-            "name": "MKYONG TECH SDN BHD",
-            "seller_id": "813",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "newser.com",
-            "name": "Newser, LLC",
-            "seller_id": "1443",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1329,9 +627,21 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "highlightsfootball.net",
-            "name": "Merohub Ltd",
-            "seller_id": "343",
+            "domain": "stockcharts.com",
+            "name": "StockCharts.com",
+            "seller_id": "525",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "freshstuff4you.com",
+            "name": "Leonrd Doda Digital Grown",
+            "seller_id": "528",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "flightera.net",
+            "name": "Kreet GmbH",
+            "seller_id": "529",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1341,15 +651,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tvguide.co.uk",
-            "name": "tvguide.co.uk LTD",
-            "seller_id": "662",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "footyroom.co",
-            "name": "UP Media Inc.",
-            "seller_id": "201",
+            "domain": "fortune.com",
+            "name": "Fortune Media USA Corporation",
+            "seller_id": "538",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1365,12 +669,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "ilovemydogsomuch.tv",
-            "name": "Organic Pet LLC",
-            "seller_id": "394",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dlisted.com",
             "name": "Dlisted, LLC",
             "seller_id": "552",
@@ -1380,6 +678,12 @@
             "domain": "simplyhealth.io",
             "name": "SwixOne AG",
             "seller_id": "557",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "geeky-gadgets.com",
+            "name": "Geeky-Gadgets.com",
+            "seller_id": "568",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1395,21 +699,33 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "geeky-gadgets.com",
-            "name": "Geeky-Gadgets.com",
-            "seller_id": "568",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "audiomack.com",
-            "name": "Audiomack Inc.",
-            "seller_id": "602",
+            "domain": "petcurious.com",
+            "name": "Ryan White",
+            "seller_id": "586",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "getyourpet.com",
             "name": "Get Your Pet, LLC",
             "seller_id": "588",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "watchtv24.com",
+            "name": "Zeinab Ghasemi",
+            "seller_id": "597",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "guo.media",
+            "name": "Sarara Media Group, Inc.",
+            "seller_id": "600",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "audiomack.com",
+            "name": "Audiomack Inc.",
+            "seller_id": "602",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1431,39 +747,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "notepad.pw",
-            "name": "Shroff Holdings LLC",
-            "seller_id": "1070",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "watchtv24.com",
-            "name": "Zeinab Ghasemi",
-            "seller_id": "597",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "wmagazine.com",
-            "name": "W Media LLC",
-            "seller_id": "795",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "wunderdog.com",
-            "name": "Wunderdog Sports Picks LLC",
-            "seller_id": "618",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dailysoapdish.com",
-            "name": "Daily Soap Dish",
-            "seller_id": "497",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "guo.media",
-            "name": "Sarara Media Group, Inc.",
-            "seller_id": "600",
+            "domain": "classiccars.com",
+            "name": "The Collector Car Network, Inc.",
+            "seller_id": "611",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1476,6 +762,12 @@
             "domain": "hiphoplately.com",
             "name": "Idle Media Inc",
             "seller_id": "617",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wunderdog.com",
+            "name": "Wunderdog Sports Picks LLC",
+            "seller_id": "618",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1503,6 +795,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "thekingdominsider.com",
+            "name": "Academy Travel, Inc.",
+            "seller_id": "649",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thetypingcat.com",
             "name": "Web Desire",
             "seller_id": "650",
@@ -1515,15 +813,39 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "whatifsports.com",
-            "name": "Freking Sports LLC",
-            "seller_id": "1901",
+            "domain": "essence.com",
+            "name": "Essence Communications, Inc",
+            "seller_id": "653",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "test82.com",
+            "name": "dashboard testing company",
+            "seller_id": "658",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "worldpopulationreview.com",
+            "name": "Kyrios Learning LLC",
+            "seller_id": "659",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tvguide.co.uk",
+            "name": "tvguide.co.uk LTD",
+            "seller_id": "662",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "groovypost.com",
             "name": "GroovyPost",
             "seller_id": "667",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "worldofcardgames.com",
+            "name": "Holger Sindbaek",
+            "seller_id": "669",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1575,15 +897,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "fossmint.com",
-            "name": "TecMint",
-            "seller_id": "437",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "ushousinghelper.com",
             "name": "Leadgen Data LLC",
             "seller_id": "685",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "43rumors.com",
+            "name": "Amonsul VOF",
+            "seller_id": "689",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1602,6 +924,12 @@
             "domain": "crimeonline.com",
             "name": "RSV NG LLC",
             "seller_id": "693",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "alphr.com",
+            "name": "Box20 LLC",
+            "seller_id": "694",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1629,12 +957,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "faktually.com",
-            "name": "Playvalve S.L.",
-            "seller_id": "763",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "elpais.hn",
             "name": "Medios Unidos S.A. de C.V.",
             "seller_id": "705",
@@ -1659,15 +981,21 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "chronicleonline.com",
+            "name": "Paxton Media Group LLC",
+            "seller_id": "714",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gottabemobile.com",
             "name": "SXL Media Group",
             "seller_id": "718",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pleated-jeans.com",
-            "name": "OOO Media",
-            "seller_id": "229",
+            "domain": "studentbrands.com",
+            "name": "Student Brands, LLC",
+            "seller_id": "721",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1755,6 +1083,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "myforecast.com",
+            "name": "CustomWeather, Inc.",
+            "seller_id": "756",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "trekmovie.com",
             "name": "SciFanatic Network",
             "seller_id": "757",
@@ -1785,6 +1119,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "faktually.com",
+            "name": "Playvalve S.L.",
+            "seller_id": "763",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dotandbo.com",
+            "name": "OpenSky",
+            "seller_id": "766",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "omnitalk.com",
             "name": "NewsTreeNet.com",
             "seller_id": "767",
@@ -1809,21 +1155,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dotandbo.com",
-            "name": "OpenSky",
-            "seller_id": "766",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "forward.com",
             "name": "The Forward Association, Inc.",
             "seller_id": "773",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "alphr.com",
-            "name": "Box20 LLC",
-            "seller_id": "694",
+            "domain": "psiphoniosapp.com",
+            "name": "Psiphon Inc",
+            "seller_id": "776",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1869,21 +1209,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "taming.io",
-            "name": "Paul Lenczner",
-            "seller_id": "454",
+            "domain": "edatingforfree.com",
+            "name": "E Dating For Free, Inc.",
+            "seller_id": "787",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "pinknewsiosapp.com.com",
             "name": "PinkNews Media Group Ltd",
             "seller_id": "788",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "edatingforfree.com",
-            "name": "E Dating For Free, Inc.",
-            "seller_id": "787",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1896,6 +1230,12 @@
             "domain": "thomsonreuters.com",
             "name": "Reuters News & Media Inc.",
             "seller_id": "792",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wmagazine.com",
+            "name": "W Media LLC",
+            "seller_id": "795",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1959,6 +1299,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mkyong.com",
+            "name": "MKYONG TECH SDN BHD",
+            "seller_id": "813",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "recipefy.net",
             "name": "Recipefy",
             "seller_id": "815",
@@ -1977,18 +1323,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "chaptercheats.com",
-            "name": "EDF Sitestreet",
-            "seller_id": "62",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "psiphoniosapp.com",
-            "name": "Psiphon Inc",
-            "seller_id": "776",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "pokemonprice.com",
             "name": "Pokemon Price",
             "seller_id": "818",
@@ -2001,6 +1335,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "rvusa.com",
+            "name": "NetSource Technologies, Inc.",
+            "seller_id": "821",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "manga-raw.club",
             "name": "Manga Raw Club",
             "seller_id": "823",
@@ -2010,12 +1350,6 @@
             "domain": "365chess.com",
             "name": "365 Chess",
             "seller_id": "825",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "studentbrands.com",
-            "name": "Student Brands, LLC",
-            "seller_id": "721",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2079,21 +1413,27 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "slamonline.com",
-            "name": "SLAM Online",
-            "seller_id": "1044",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "garden.org",
             "name": "National Gardening Association",
             "seller_id": "859",
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "typing.com",
+            "name": "Typing.com LLC",
+            "seller_id": "860",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "dressupgames.com",
             "name": "Dress Up Games EHF",
             "seller_id": "868",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "andrewsmcmeel.com",
+            "name": "Andrews McMeel Universal LLC",
+            "seller_id": "872",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2106,6 +1446,12 @@
             "domain": "thefirsttv.com",
             "name": "The First Digital Media, Inc.",
             "seller_id": "880",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dealnews.com",
+            "name": "DealNews",
+            "seller_id": "888",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2136,18 +1482,6 @@
             "domain": "yaytext.com",
             "name": "Yaytext",
             "seller_id": "901",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fantasyfootballnerd.com",
-            "name": "TayTech LLC",
-            "seller_id": "418",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "worldpopulationreview.com",
-            "name": "Kyrios Learning LLC",
-            "seller_id": "659",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2217,6 +1551,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "storiesig.app",
+            "name": "AnyConv",
+            "seller_id": "936",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "howlongagogo.com",
             "name": "Web Daddy Ltd",
             "seller_id": "937",
@@ -2226,12 +1566,6 @@
             "domain": "braceletbook.com",
             "name": "Sandbox s.r.o.",
             "seller_id": "940",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "landocspe.com",
-            "name": "Landocs Holdings Ltd",
-            "seller_id": "1210",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2283,6 +1617,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "puzzlefactory.pl",
+            "name": "G-Forces Web Management Polska sp. z o.o",
+            "seller_id": "970",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "accuradio.com",
             "name": "AccuRadio, LLC",
             "seller_id": "972",
@@ -2304,6 +1644,12 @@
             "domain": "fangraphs.com",
             "name": "Fangraphs Inc.",
             "seller_id": "977",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "intmath.com",
+            "name": "MRA Roasty LLC",
+            "seller_id": "983",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2409,6 +1755,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "nextglass.co",
+            "name": "Next Glass Inc",
+            "seller_id": "1022",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "flightsim.to",
             "name": "Sepehr Habashi",
             "seller_id": "1024",
@@ -2418,12 +1770,6 @@
             "domain": "cointelegraph.com",
             "name": "CT Media Group Inc",
             "seller_id": "1025",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "andrewsmcmeel.com",
-            "name": "Andrews McMeel Universal LLC",
-            "seller_id": "872",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2451,9 +1797,21 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "techeism.com",
+            "name": "Fazlul Fariz",
+            "seller_id": "1039",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "proactiveinvestors.com",
             "name": "Proactive Investors",
             "seller_id": "1041",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "slamonline.com",
+            "name": "SLAM Online",
+            "seller_id": "1044",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2475,15 +1833,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "realtimetrains.co.uk",
-            "name": "Swlines LTD",
-            "seller_id": "1053",
+            "domain": "click2donateandroidapp.com",
+            "name": "Pyaewaihtean",
+            "seller_id": "1052",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "storiesig.app",
-            "name": "AnyConv",
-            "seller_id": "936",
+            "domain": "realtimetrains.co.uk",
+            "name": "Swlines LTD",
+            "seller_id": "1053",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2505,15 +1863,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "techeism.com",
-            "name": "Fazlul Fariz",
-            "seller_id": "1039",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "puzzlefactory.pl",
-            "name": "G-Forces Web Management Polska sp. z o.o",
-            "seller_id": "970",
+            "domain": "vegasinsider.com",
+            "name": "Better Collective USA, Inc.",
+            "seller_id": "1060",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2535,15 +1887,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "laxnumbers.com",
-            "name": "Lax Data, LLC",
-            "seller_id": "1519",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "saltwater.com",
-            "name": "SVSW",
-            "seller_id": "1710",
+            "domain": "notepad.pw",
+            "name": "Shroff Holdings LLC",
+            "seller_id": "1070",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2589,12 +1935,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "click2donateandroidapp.com",
-            "name": "Pyaewaihtean",
-            "seller_id": "1052",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "heygames.club",
             "name": "Gemstone (HK) Entertainment",
             "seller_id": "1082",
@@ -2604,6 +1944,12 @@
             "domain": "darkmattertv.com",
             "name": "Tricoast TV",
             "seller_id": "1086",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fordauthority.com",
+            "name": "Motrolix LLC",
+            "seller_id": "1087",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2625,6 +1971,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bandsintown.com",
+            "name": "Bandsintown Amplified, LLC",
+            "seller_id": "1101",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "thecomeback.com",
             "name": "Comeback Media",
             "seller_id": "1102",
@@ -2634,6 +1986,12 @@
             "domain": "ents24.com",
             "name": "Ents24 Ltd",
             "seller_id": "1103",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "10news.com",
+            "name": "CNN",
+            "seller_id": "1104",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2652,6 +2010,12 @@
             "domain": "zacks.com",
             "name": "Zacks Analyst Watch, Inc",
             "seller_id": "1107",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "stopots.com",
+            "name": "Gartic Publicidade Digital",
+            "seller_id": "1109",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2751,12 +2115,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "intertechmedia.com",
-            "name": "Intertech Media",
-            "seller_id": "1446",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "capecod.com",
             "name": "CapeCod",
             "seller_id": "1140",
@@ -2766,6 +2124,12 @@
             "domain": "wdrv.com",
             "name": "Hubbard",
             "seller_id": "1142",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "waterloomedia.com",
+            "name": "Waterloo Media",
+            "seller_id": "1145",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2805,6 +2169,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "g-omedia.com",
+            "name": "G/O Media Inc",
+            "seller_id": "1157",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fselite.net",
             "name": "FSElite",
             "seller_id": "1158",
@@ -2841,21 +2211,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "vegasinsider.com",
-            "name": "Better Collective USA, Inc.",
-            "seller_id": "1060",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "rvusa.com",
-            "name": "Greg Petry",
-            "seller_id": "1236",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "cricket.com.au",
             "name": "Cricket Australia ",
             "seller_id": "1170",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "flightaware.com",
+            "name": "FlightAware LLC",
+            "seller_id": "1172",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2880,12 +2244,6 @@
             "domain": "einthusan.tv",
             "name": "Leo India Films Ltd",
             "seller_id": "1178",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "10news.com",
-            "name": "CNN",
-            "seller_id": "1104",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2943,9 +2301,33 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "widgeti.tech",
+            "name": "Roz Media",
+            "seller_id": "1199",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fantrax.com",
             "name": "Vauntek Inc.",
             "seller_id": "1203",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hypebeast.com",
+            "name": "HYPEBEAST Hong Kong Limited",
+            "seller_id": "1205",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "verticalscope.com",
+            "name": "Vertical Scope Inc",
+            "seller_id": "1209",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "landocspe.com",
+            "name": "Landocs Holdings Ltd",
+            "seller_id": "1210",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3015,12 +2397,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "flightaware.com",
-            "name": "FlightAware LLC",
-            "seller_id": "1172",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "publicholidays.global",
             "name": "Public Holidays Global PTY LTD",
             "seller_id": "1229",
@@ -3042,6 +2418,12 @@
             "domain": "worldatlas.com",
             "name": "Reunion Technology Inc",
             "seller_id": "1235",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "rvusa.com",
+            "name": "Greg Petry",
+            "seller_id": "1236",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3087,24 +2469,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "joetec.net",
-            "name": "JoeTec Networks, Inc.",
-            "seller_id": "324",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "widgeti.tech",
-            "name": "Roz Media",
-            "seller_id": "1199",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "g-omedia.com",
-            "name": "G/O Media Inc",
-            "seller_id": "1157",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "infratechsolution.com",
             "name": "Infratech Solution",
             "seller_id": "1252",
@@ -3123,27 +2487,15 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "belvoir.com",
+            "name": "Belvoir Media",
+            "seller_id": "1260",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "carfolio.com",
             "name": "Carfolio",
             "seller_id": "1263",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "cookingwithnonna.com",
-            "name": "cookingwithnonna",
-            "seller_id": "1283",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dd-wrt.com",
-            "name": "DD-WRT",
-            "seller_id": "1279",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "docsdocs.net",
-            "name": "DocsWerk GmbH",
-            "seller_id": "1268",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3159,33 +2511,27 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "docsdocs.net",
+            "name": "DocsWerk GmbH",
+            "seller_id": "1268",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bigbrothernetwork.com",
             "name": "Gravy Train Productions LLC",
             "seller_id": "1270",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "heddels.com",
-            "name": "Heddels",
-            "seller_id": "1296",
+            "domain": "dd-wrt.com",
+            "name": "DD-WRT",
+            "seller_id": "1279",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "highend3d.com",
-            "name": "High End 3D Ad Network",
-            "seller_id": "1294",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "constructioncanada.net",
-            "name": "Kenilworth Media Inc",
-            "seller_id": "1299",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "macdailynews.com",
-            "name": "macdailynews",
-            "seller_id": "1291",
+            "domain": "cookingwithnonna.com",
+            "name": "cookingwithnonna",
+            "seller_id": "1283",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3195,27 +2541,63 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "macdailynews.com",
+            "name": "macdailynews",
+            "seller_id": "1291",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "highend3d.com",
+            "name": "High End 3D Ad Network",
+            "seller_id": "1294",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "merchantcircle.com",
             "name": "merchantcircle",
             "seller_id": "1295",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "mtgprice.com",
-            "name": "mtgprice",
-            "seller_id": "1324",
+            "domain": "heddels.com",
+            "name": "Heddels",
+            "seller_id": "1296",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "mwcboard.com",
-            "name": "Obytlaw LLC",
-            "seller_id": "1327",
+            "domain": "constructioncanada.net",
+            "name": "Kenilworth Media Inc",
+            "seller_id": "1299",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hypem.com",
+            "name": "Relix Media",
+            "seller_id": "1308",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "godzinnik.pl",
             "name": "Opes sp zoo",
             "seller_id": "1310",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "printfriendly.com",
+            "name": "PrintFriendly",
+            "seller_id": "1311",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "petswelcome.com",
+            "name": "petswelcome",
+            "seller_id": "1312",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "prowrestling.net",
+            "name": "prowrestling",
+            "seller_id": "1316",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3231,24 +2613,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "petswelcome.com",
-            "name": "petswelcome",
-            "seller_id": "1312",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "printfriendly.com",
-            "name": "PrintFriendly",
-            "seller_id": "1311",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "prowrestling.net",
-            "name": "prowrestling",
-            "seller_id": "1316",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "psychforums.com",
             "name": "psychforums",
             "seller_id": "1321",
@@ -3261,39 +2625,27 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mtgprice.com",
+            "name": "mtgprice",
+            "seller_id": "1324",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "mwcboard.com",
+            "name": "Obytlaw LLC",
+            "seller_id": "1327",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pvponline.com",
             "name": "pvponline",
             "seller_id": "1329",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "hypem.com",
-            "name": "Relix Media",
-            "seller_id": "1308",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "broadbandspeedchecker.co.uk",
-            "name": "Safe Download Limited",
-            "seller_id": "1351",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sluggy.com",
-            "name": "sluggy",
-            "seller_id": "1336",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "animal-totem.fr",
-            "name": "spiritanimal",
-            "seller_id": "1349",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sportscardforum.com",
-            "name": "sportscardforum",
-            "seller_id": "1352",
+            "domain": "whatscookingamerica.net",
+            "name": "whatscookingamerica",
+            "seller_id": "1333",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3309,9 +2661,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "thecrazytourist.com",
-            "name": "TheCrazyTourist",
-            "seller_id": "1341",
+            "domain": "sluggy.com",
+            "name": "sluggy",
+            "seller_id": "1336",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3321,21 +2673,39 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dumb.com",
-            "name": "Very Good Things LLC",
-            "seller_id": "1357",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "whatscookingamerica.net",
-            "name": "whatscookingamerica",
-            "seller_id": "1333",
+            "domain": "thecrazytourist.com",
+            "name": "TheCrazyTourist",
+            "seller_id": "1341",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "hdwallpapers.net",
             "name": "Xelance SUARL",
             "seller_id": "1348",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "animal-totem.fr",
+            "name": "spiritanimal",
+            "seller_id": "1349",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "broadbandspeedchecker.co.uk",
+            "name": "Safe Download Limited",
+            "seller_id": "1351",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sportscardforum.com",
+            "name": "sportscardforum",
+            "seller_id": "1352",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dumb.com",
+            "name": "Very Good Things LLC",
+            "seller_id": "1357",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3372,6 +2742,18 @@
             "domain": "sift.co.uk",
             "name": "Sift Ltd",
             "seller_id": "1375",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "statbroadcast.com",
+            "name": "Radiak Group LLC",
+            "seller_id": "1379",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zedge.net",
+            "name": "Zedge Inc",
+            "seller_id": "1382",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3537,6 +2919,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "groupon.com",
+            "name": "Groupon Inc",
+            "seller_id": "1436",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "hardwaretimes.com",
             "name": "HardwareTimes",
             "seller_id": "1437",
@@ -3561,21 +2949,27 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "newser.com",
+            "name": "Newser, LLC",
+            "seller_id": "1443",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "savings.com",
             "name": "Savings.com, Inc",
             "seller_id": "1445",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tribeofnoise.com",
-            "name": "Tribe of Noise B.V. ",
-            "seller_id": "1447",
+            "domain": "intertechmedia.com",
+            "name": "Intertech Media",
+            "seller_id": "1446",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "guessthe.game",
-            "name": "Sheeshblockchaineducation, LLC",
-            "seller_id": "1620",
+            "domain": "tribeofnoise.com",
+            "name": "Tribe of Noise B.V. ",
+            "seller_id": "1447",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3645,9 +3039,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://sportradar.com/",
-            "name": "Sportradar",
-            "seller_id": "1902",
+            "domain": "minutemedia.com",
+            "name": "Sportority Inc",
+            "seller_id": "1475",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3666,12 +3060,6 @@
             "domain": "mobitech.io",
             "name": "Pro Mobitech Technologies LTD",
             "seller_id": "1479",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sirved.com",
-            "name": "App Business Ventures, LLC",
-            "seller_id": "1885",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3759,6 +3147,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "uni-watch.com",
+            "name": "Inconspicuous LLC",
+            "seller_id": "1507",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "leagueofcomicgeeks.com",
             "name": "13 Bytes Inc",
             "seller_id": "1508",
@@ -3768,12 +3162,6 @@
             "domain": "androidheadlines.com",
             "name": "Android Headlines",
             "seller_id": "1512",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "stopots.com",
-            "name": "Gartic Publicidade Digital",
-            "seller_id": "1109",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3801,6 +3189,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "laxnumbers.com",
+            "name": "Lax Data, LLC",
+            "seller_id": "1519",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "asonealin.com",
             "name": "Zwe Lin Tun",
             "seller_id": "1520",
@@ -3813,15 +3207,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "smartweb.media",
-            "name": "SmartWeb Media Sp. z.o.o",
-            "seller_id": "1524",
+            "domain": "cordcuttersnews.com",
+            "name": "Beechtree Assets LLC",
+            "seller_id": "1522",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "home.myfantasyleague.com",
-            "name": "First Pick Labs",
-            "seller_id": "1775",
+            "domain": "smartweb.media",
+            "name": "SmartWeb Media Sp. z.o.o",
+            "seller_id": "1524",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3834,6 +3228,12 @@
             "domain": "dnschecker.org",
             "name": "Softrix Technologies",
             "seller_id": "1530",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "evolvemediallc.com",
+            "name": "Evolve Media LLC",
+            "seller_id": "1532",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3930,6 +3330,12 @@
             "domain": "turtlediary.com",
             "name": "TurtleDiary LLC ",
             "seller_id": "1564",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lastwordonsports.com",
+            "name": "Last Word On Sports Inc",
+            "seller_id": "1566",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4077,6 +3483,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "amcnetworks.com",
+            "name": "AMC Networks International ",
+            "seller_id": "1602",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tooxclusive.com",
             "name": "TooXclusive Nigeria",
             "seller_id": "1603",
@@ -4125,6 +3537,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "guessthe.game",
+            "name": "Sheeshblockchaineducation, LLC",
+            "seller_id": "1620",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gamerescape.com",
             "name": "Telatexo LLC",
             "seller_id": "1622",
@@ -4167,21 +3585,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "belvoir.com",
-            "name": "Belvoir Media",
-            "seller_id": "1260",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "whatismyip.com",
             "name": "Innovation HQ, Inc",
             "seller_id": "1635",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "profootballnetwork.com",
-            "name": "Pro Football Network Inc",
-            "seller_id": "1670",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4212,12 +3618,6 @@
             "domain": "girlstalkinsmack.com",
             "name": "Girlstalkinsmack ",
             "seller_id": "1641",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "themoviespoiler.com ",
-            "name": "TheMovieSpoiler",
-            "seller_id": "1677",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4305,6 +3705,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "profootballnetwork.com",
+            "name": "Pro Football Network Inc",
+            "seller_id": "1670",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "masterychart.com",
             "name": "MS Digital Solutions",
             "seller_id": "1671",
@@ -4326,6 +3732,12 @@
             "domain": "vesus.org",
             "name": "Vesus.org",
             "seller_id": "1674",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "themoviespoiler.com ",
+            "name": "TheMovieSpoiler",
+            "seller_id": "1677",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4467,6 +3879,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "saltwater.com",
+            "name": "SVSW",
+            "seller_id": "1710",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "advfn.com",
+            "name": "ADVFN PLC",
+            "seller_id": "1712",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "scamalytics.com",
             "name": "Scamalytics Ltd",
             "seller_id": "1713",
@@ -4521,15 +3945,33 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "fantasypros.com",
+            "name": "Marzen Media LLC",
+            "seller_id": "1727",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "htmlmahjonggames.com",
             "name": "Isko Games",
             "seller_id": "1728",
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "solitairen.com",
+            "name": "solitairen.com",
+            "seller_id": "1729",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bestneighborhood.org",
             "name": "Ward Enterprises",
             "seller_id": "1730",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "jsonformatter.org",
+            "name": "Neti Consulting",
+            "seller_id": "1731",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4554,6 +3996,12 @@
             "domain": "loader.to",
             "name": "Spiridon Golubev",
             "seller_id": "1735",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "onboardingtest1.com",
+            "name": "Onboarding Test",
+            "seller_id": "1736",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4635,6 +4083,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "iplocation.io",
+            "name": "Fusion Bits ",
+            "seller_id": "1755",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "https://www.way2news.com/",
             "name": "Way2news Private Limited",
             "seller_id": "1757",
@@ -4665,6 +4119,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "hoopgrids.com",
+            "name": "MPL Enterprises",
+            "seller_id": "1763",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tastemade.com",
             "name": "Tastemade, Inc.",
             "seller_id": "1764",
@@ -4674,6 +4134,12 @@
             "domain": "zerogpt.com",
             "name": "Olive Works LLC",
             "seller_id": "1766",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "telly.com",
+            "name": "Telly",
+            "seller_id": "1767",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4713,6 +4179,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "home.myfantasyleague.com",
+            "name": "First Pick Labs",
+            "seller_id": "1775",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "scamadviser.com",
             "name": "scamadviser",
             "seller_id": "1777",
@@ -4734,6 +4206,12 @@
             "domain": "elpais.com.uy",
             "name": "El Pais S.A",
             "seller_id": "1783",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ConnectionsUnlimited.org",
+            "name": "ConnectionsUnlimited",
+            "seller_id": "1784",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4851,6 +4329,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "recurrent.io",
+            "name": "Recurrent Ventures",
+            "seller_id": "1816",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "newrepublic.com",
             "name": "TNR II LLC AKA The New Republic",
             "seller_id": "1817",
@@ -4861,6 +4345,12 @@
             "name": "M.D. PRIMIS TECHNOLOGIES LTD (PRISTAR)",
             "seller_id": "1819",
             "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "tupaki.com",
+            "name": "Tupaki Media Pvt Ltd",
+            "seller_id": "1820",
+            "seller_type": "PUBLISHER"
         },
         {
             "domain": "cheddar.tv",
@@ -4911,15 +4401,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "nextglass.co",
-            "name": "Next Glass Inc",
-            "seller_id": "1022",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "vikatan.com ",
             "name": "Vikatan",
             "seller_id": "1833",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thehockeywriters.com",
+            "name": "The Hockey Writers",
+            "seller_id": "1834",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4971,12 +4461,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "powerofpositivity.com",
-            "name": "Power of Positivity",
-            "seller_id": "1853",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "bigbrotherjunkies.com",
             "name": "JunkyNet",
             "seller_id": "1847",
@@ -5001,9 +4485,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "verticalscope.com",
-            "name": "Vertical Scope Inc",
-            "seller_id": "1209",
+            "domain": "powerofpositivity.com",
+            "name": "Power of Positivity",
+            "seller_id": "1853",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5037,6 +4521,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bunkersparadise.com",
+            "name": "CG Digital",
+            "seller_id": "1860",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "mediumlarge.la",
             "name": "Medium Large, LLC",
             "seller_id": "1861",
@@ -5052,12 +4542,6 @@
             "domain": "pc-builds.com ",
             "name": "DELBIT d.o.o.",
             "seller_id": "1863",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "recipepair.com",
-            "name": "Crate Network",
-            "seller_id": "37",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5151,15 +4635,33 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "sirved.com",
+            "name": "App Business Ventures, LLC",
+            "seller_id": "1885",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "laineygossip.com",
             "name": "LaineyGossip",
             "seller_id": "1886",
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "liveworksheets.com",
+            "name": "LiveWorksheets Holdings, Inc.",
+            "seller_id": "1887",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "lythrumpress.com.au",
             "name": "Lythrum Press",
             "seller_id": "1889",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lexipol.com",
+            "name": "Lexipol",
+            "seller_id": "1890",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5175,15 +4677,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "flagdoku.com",
-            "name": "Flagdoku",
-            "seller_id": "1897",
+            "domain": "puzzle-loop.com",
+            "name": "Puzzle Team",
+            "seller_id": "1896",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "lexipol.com",
-            "name": "Lexipol",
-            "seller_id": "1890",
+            "domain": "flagdoku.com",
+            "name": "Flagdoku",
+            "seller_id": "1897",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5196,6 +4698,18 @@
             "domain": "insidehook.com",
             "name": "InsideHook",
             "seller_id": "1900",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "whatifsports.com",
+            "name": "Freking Sports LLC",
+            "seller_id": "1901",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://sportradar.com/",
+            "name": "Sportradar",
+            "seller_id": "1902",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5229,6 +4743,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bostonmagazine.com",
+            "name": "Boston Globe",
+            "seller_id": "1909",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "speedcafe.com",
+            "name": "Speedcafe Pty Ltd",
+            "seller_id": "1910",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "zmenu.com",
             "name": "Zmenu Inc",
             "seller_id": "1911",
@@ -5241,6 +4767,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "parentfromheart.com",
+            "name": "Brown Brothers Media",
+            "seller_id": "1913",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "blockblastsolver.com",
             "name": "1MB SAAS SL",
             "seller_id": "1914",
@@ -5250,6 +4782,12 @@
             "domain": "dealcatcher.com",
             "name": "eCatcher Inc",
             "seller_id": "1915",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "stjoseph.com",
+            "name": "stjoseph.com",
+            "seller_id": "1916",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5274,6 +4812,468 @@
             "domain": "modsfire.com",
             "name": "Celer Dynamics LTD",
             "seller_id": "1920",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "test789",
+            "name": "test789",
+            "seller_id": "1988",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "testing123456.com",
+            "name": "testing123456",
+            "seller_id": "1986",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "testbalhum.com",
+            "name": "testbalhum",
+            "seller_id": "1987",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "perfectgame.org",
+            "name": "Perfect Game",
+            "seller_id": "1921",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "twsn.net",
+            "name": "Malik r. Wright",
+            "seller_id": "1925",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "solitairex.io",
+            "name": "Forty Media",
+            "seller_id": "1931",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "minesweeperonline.com",
+            "name": "Minesweeper Online",
+            "seller_id": "1941",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "deckshop.pro",
+            "name": "Deck Shop Pro",
+            "seller_id": "1946",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "heartlandcollegesports.com",
+            "name": "Heartland College Sports",
+            "seller_id": "1949",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "worldanimalfoundation.org",
+            "name": "WorldAnimalFoundation",
+            "seller_id": "1951",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "theaviationist.com",
+            "name": "LH2 Holdings",
+            "seller_id": "1959",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "instapv.com",
+            "name": "ERAN ITZHAK LEVIN PARENTI",
+            "seller_id": "1962",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sudokutable.com",
+            "name": "Final-Level",
+            "seller_id": "1966",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "topuniversities.com",
+            "name": "Quacquarelli Symonds",
+            "seller_id": "1967",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wordsmyth.net",
+            "name": "Wordsmyth",
+            "seller_id": "1969",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pff.com",
+            "name": "Pro Football Focus",
+            "seller_id": "1971",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fbschedules.com",
+            "name": "fbschedules.com",
+            "seller_id": "1973",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nesn.com",
+            "name": "NESN",
+            "seller_id": "1974",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nationalreview.com",
+            "name": "National Review",
+            "seller_id": "1975",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "mkcllc.ai",
+            "name": "MKC LLC",
+            "seller_id": "1977",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lake-link.com",
+            "name": "Lake-Link, Inc",
+            "seller_id": "1982",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://dazepuzzle.com/",
+            "name": "Dazepuzzle",
+            "seller_id": "1984",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tarheeltimes.com",
+            "name": "Tarheel Times",
+            "seller_id": "1985",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "base64decode.org",
+            "name": "HAZOTA Europe Kft.",
+            "seller_id": "1991",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tetr.io",
+            "name": "OSK",
+            "seller_id": "1992",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "onlineradiobox.com",
+            "name": "Online Radio Box sp.z.o.o",
+            "seller_id": "1993",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "loveawake.com",
+            "name": "LA Media LTD",
+            "seller_id": "1998",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "astrologyanswers.com",
+            "name": "Astrology Answers",
+            "seller_id": "1929",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "notus.org",
+            "name": "Allbritton Journalism Institute",
+            "seller_id": "1933",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://www.gujaratsamachar.com/",
+            "name": "Gujarat Samachar",
+            "seller_id": "1940",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "rentalhousingdeals.com",
+            "name": "Rental Housing Deals, Inc.",
+            "seller_id": "1945",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
+            "name": "ISocial Sports Private ltd",
+            "seller_id": "1947",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nbadraft.net",
+            "name": "NBADraft.net",
+            "seller_id": "1948",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Awardtool.com",
+            "name": "Award Tool",
+            "seller_id": "1954",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "coolsymbol.top",
+            "name": "Shree Samarth",
+            "seller_id": "1970",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "FUT.GG",
+            "name": "Stormstrike Inc",
+            "seller_id": "1972",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "themirror.com",
+            "name": "Reach PLC 2",
+            "seller_id": "1936",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "alphacoders.com",
+            "name": "Alpha Coders",
+            "seller_id": "1981",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Koimoi.com",
+            "name": "Contests2win India Pvt. Ltd.",
+            "seller_id": "1995",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zona-militar.com",
+            "name": "Blue Field Media",
+            "seller_id": "2001",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "apnews.com",
+            "name": "Associated Press",
+            "seller_id": "1930",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dokkan.wiki",
+            "name": "Gacha Wikis LLC",
+            "seller_id": "1939",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "color-hex.com",
+            "name": "Color Hex",
+            "seller_id": "1924",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "twentytwowords.com",
+            "name": "22 Words",
+            "seller_id": "1952",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "greenwichmeantime.com",
+            "name": "greenwichmeantime.com",
+            "seller_id": "1960",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "aapc.com",
+            "name": "aapc.com",
+            "seller_id": "1935",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "peoplefinders.com",
+            "name": "PeopleFinders",
+            "seller_id": "1938",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nationalinterest.org",
+            "name": "The National Interest",
+            "seller_id": "1943",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "playbill.com",
+            "name": "Playbill",
+            "seller_id": "1950",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "generalmills.com",
+            "name": "General Mills",
+            "seller_id": "1922",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zedge.net",
+            "name": "Zedge",
+            "seller_id": "1968",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "reelgood.com",
+            "name": "Reel Good",
+            "seller_id": "1928",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "megamillions.com",
+            "name": "MegaMillions",
+            "seller_id": "1937",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pinger.com",
+            "name": "Pinger",
+            "seller_id": "1942",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://www.spielesite.com",
+            "name": "Benito Kummer",
+            "seller_id": "1953",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "alticeusa.com/",
+            "name": "Altice USA Inc",
+            "seller_id": "1956",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nameberry.com",
+            "name": "Nameberry LLC",
+            "seller_id": "1961",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://wordshake.com/",
+            "name": "Wordshake Inc.",
+            "seller_id": "1963",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "http://slippedisc.com/",
+            "name": "slippedisc.com",
+            "seller_id": "1964",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "stockwatch.com",
+            "name": "Stockwatch",
+            "seller_id": "1965",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tributes.com",
+            "name": "Legacy",
+            "seller_id": "1300",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "timesofsandiego.com",
+            "name": "Newswell",
+            "seller_id": "1976",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "mindbodygreen.com",
+            "name": "MINDBODYGREEN",
+            "seller_id": "1978",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "blackdoctor.org",
+            "name": "Black Doctor",
+            "seller_id": "1989",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Refer.io",
+            "name": "Refer.io",
+            "seller_id": "1990",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nfldraftbuzz.com",
+            "name": "NFL Draft Buzz",
+            "seller_id": "1994",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "welcome.ufcfightpass.com",
+            "name": "UFC",
+            "seller_id": "1996",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "www.ufc.com",
+            "name": "TKO Group Holdings",
+            "seller_id": "1997",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sportstats.one",
+            "name": "Endurancesportsmediagroup",
+            "seller_id": "1999",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "skyvector.com",
+            "name": "Sky Vector",
+            "seller_id": "2000",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "storenvy.com",
+            "name": "STORENVY ONLINE SERVICES LLC",
+            "seller_id": "1944",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tylertesting.com",
+            "name": "Tyler Test LLC",
+            "seller_id": "1958",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "remax.com",
+            "name": "Remax",
+            "seller_id": "1979",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tunefind.com",
+            "name": "Songtradr",
+            "seller_id": "1934",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tinywow.com",
+            "name": "TinyWow Acquisition LLC",
+            "seller_id": "1955",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "glyphy.io",
+            "name": "QR io LLC",
+            "seller_id": "1957",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "gpacalculator.net",
+            "name": "Calcadia Inc. ",
+            "seller_id": "1980",
             "seller_type": "PUBLISHER"
         }
     ],
