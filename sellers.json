@@ -610,13 +610,13 @@
         },
         {
             "domain": "welcome.ufcfightpass.com",
-            "name": "UFC",
+            "name": "UFC Fight Pass",
             "seller_id": "1996",
             "seller_type": "PUBLISHER"
         },
         {
             "domain": "www.ufc.com",
-            "name": "TKO Group Holdings",
+            "name": "UFC Digital Content",
             "seller_id": "1997",
             "seller_type": "PUBLISHER"
         },
