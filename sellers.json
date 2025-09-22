@@ -705,6 +705,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "morsecode.world",
+            "name": "Morse Code World",
+            "seller_id": "2004",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "cssauthor.com",
             "name": "Arun Bhargavan",
             "seller_id": "15",
@@ -1056,12 +1062,6 @@
             "domain": "joblo.com",
             "name": "JoBlo Media, Inc.",
             "seller_id": "325",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "wordgamehelper.com",
-            "name": "Internet Yield AB",
-            "seller_id": "330",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1548,12 +1548,6 @@
             "domain": "nosybee.com",
             "name": "Bright Flower Media LLC",
             "seller_id": "674",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "slant.co",
-            "name": "Parli, Inc.",
-            "seller_id": "676",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3897,12 +3891,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "quillt.com",
-            "name": "Quillt Media",
-            "seller_id": "1548",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fftoday.com",
             "name": "FFToday.com ",
             "seller_id": "1552",
@@ -4230,12 +4218,6 @@
             "domain": "championgames.com",
             "name": "Champion Games SL ",
             "seller_id": "1649",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "Free.ca",
-            "name": "Freebies.com Inc",
-            "seller_id": "1650",
             "seller_type": "PUBLISHER"
         },
         {
