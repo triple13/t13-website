@@ -669,6 +669,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "optimum.net",
+            "name": "Altice USA - Optimum",
+            "seller_id": "2005",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "testcompany.com",
             "name": "Test Company",
             "seller_id": "1824",
@@ -1929,12 +1935,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "rumandmonkey.com",
-            "name": "Advertical Media LLC",
-            "seller_id": "259",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "starwarsnewsnet.com",
             "name": "Valeri Trichkov",
             "seller_id": "269",
@@ -2973,12 +2973,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "superherodb.com",
-            "name": "Superhero Database",
-            "seller_id": "1003",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "podbay.fm",
             "name": "Fancy Soups, Inc.",
             "seller_id": "1009",
@@ -3006,12 +3000,6 @@
             "domain": "fancaps.net",
             "name": "Banning Media LLC",
             "seller_id": "1018",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "vrcmods.com",
-            "name": "VRCMods",
-            "seller_id": "1019",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3048,12 +3036,6 @@
             "domain": "stilltasty.com",
             "name": "StillTasty LLC",
             "seller_id": "1034",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "anotepad.com",
-            "name": "Vannet Technology",
-            "seller_id": "1036",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3240,12 +3222,6 @@
             "domain": "ratatype.com",
             "name": "Dariia Piven",
             "seller_id": "1129",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "instazoom.cc",
-            "name": "Instazoom",
-            "seller_id": "1131",
             "seller_type": "PUBLISHER"
         },
         {
