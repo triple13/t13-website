@@ -5233,6 +5233,12 @@
             "name": "CaseStatusExt, LLC",
             "seller_id": "2012",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://bakkesplugins.com",
+            "name": "Bakkesplugins",
+            "seller_id": "2013",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
