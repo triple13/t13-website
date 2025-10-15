@@ -5233,6 +5233,12 @@
             "name": "Bakkesplugins",
             "seller_id": "2013",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "maxfhr.com",
+            "name": "maxfhr.com",
+            "seller_id": "2014",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
