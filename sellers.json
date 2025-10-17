@@ -5121,6 +5121,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "test789",
+            "name": "test789",
+            "seller_id": "1988",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "blackdoctor.org",
             "name": "Black Doctor",
             "seller_id": "1989",
@@ -5193,6 +5199,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "maxfhr.com",
+            "name": "maxfhr.com",
+            "seller_id": "2014",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "evite.com",
+            "name": "Evite",
+            "seller_id": "2015",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gamersberg.com",
             "name": "Gamersberg",
             "seller_id": "2011",
@@ -5217,12 +5235,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "test789",
-            "name": "test789",
-            "seller_id": "1988",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "casestatusext.com",
             "name": "CaseStatusExt, LLC",
             "seller_id": "2012",
@@ -5232,18 +5244,6 @@
             "domain": "https://bakkesplugins.com",
             "name": "Bakkesplugins",
             "seller_id": "2013",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "maxfhr.com",
-            "name": "maxfhr.com",
-            "seller_id": "2014",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "evite.com",
-            "name": "Evite",
-            "seller_id": "2015",
             "seller_type": "PUBLISHER"
         },
         {
