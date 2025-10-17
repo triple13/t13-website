@@ -5239,6 +5239,12 @@
             "name": "maxfhr.com",
             "seller_id": "2014",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "evite.com",
+            "name": "Evite",
+            "seller_id": "2015",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
