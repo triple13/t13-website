@@ -1827,12 +1827,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "hellopoetry.com",
-            "name": "Hello Poetry",
-            "seller_id": "746",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "cbn.org",
             "name": "The Christian Broadcasting Company Inc",
             "seller_id": "750",
