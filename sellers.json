@@ -5239,6 +5239,12 @@
             "name": "Blox - Lee Enterprises",
             "seller_id": "2016",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hockeybuzz.com",
+            "name": "Eklunds Hockey, LLC.",
+            "seller_id": "2017",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
