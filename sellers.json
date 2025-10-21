@@ -3975,12 +3975,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "primis.tech",
-            "name": "M.D. PRIMIS TECHNOLOGIES LTD (PRISTAR)",
-            "seller_id": "1819",
-            "seller_type": "INTERMEDIARY"
-        },
-        {
             "domain": "tupaki.com",
             "name": "Tupaki Media Pvt Ltd",
             "seller_id": "1820",
@@ -4653,6 +4647,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "primis.tech",
+            "name": "M.D. PRIMIS TECHNOLOGIES LTD (PRISTAR)",
+            "seller_id": "1819",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
             "domain": "testcompany.com",
             "name": "Test Company",
             "seller_id": "1824",
@@ -5193,6 +5193,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "hockeybuzz.com",
+            "name": "Eklunds Hockey, LLC.",
+            "seller_id": "2017",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gamersberg.com",
             "name": "Gamersberg",
             "seller_id": "2011",
@@ -5232,12 +5238,6 @@
             "domain": "lee.net",
             "name": "Blox - Lee Enterprises",
             "seller_id": "2016",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "hockeybuzz.com",
-            "name": "Eklunds Hockey, LLC.",
-            "seller_id": "2017",
             "seller_type": "PUBLISHER"
         }
     ],
