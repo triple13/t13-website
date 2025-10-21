@@ -525,6 +525,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "411mania.com",
+            "name": "411Mania.com LLC",
+            "seller_id": "2",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sports-reference.com",
             "name": "Sports Reference LLC",
             "seller_id": "174",
