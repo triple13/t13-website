@@ -5187,6 +5187,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "casestatusext.com",
+            "name": "CaseStatusExt, LLC",
+            "seller_id": "2012",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "maxfhr.com",
             "name": "maxfhr.com",
             "seller_id": "2014",
@@ -5226,12 +5232,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "casestatusext.com",
-            "name": "CaseStatusExt, LLC",
-            "seller_id": "2012",
             "seller_type": "PUBLISHER"
         },
         {
