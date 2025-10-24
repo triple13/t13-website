@@ -993,6 +993,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "statmuse.com",
+            "name": "StatMuse Inc",
+            "seller_id": "1681",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fugitives.com",
             "name": "Shikhar Agrawal",
             "seller_id": "1684",
