@@ -5073,12 +5073,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "FUT.GG",
-            "name": "Stormstrike Inc",
-            "seller_id": "1972",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nationalreview.com",
             "name": "National Review",
             "seller_id": "1975",
@@ -5208,6 +5202,12 @@
             "domain": "hockeybuzz.com",
             "name": "Eklunds Hockey, LLC.",
             "seller_id": "2017",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "weights.com",
+            "name": "Paulson Court, Inc.",
+            "seller_id": "2018",
             "seller_type": "PUBLISHER"
         },
         {
