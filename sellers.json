@@ -4881,6 +4881,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "lee.net",
+            "name": "Blox - Lee Enterprises",
+            "seller_id": "2016",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ultimate-guitar.com",
             "name": "Grand Play Media LLC",
             "seller_id": "477",
@@ -5232,12 +5238,6 @@
             "domain": "https://bakkesplugins.com",
             "name": "Bakkesplugins",
             "seller_id": "2013",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "lee.net",
-            "name": "Blox - Lee Enterprises",
-            "seller_id": "2016",
             "seller_type": "PUBLISHER"
         }
     ],
