@@ -5245,6 +5245,12 @@
             "name": "Bakkesplugins",
             "seller_id": "2013",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "capwages.com",
+            "name": "Cap Wages",
+            "seller_id": "2019",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
