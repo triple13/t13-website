@@ -4888,7 +4888,7 @@
         },
         {
             "domain": "lee.net",
-            "name": "Blox - Lee Enterprises",
+            "name": "Lee Enterprises",
             "seller_id": "2016",
             "seller_type": "PUBLISHER"
         },
@@ -5193,6 +5193,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://bakkesplugins.com",
+            "name": "Bakkesplugins",
+            "seller_id": "2013",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "maxfhr.com",
             "name": "maxfhr.com",
             "seller_id": "2014",
@@ -5244,12 +5250,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://bakkesplugins.com",
-            "name": "Bakkesplugins",
-            "seller_id": "2013",
             "seller_type": "PUBLISHER"
         }
     ],
