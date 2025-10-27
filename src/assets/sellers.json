@@ -5217,6 +5217,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "capwages.com",
+            "name": "Cap Wages",
+            "seller_id": "2019",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gamersberg.com",
             "name": "Gamersberg",
             "seller_id": "2011",
@@ -5244,12 +5250,6 @@
             "domain": "https://bakkesplugins.com",
             "name": "Bakkesplugins",
             "seller_id": "2013",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "capwages.com",
-            "name": "Cap Wages",
-            "seller_id": "2019",
             "seller_type": "PUBLISHER"
         }
     ],
