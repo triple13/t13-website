@@ -5229,6 +5229,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "aimmedia.com",
+            "name": "Active Interest Media",
+            "seller_id": "2020",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gamersberg.com",
             "name": "Gamersberg",
             "seller_id": "2011",
@@ -5250,12 +5256,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "aimmedia.com",
-            "name": "Active Interest Media",
-            "seller_id": "2020",
             "seller_type": "PUBLISHER"
         }
     ],
