@@ -5235,6 +5235,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bloxdigital.com",
+            "name": "Blox Digital",
+            "seller_id": "2021",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
