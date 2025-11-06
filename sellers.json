@@ -4875,6 +4875,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bloxdigital.com",
+            "name": "Blox Digital",
+            "seller_id": "2021",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ultimate-guitar.com",
             "name": "Grand Play Media LLC",
             "seller_id": "477",
@@ -5232,12 +5238,6 @@
             "domain": "gamersberg.com",
             "name": "Gamersberg",
             "seller_id": "2011",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "bloxdigital.com",
-            "name": "Blox Digital",
-            "seller_id": "2021",
             "seller_type": "PUBLISHER"
         },
         {
