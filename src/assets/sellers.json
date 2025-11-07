@@ -2271,12 +2271,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "e-liquid-recipes.com",
-            "name": "E-Liquid-Recipes",
-            "seller_id": "963",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "surfchex.com",
             "name": "Christopher L Marshall",
             "seller_id": "965",
@@ -3387,12 +3381,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "bearstalk.com",
-            "name": "Bears Talk LLC ",
-            "seller_id": "1601",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "amcnetworks.com",
             "name": "AMC Networks International ",
             "seller_id": "1602",
@@ -4002,12 +3990,6 @@
             "domain": "fontspace.com",
             "name": "fontspace",
             "seller_id": "1856",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "realtysearch.io",
-            "name": "Genxlead",
-            "seller_id": "1857",
             "seller_type": "PUBLISHER"
         },
         {
