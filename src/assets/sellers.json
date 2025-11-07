@@ -1773,12 +1773,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "gottabemobile.com",
-            "name": "SXL Media Group",
-            "seller_id": "718",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "studentbrands.com",
             "name": "Student Brands, LLC",
             "seller_id": "721",
@@ -1878,12 +1872,6 @@
             "domain": "instantstreetview.com",
             "name": "MapInvent Ltd",
             "seller_id": "762",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dotandbo.com",
-            "name": "OpenSky",
-            "seller_id": "766",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2259,12 +2247,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pcmac.download",
-            "name": "Swap Internet LLC",
-            "seller_id": "956",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "powerball.com",
             "name": "MultiState Lottery Association",
             "seller_id": "962",
@@ -2364,12 +2346,6 @@
             "domain": "code-maze.com",
             "name": "Code Maze DOO",
             "seller_id": "1014",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "ktt2.com",
-            "name": "MADEINTHEURL LTD",
-            "seller_id": "1015",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3153,12 +3129,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "rave.io",
-            "name": "Rave Inc",
-            "seller_id": "1483",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "royaleapi.com",
             "name": "SML Universe Limited",
             "seller_id": "1484",
@@ -3393,12 +3363,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "winprizesonline.com",
-            "name": "B-Tech Holdings LLC",
-            "seller_id": "1610",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "boredpanda.com",
             "name": "UAB Pandos ",
             "seller_id": "1613",
@@ -3474,12 +3438,6 @@
             "domain": "hikersbay.com",
             "name": "Rubicone sp. z o.o",
             "seller_id": "1640",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "girlstalkinsmack.com",
-            "name": "Girlstalkinsmack ",
-            "seller_id": "1641",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3636,12 +3594,6 @@
             "domain": "advfn.com",
             "name": "ADVFN PLC",
             "seller_id": "1712",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "controlc.com",
-            "name": "URL Ventures, Inc.",
-            "seller_id": "1715",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4878,12 +4830,6 @@
             "domain": "nationalinterest.org",
             "name": "The National Interest",
             "seller_id": "1943",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "storenvy.com",
-            "name": "STORENVY ONLINE SERVICES LLC",
-            "seller_id": "1944",
             "seller_type": "PUBLISHER"
         },
         {
