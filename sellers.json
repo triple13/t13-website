@@ -1887,12 +1887,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "omnitalk.com",
-            "name": "NewsTreeNet.com",
-            "seller_id": "767",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "physicsclassroom.com",
             "name": "The Physics Classroom",
             "seller_id": "769",
@@ -2424,12 +2418,6 @@
             "domain": "techeism.com",
             "name": "Fazlul Fariz",
             "seller_id": "1039",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "speedcheck.org",
-            "name": "Etrality GmbH",
-            "seller_id": "1049",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5127,12 +5115,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "speedcheck.org",
-            "name": "Ookla",
-            "seller_id": "2008",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "jamaicaobserver.com",
             "name": "Jamaica Observer Media Group",
             "seller_id": "2009",
@@ -5220,6 +5202,12 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "VSCO.CO",
+            "name": "VSCO",
+            "seller_id": "2023",
             "seller_type": "PUBLISHER"
         }
     ],
