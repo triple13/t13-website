@@ -2433,12 +2433,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "notepad.pw",
-            "name": "Shroff Holdings LLC",
-            "seller_id": "1070",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fakenamegenerator.com",
             "name": "Corban Works LLC",
             "seller_id": "1074",
@@ -4767,6 +4761,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "eliteprospects.com",
+            "name": "ESMG North America, Inc.",
+            "seller_id": "1007",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tributes.com",
             "name": "Legacy",
             "seller_id": "1300",
@@ -5097,6 +5097,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "VSCO.CO",
+            "name": "VSCO",
+            "seller_id": "2023",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "gamersberg.com",
             "name": "Gamersberg",
             "seller_id": "2011",
@@ -5118,12 +5124,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "VSCO.CO",
-            "name": "VSCO",
-            "seller_id": "2023",
             "seller_type": "PUBLISHER"
         }
     ],
