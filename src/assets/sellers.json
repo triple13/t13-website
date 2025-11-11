@@ -5119,6 +5119,12 @@
             "name": "testbalhum",
             "seller_id": "1987",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cricclubs.com",
+            "name": "CricClubs Inc",
+            "seller_id": "2024",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
