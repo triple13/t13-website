@@ -987,12 +987,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "saltwater.com",
-            "name": "SVSW",
-            "seller_id": "1710",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nightcafe.studio",
             "name": "NightCafe Studio Pty Ltd",
             "seller_id": "1738",
@@ -1266,12 +1260,6 @@
             "domain": "footballdb.com",
             "name": "The Football Database LLC",
             "seller_id": "223",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "pleated-jeans.com",
-            "name": "OOO Media",
-            "seller_id": "229",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2040,12 +2028,6 @@
             "domain": "thedailyhoosier.com",
             "name": "The Daily Hoosier, LLC",
             "seller_id": "843",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dobberhockey.com",
-            "name": "Dobber Sports Inc",
-            "seller_id": "849",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3696,12 +3678,6 @@
             "domain": "mommypoppins.com",
             "name": "Mommy Poppins",
             "seller_id": "1803",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "valeursactuelles.com",
-            "name": "Valmonde Media",
-            "seller_id": "1804",
             "seller_type": "PUBLISHER"
         },
         {
