@@ -165,12 +165,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "singletrackworld.com",
-            "name": "Gofar Enterprises ltd",
-            "seller_id": "384",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "brutal.io",
             "name": "Wings.io",
             "seller_id": "389",
@@ -327,12 +321,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "stopots.com",
-            "name": "Gartic Publicidade Digital",
-            "seller_id": "1109",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "thisisanfield.com",
             "name": "Soccer Publishing Limited",
             "seller_id": "1224",
@@ -378,12 +366,6 @@
             "domain": "Beebom.com",
             "name": "Beebom Media Private Limited",
             "seller_id": "1543",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "themovemarket.com",
-            "name": "Property Platform Solutions Ltd",
-            "seller_id": "1572",
             "seller_type": "PUBLISHER"
         },
         {
@@ -627,12 +609,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "topspeed.com",
-            "name": "Daixtech inc",
-            "seller_id": "1081",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fordauthority.com",
             "name": "Motrolix LLC",
             "seller_id": "1087",
@@ -873,12 +849,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "benzinga.com",
-            "name": "Accretive Capital LLC",
-            "seller_id": "1430",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "craiyon.com",
             "name": "Craiyon LLC",
             "seller_id": "1441",
@@ -942,12 +912,6 @@
             "domain": "imcuniverse.com",
             "name": "IMC Digital Universe Inc",
             "seller_id": "1568",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "kyero.com",
-            "name": "Portal 47 ",
-            "seller_id": "1626",
             "seller_type": "PUBLISHER"
         },
         {
@@ -1440,12 +1404,6 @@
             "domain": "boingboing.net",
             "name": "Happy Mutants LLC",
             "seller_id": "551",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dlisted.com",
-            "name": "Dlisted, LLC",
-            "seller_id": "552",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2367,6 +2325,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "notepad.pw",
+            "name": "Shroff Holdings LLC",
+            "seller_id": "1070",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fakenamegenerator.com",
             "name": "Corban Works LLC",
             "seller_id": "1074",
@@ -2859,12 +2823,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "amic.media",
-            "name": "ASSOCIACIO DE MITJANS D'INFORMACIO I COMUNICACIO",
-            "seller_id": "1387",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "https://ambaliyainfotech.com/",
             "name": "Ambaliya Infotech",
             "seller_id": "1388",
@@ -3105,12 +3063,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "motorsportnetwork.com",
-            "name": "Motorsport Network",
-            "seller_id": "1536",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "oilprice.com",
             "name": "Advanced Media Solutions",
             "seller_id": "1542",
@@ -3240,12 +3192,6 @@
             "domain": "onroto.com",
             "name": "Ratterman Fantasy Sports LLC ",
             "seller_id": "1598",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "gurushots.com",
-            "name": "GuruShots Ltd",
-            "seller_id": "1599",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3777,12 +3723,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "freepik.com",
-            "name": "Freepik",
-            "seller_id": "1841",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "hotnewhiphop.com",
             "name": "Urbanlinx Media Inc.",
             "seller_id": "1842",
@@ -4125,12 +4065,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pricesearcher.com",
-            "name": "PriceSearcher.com",
-            "seller_id": "1080",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "darkmattertv.com",
             "name": "Tricoast TV",
             "seller_id": "1086",
@@ -4212,12 +4146,6 @@
             "domain": "techymedies.com",
             "name": "Ashwathanarayana K P",
             "seller_id": "1486",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "sportsmole.co.uk",
-            "name": "Sports Mole Limited ",
-            "seller_id": "1489",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4344,12 +4272,6 @@
             "domain": "https://www.way2news.com/",
             "name": "Way2news Private Limited",
             "seller_id": "1757",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "prosettings.net",
-            "name": "Wloka Digital GmbH",
-            "seller_id": "1781",
             "seller_type": "PUBLISHER"
         },
         {
