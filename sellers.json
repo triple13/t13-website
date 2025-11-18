@@ -4203,6 +4203,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gamersberg.com",
+            "name": "Gamersberg",
+            "seller_id": "2011",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "cricclubs.com",
             "name": "CricClubs Inc",
             "seller_id": "2024",
@@ -4686,12 +4692,6 @@
             "domain": "VSCO.CO",
             "name": "VSCO",
             "seller_id": "2023",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "gamersberg.com",
-            "name": "Gamersberg",
-            "seller_id": "2011",
             "seller_type": "PUBLISHER"
         },
         {
