@@ -2673,12 +2673,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pixilart.com",
-            "name": "Pixilart LLC",
-            "seller_id": "1392",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "7media.xyz",
             "name": "7Media",
             "seller_id": "1394",
@@ -4686,6 +4680,12 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "anythingtranslate.com",
+            "name": "AnythingTranslate",
+            "seller_id": "2025",
             "seller_type": "PUBLISHER"
         }
     ],
