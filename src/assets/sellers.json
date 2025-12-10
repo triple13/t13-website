@@ -4641,6 +4641,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "anythingtranslate.com",
+            "name": "AnythingTranslate",
+            "seller_id": "2025",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4656,12 +4662,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "anythingtranslate.com",
-            "name": "AnythingTranslate",
-            "seller_id": "2025",
             "seller_type": "PUBLISHER"
         },
         {
