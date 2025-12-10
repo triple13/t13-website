@@ -4663,6 +4663,12 @@
             "name": "AnythingTranslate",
             "seller_id": "2025",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://pickleball.com/",
+            "name": "Pickleball OpCo LLC",
+            "seller_id": "2026",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
