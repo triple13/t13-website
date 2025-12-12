@@ -423,6 +423,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gametop.com",
+            "name": "Gametop Pte Ltd ",
+            "seller_id": "1780",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fotor.com",
             "name": "Chengdu Everimaging Science and Technology Co., Ltd.",
             "seller_id": "1789",
