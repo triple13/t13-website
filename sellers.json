@@ -1359,12 +1359,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "audiomack.com",
-            "name": "Audiomack Inc.",
-            "seller_id": "602",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "songkick.com",
             "name": "Warner Music, Inc dba Songkick",
             "seller_id": "604",
