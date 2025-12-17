@@ -4669,6 +4669,12 @@
             "name": "Pickleball OpCo LLC",
             "seller_id": "2026",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "summitmediacorp.com",
+            "name": "Summit Media Corp",
+            "seller_id": "2028",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
