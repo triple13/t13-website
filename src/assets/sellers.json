@@ -4647,6 +4647,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "primis.tech",
+            "name": "Primis Flex",
+            "seller_id": "2029",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "https://www.yout-ube.com/",
             "name": "Yout-ube",
             "seller_id": "2030",
@@ -4680,12 +4686,6 @@
             "domain": "summitmediacorp.com",
             "name": "Summit Media Corp",
             "seller_id": "2028",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "primis.tech",
-            "name": "Primis Flex",
-            "seller_id": "2029",
             "seller_type": "PUBLISHER"
         }
     ],
