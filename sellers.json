@@ -4299,6 +4299,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "https://www.yout-ube.com/",
+            "name": "Yout-ube",
+            "seller_id": "2030",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ultimate-guitar.com",
             "name": "Grand Play Media LLC",
             "seller_id": "477",
@@ -4653,12 +4659,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://www.yout-ube.com/",
-            "name": "Yout-ube",
-            "seller_id": "2030",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4686,6 +4686,12 @@
             "domain": "summitmediacorp.com",
             "name": "Summit Media Corp",
             "seller_id": "2028",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "steelernation.com",
+            "name": "Steeler Nation",
+            "seller_id": "2031",
             "seller_type": "PUBLISHER"
         }
     ],
