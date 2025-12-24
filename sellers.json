@@ -4161,6 +4161,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "steelernation.com",
+            "name": "Steeler Nation",
+            "seller_id": "2031",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "color-hex.com",
             "name": "Color Hex",
             "seller_id": "1924",
@@ -4296,6 +4302,12 @@
             "domain": "bloxdigital.com",
             "name": "Blox Digital",
             "seller_id": "2021",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://pickleball.com/",
+            "name": "Pickleball OpCo LLC",
+            "seller_id": "2026",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4677,21 +4689,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "https://pickleball.com/",
-            "name": "Pickleball OpCo LLC",
-            "seller_id": "2026",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "summitmediacorp.com",
             "name": "Summit Media Corp",
             "seller_id": "2028",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "steelernation.com",
-            "name": "Steeler Nation",
-            "seller_id": "2031",
             "seller_type": "PUBLISHER"
         }
     ],
