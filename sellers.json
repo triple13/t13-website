@@ -4665,6 +4665,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "summitmediacorp.com",
+            "name": "Summit Media Corp",
+            "seller_id": "2028",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "primis.tech",
             "name": "Primis Flex",
             "seller_id": "2029",
@@ -4686,12 +4692,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "summitmediacorp.com",
-            "name": "Summit Media Corp",
-            "seller_id": "2028",
             "seller_type": "PUBLISHER"
         }
     ],
