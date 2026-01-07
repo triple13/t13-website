@@ -4693,6 +4693,12 @@
             "name": "testbalhum",
             "seller_id": "1987",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "singtao.ca",
+            "name": "YourBow",
+            "seller_id": "2032",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
