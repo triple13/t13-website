@@ -1389,12 +1389,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "hiphoplately.com",
-            "name": "Idle Media Inc",
-            "seller_id": "617",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "wunderdog.com",
             "name": "Wunderdog Sports Picks LLC",
             "seller_id": "618",
@@ -4398,12 +4392,6 @@
             "domain": "deckshop.pro",
             "name": "Deck Shop Pro",
             "seller_id": "1946",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "https://play.google.com/store/apps/details?id=com.apps.bettaapplication&hl=en_IN",
-            "name": "ISocial Sports Private ltd",
-            "seller_id": "1947",
             "seller_type": "PUBLISHER"
         },
         {
