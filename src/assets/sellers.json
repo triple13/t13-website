@@ -4299,6 +4299,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "singtao.ca",
+            "name": "YourBow",
+            "seller_id": "2032",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "ultimate-guitar.com",
             "name": "Grand Play Media LLC",
             "seller_id": "477",
@@ -4668,12 +4674,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "singtao.ca",
-            "name": "YourBow",
-            "seller_id": "2032",
             "seller_type": "PUBLISHER"
         }
     ],
