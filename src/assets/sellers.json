@@ -3,6 +3,12 @@
     "contact_email": "sellers.json@triple13.io",
     "sellers": [
         {
+            "domain": "freestar.com",
+            "name": "Freestar",
+            "seller_id": "79",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "time.is",
             "name": "North Code AS",
             "seller_id": "66",
@@ -12,12 +18,6 @@
             "domain": "firstshowing.net",
             "name": "First Showing LLC",
             "seller_id": "76",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "freestar.com",
-            "name": "Freestar",
-            "seller_id": "79",
             "seller_type": "PUBLISHER"
         },
         {
