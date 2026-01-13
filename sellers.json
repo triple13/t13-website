@@ -4077,6 +4077,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gbatemp.net",
+            "name": "GBATemp",
+            "seller_id": "236",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "twsn.net",
             "name": "Malik r. Wright",
             "seller_id": "1925",
