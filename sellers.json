@@ -4653,6 +4653,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "gamedle.wtf",
+            "name": "Gamedle",
+            "seller_id": "2034",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4668,12 +4674,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "gamedle.wtf",
-            "name": "Gamedle",
-            "seller_id": "2034",
             "seller_type": "PUBLISHER"
         }
     ],
