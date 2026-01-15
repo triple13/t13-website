@@ -4669,6 +4669,12 @@
             "name": "testbalhum",
             "seller_id": "1987",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "gamedle.wtf",
+            "name": "Gamedle",
+            "seller_id": "2034",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
