@@ -4675,6 +4675,12 @@
             "name": "testbalhum",
             "seller_id": "1987",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "drudgereport.com",
+            "name": "Drudge Report",
+            "seller_id": "2035",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
