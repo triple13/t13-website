@@ -4681,6 +4681,12 @@
             "name": "Drudge Report",
             "seller_id": "2035",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "amomama.com/",
+            "name": "AmoMama Media Ltd",
+            "seller_id": "2037",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
