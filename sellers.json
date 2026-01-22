@@ -3027,6 +3027,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "daylily.com",
+            "name": "Lily Auction ",
+            "seller_id": "1619",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "guessthe.game",
             "name": "Sheeshblockchaineducation, LLC",
             "seller_id": "1620",
@@ -3978,12 +3984,6 @@
             "domain": "tooxclusive.com",
             "name": "TooXclusive Nigeria",
             "seller_id": "1603",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "daylily.com",
-            "name": "Lily Auction ",
-            "seller_id": "1619",
             "seller_type": "PUBLISHER"
         },
         {
