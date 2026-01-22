@@ -4665,6 +4665,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "amomama.com/",
+            "name": "AmoMama Media Ltd",
+            "seller_id": "2037",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4680,12 +4686,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "amomama.com/",
-            "name": "AmoMama Media Ltd",
-            "seller_id": "2037",
             "seller_type": "PUBLISHER"
         }
     ],
