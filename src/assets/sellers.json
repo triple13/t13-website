@@ -4671,6 +4671,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "drugs.com",
+            "name": "Healthline Networks",
+            "seller_id": "2038",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4686,12 +4692,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "drugs.com",
-            "name": "Healthline Networks",
-            "seller_id": "2038",
             "seller_type": "PUBLISHER"
         },
         {
