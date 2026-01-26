@@ -2895,6 +2895,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "houseofheat.co",
+            "name": "HOUSE OF HEAT",
+            "seller_id": "1557",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fantasysixpack.net",
             "name": "Fantasy Six Pack",
             "seller_id": "1563",
