@@ -4711,6 +4711,12 @@
             "name": "1440",
             "seller_id": "2039",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "www.sixnationsrugby.com",
+            "name": "Six Nations Rugby",
+            "seller_id": "2041",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
