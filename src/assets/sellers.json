@@ -4311,6 +4311,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "drudgereport.com",
+            "name": "Drudge Report",
+            "seller_id": "2035",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "eliteprospects.com",
             "name": "ESMG North America, Inc.",
             "seller_id": "1007",
@@ -4665,12 +4671,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "drudgereport.com",
-            "name": "Drudge Report",
-            "seller_id": "2035",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "amomama.com/",
             "name": "AmoMama Media Ltd",
             "seller_id": "2037",
@@ -4680,6 +4680,12 @@
             "domain": "drugs.com",
             "name": "Healthline Networks",
             "seller_id": "2038",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "join1440.com",
+            "name": "1440",
+            "seller_id": "2039",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4710,12 +4716,6 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "join1440.com",
-            "name": "1440",
-            "seller_id": "2039",
             "seller_type": "PUBLISHER"
         }
     ],
