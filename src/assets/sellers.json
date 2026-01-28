@@ -4689,6 +4689,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "www.sixnationsrugby.com",
+            "name": "Six Nations Rugby",
+            "seller_id": "2041",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4710,12 +4716,6 @@
             "domain": "join1440.com",
             "name": "1440",
             "seller_id": "2039",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "www.sixnationsrugby.com",
-            "name": "Six Nations Rugby",
-            "seller_id": "2041",
             "seller_type": "PUBLISHER"
         }
     ],
