@@ -4717,6 +4717,12 @@
             "name": "testbalhum",
             "seller_id": "1987",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fantasysp.com",
+            "name": "FantasySP",
+            "seller_id": "2042",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
