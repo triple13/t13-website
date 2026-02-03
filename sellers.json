@@ -4407,12 +4407,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "playbill.com",
-            "name": "Playbill",
-            "seller_id": "1950",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "https://www.spielesite.com",
             "name": "Benito Kummer",
             "seller_id": "1953",
@@ -4722,6 +4716,12 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Flightsfrom.com",
+            "name": "Flights From",
+            "seller_id": "2043",
             "seller_type": "PUBLISHER"
         }
     ],
