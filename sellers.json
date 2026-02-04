@@ -4311,6 +4311,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "fantasysp.com",
+            "name": "FantasySP",
+            "seller_id": "2042",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "eliteprospects.com",
             "name": "ESMG North America, Inc.",
             "seller_id": "1007",
@@ -4686,12 +4692,6 @@
             "domain": "www.sixnationsrugby.com",
             "name": "Six Nations Rugby",
             "seller_id": "2041",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "fantasysp.com",
-            "name": "FantasySP",
-            "seller_id": "2042",
             "seller_type": "PUBLISHER"
         },
         {
