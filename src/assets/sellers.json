@@ -657,12 +657,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "carfolio.com",
-            "name": "Carfolio",
-            "seller_id": "1263",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "estatesales.org",
             "name": "EstateSales LLC",
             "seller_id": "1266",
@@ -1062,12 +1056,6 @@
             "domain": "insidermonkey.com",
             "name": "Koalaguide LLC",
             "seller_id": "115",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "countdowntopregnancy.com",
-            "name": "Countdown Family Inc",
-            "seller_id": "124",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2253,12 +2241,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "Realtimes Network ",
-            "name": "Realtimes Network ",
-            "seller_id": "1122",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "wallstreetlogic.com",
             "name": "Danayi Capital Corp",
             "seller_id": "1123",
@@ -2268,12 +2250,6 @@
             "domain": "sciencenews.org",
             "name": "Science News / Science for Society",
             "seller_id": "1124",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "proballers.com",
-            "name": "Proballers SARL",
-            "seller_id": "1127",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2700,12 +2676,6 @@
             "domain": "forebears.io",
             "name": "Forebears DMCC",
             "seller_id": "1427",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "925mac.com",
-            "name": "925 LLC",
-            "seller_id": "1429",
             "seller_type": "PUBLISHER"
         },
         {
@@ -3174,12 +3144,6 @@
             "domain": "afar.com",
             "name": "Afar ",
             "seller_id": "1686",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "mxdwn.com",
-            "name": "Mxdwn.com",
-            "seller_id": "1687",
             "seller_type": "PUBLISHER"
         },
         {
