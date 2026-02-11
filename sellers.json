@@ -4089,6 +4089,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "readingeagle.com",
+            "name": "MediaNews Group",
+            "seller_id": "395",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "color-hex.com",
             "name": "Color Hex",
             "seller_id": "1924",
@@ -4650,6 +4656,12 @@
             "domain": "testbalhum.com",
             "name": "testbalhum",
             "seller_id": "1987",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "emily.com",
+            "name": "EMILY",
+            "seller_id": "2044",
             "seller_type": "PUBLISHER"
         }
     ],
