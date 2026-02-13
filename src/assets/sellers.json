@@ -1851,12 +1851,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "typing.com",
-            "name": "Typing.com LLC",
-            "seller_id": "860",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dressupgames.com",
             "name": "Dress Up Games EHF",
             "seller_id": "868",
@@ -3030,12 +3024,6 @@
             "domain": "biblegateway.com",
             "name": "HarperCollins Christian Publishing, LLC",
             "seller_id": "1629",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "whatismyip.com",
-            "name": "Innovation HQ, Inc",
-            "seller_id": "1635",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4662,6 +4650,12 @@
             "domain": "emily.com",
             "name": "EMILY",
             "seller_id": "2044",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tvtv.us",
+            "name": "LocalTvTv Inc.",
+            "seller_id": "2045",
             "seller_type": "PUBLISHER"
         }
     ],
