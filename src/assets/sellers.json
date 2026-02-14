@@ -4629,6 +4629,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tvtv.us",
+            "name": "LocalTvTv Inc.",
+            "seller_id": "2045",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4650,12 +4656,6 @@
             "domain": "emily.com",
             "name": "EMILY",
             "seller_id": "2044",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tvtv.us",
-            "name": "LocalTvTv Inc.",
-            "seller_id": "2045",
             "seller_type": "PUBLISHER"
         }
     ],
