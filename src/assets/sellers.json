@@ -51,6 +51,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "ygorganization.com",
+            "name": "YGOrganization",
+            "seller_id": "217",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "powerthesaurus.org",
             "name": "Radyushin Pty Ltd",
             "seller_id": "228",
