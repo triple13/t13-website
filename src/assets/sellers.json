@@ -4663,6 +4663,12 @@
             "name": "EMILY",
             "seller_id": "2044",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "drugs.com",
+            "name": "Drugsite Trust",
+            "seller_id": "2047",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
