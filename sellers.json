@@ -4641,6 +4641,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "upi.com",
+            "name": "United Press International",
+            "seller_id": "2048",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
