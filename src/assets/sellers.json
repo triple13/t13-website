@@ -4669,6 +4669,12 @@
             "name": "Drugsite Trust",
             "seller_id": "2047",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pogdesign.co.uk",
+            "name": "TVCalendar",
+            "seller_id": "2050",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
