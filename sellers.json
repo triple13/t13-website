@@ -4675,6 +4675,18 @@
             "name": "TVCalendar",
             "seller_id": "2050",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zoomermedia.ca",
+            "name": "ZoomerMedia",
+            "seller_id": "2051",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "mathgametime.com",
+            "name": "Math Game Time",
+            "seller_id": "2053",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
