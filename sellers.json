@@ -4077,6 +4077,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tvtv.us",
+            "name": "LocalTvTv Inc.",
+            "seller_id": "2045",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "readingeagle.com",
             "name": "MediaNews Group",
             "seller_id": "395",
@@ -4629,15 +4635,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tvtv.us",
-            "name": "LocalTvTv Inc.",
-            "seller_id": "2045",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "upi.com",
             "name": "United Press International",
             "seller_id": "2048",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pogdesign.co.uk",
+            "name": "TVCalendar",
+            "seller_id": "2050",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4671,12 +4677,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pogdesign.co.uk",
-            "name": "TVCalendar",
-            "seller_id": "2050",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "zoomermedia.ca",
             "name": "ZoomerMedia",
             "seller_id": "2051",
@@ -4698,6 +4698,12 @@
             "domain": "https://corp.cineplex.com/",
             "name": "Cineplex Entertainment Corporation",
             "seller_id": "2054",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cargurus.com",
+            "name": "CarGurus, Inc.",
+            "seller_id": "2055",
             "seller_type": "PUBLISHER"
         }
     ],
