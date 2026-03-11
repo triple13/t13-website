@@ -111,6 +111,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "hiddenremote.com",
+            "name": "TI Shared Services",
+            "seller_id": "328",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "htmlcolorcodes.com",
             "name": "Wasai LLC",
             "seller_id": "335",
