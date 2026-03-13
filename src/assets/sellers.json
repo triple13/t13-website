@@ -4717,6 +4717,12 @@
             "name": "Savage Music LLC",
             "seller_id": "2056",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "blast.tv",
+            "name": "BLAST ApS",
+            "seller_id": "2057",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
