@@ -1875,6 +1875,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "racingdudes.com",
+            "name": "Thoroughbred Racing Dudes LLC",
+            "seller_id": "876",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "watchcharts.com",
             "name": "WatchEnthusiasts LLC",
             "seller_id": "878",
