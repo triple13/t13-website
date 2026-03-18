@@ -663,12 +663,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "estatesales.org",
-            "name": "EstateSales LLC",
-            "seller_id": "1266",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fictiondb.com",
             "name": "fictiondb",
             "seller_id": "1267",
@@ -2685,12 +2679,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "doyouremember.com",
-            "name": "DoYouRemember? Inc",
-            "seller_id": "1431",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "winstonbrands.com",
             "name": "Winston Brands, Inc",
             "seller_id": "1434",
@@ -3129,12 +3117,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "afar.com",
-            "name": "Afar ",
-            "seller_id": "1686",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "vladtv.com",
             "name": "Hot In Here, Inc",
             "seller_id": "1692",
@@ -3543,12 +3525,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "minecraftshader.com",
-            "name": "Minecraft Shader",
-            "seller_id": "1881",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "sleepdoctor.com",
             "name": "Sleep Doctor",
             "seller_id": "1882",
@@ -3564,12 +3540,6 @@
             "domain": "aviationa2z.com",
             "name": "Aviation A2Z",
             "seller_id": "1884",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "laineygossip.com",
-            "name": "LaineyGossip",
-            "seller_id": "1886",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4494,12 +4464,6 @@
             "domain": "salary.com",
             "name": "Salary.com",
             "seller_id": "2003",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "addressusa.com",
-            "name": "Address USA",
-            "seller_id": "2007",
             "seller_type": "PUBLISHER"
         },
         {
