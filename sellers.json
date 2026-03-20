@@ -3477,7 +3477,7 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "bunkersparadise.com",
+            "domain": "thebiglead.com",
             "name": "CG Digital",
             "seller_id": "1860",
             "seller_type": "PUBLISHER"
@@ -4605,6 +4605,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "drugs.com",
+            "name": "Drugsite Trust",
+            "seller_id": "2047",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "upi.com",
             "name": "United Press International",
             "seller_id": "2048",
@@ -4662,12 +4668,6 @@
             "domain": "evolvemediallc.com",
             "name": "Evolve Media",
             "seller_id": "2046",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "drugs.com",
-            "name": "Drugsite Trust",
-            "seller_id": "2047",
             "seller_type": "PUBLISHER"
         },
         {
