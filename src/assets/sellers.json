@@ -3729,6 +3729,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mathgametime.com",
+            "name": "Math Game Time",
+            "seller_id": "2053",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "novusmedia.co.za",
+            "name": "Novus Media",
+            "seller_id": "2059",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "readingeagle.com",
             "name": "MediaNews Group",
             "seller_id": "395",
@@ -4293,12 +4305,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "mathgametime.com",
-            "name": "Math Game Time",
-            "seller_id": "2053",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "https://corp.cineplex.com/",
             "name": "Cineplex Entertainment Corporation",
             "seller_id": "2054",
@@ -4308,6 +4314,12 @@
             "domain": "wideopencountry.com",
             "name": "Savage Music LLC",
             "seller_id": "2056",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "blast.tv",
+            "name": "BLAST ApS",
+            "seller_id": "2057",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4362,18 +4374,6 @@
             "domain": "cargurus.com",
             "name": "CarGurus, Inc.",
             "seller_id": "2055",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "blast.tv",
-            "name": "BLAST ApS",
-            "seller_id": "2057",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "novusmedia.co.za",
-            "name": "Novus Media",
-            "seller_id": "2059",
             "seller_type": "PUBLISHER"
         }
     ],
