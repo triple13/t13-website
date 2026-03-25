@@ -4329,6 +4329,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "aviewfrommyseat.com",
+            "name": "A View From My Seat",
+            "seller_id": "2061",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4380,12 +4386,6 @@
             "domain": "inquirer.com",
             "name": "Inquirer.com",
             "seller_id": "2060",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "aviewfrommyseat.com",
-            "name": "A View From My Seat",
-            "seller_id": "2061",
             "seller_type": "PUBLISHER"
         }
     ],
