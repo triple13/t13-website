@@ -4335,6 +4335,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "editpad.org",
+            "name": "engrahmadsattar",
+            "seller_id": "2062",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4386,12 +4392,6 @@
             "domain": "inquirer.com",
             "name": "Inquirer.com",
             "seller_id": "2060",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "editpad.org",
-            "name": "engrahmadsattar",
-            "seller_id": "2062",
             "seller_type": "PUBLISHER"
         }
     ],
