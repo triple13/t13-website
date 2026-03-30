@@ -4347,6 +4347,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "footballscoop.com",
+            "name": "Coaching News Network, LLC",
+            "seller_id": "2063",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4398,6 +4404,12 @@
             "domain": "inquirer.com",
             "name": "Inquirer.com",
             "seller_id": "2060",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "trinityaudio.ai",
+            "name": "Trinityaudio",
+            "seller_id": "2064",
             "seller_type": "PUBLISHER"
         }
     ],
