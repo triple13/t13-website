@@ -4335,6 +4335,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "inquirer.com",
+            "name": "Inquirer.com",
+            "seller_id": "2060",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "aviewfrommyseat.com",
             "name": "A View From My Seat",
             "seller_id": "2061",
@@ -4398,12 +4404,6 @@
             "domain": "cargurus.com",
             "name": "CarGurus, Inc.",
             "seller_id": "2055",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "inquirer.com",
-            "name": "Inquirer.com",
-            "seller_id": "2060",
             "seller_type": "PUBLISHER"
         },
         {
