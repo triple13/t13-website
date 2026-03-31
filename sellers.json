@@ -4411,6 +4411,12 @@
             "name": "Trinityaudio",
             "seller_id": "2064",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "livesportsontv.com",
+            "name": "Live Sports on TV",
+            "seller_id": "2065",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
