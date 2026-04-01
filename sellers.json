@@ -4353,6 +4353,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "livesportsontv.com",
+            "name": "Live Sports on TV",
+            "seller_id": "2065",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4398,12 +4404,6 @@
             "domain": "trinityaudio.ai",
             "name": "Trinityaudio",
             "seller_id": "2064",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "livesportsontv.com",
-            "name": "Live Sports on TV",
-            "seller_id": "2065",
             "seller_type": "PUBLISHER"
         },
         {
