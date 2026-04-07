@@ -3741,6 +3741,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "aviewfrommyseat.com",
+            "name": "A View From My Seat",
+            "seller_id": "2061",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "readingeagle.com",
             "name": "MediaNews Group",
             "seller_id": "395",
@@ -4305,6 +4311,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "zoomermedia.ca",
+            "name": "ZoomerMedia",
+            "seller_id": "2051",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "https://corp.cineplex.com/",
             "name": "Cineplex Entertainment Corporation",
             "seller_id": "2054",
@@ -4332,12 +4344,6 @@
             "domain": "inquirer.com",
             "name": "Inquirer.com",
             "seller_id": "2060",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "aviewfrommyseat.com",
-            "name": "A View From My Seat",
-            "seller_id": "2061",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4380,12 +4386,6 @@
             "domain": "emily.com",
             "name": "EMILY",
             "seller_id": "2044",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "zoomermedia.ca",
-            "name": "ZoomerMedia",
-            "seller_id": "2051",
             "seller_type": "PUBLISHER"
         },
         {
