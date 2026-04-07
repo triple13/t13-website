@@ -3915,6 +3915,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "foodguessr.com",
+            "name": "Foodguessr",
+            "seller_id": "2067",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "eliteprospects.com",
             "name": "ESMG North America, Inc.",
             "seller_id": "1007",
@@ -4410,12 +4416,6 @@
             "domain": "Test20260331v2.com",
             "name": "Test 2026, LLC v2",
             "seller_id": "2066",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "foodguessr.com",
-            "name": "Foodguessr",
-            "seller_id": "2067",
             "seller_type": "PUBLISHER"
         }
     ],
