@@ -867,6 +867,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "wenxuecity.com",
+            "name": "Sinomedia Inc",
+            "seller_id": "1844",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "pc-builds.com ",
             "name": "DELBIT d.o.o.",
             "seller_id": "1863",
@@ -2412,12 +2418,6 @@
             "domain": "pinkvilla.com",
             "name": "Pinkvilla Media Private Limited",
             "seller_id": "1389",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "7media.xyz",
-            "name": "7Media",
-            "seller_id": "1394",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4422,6 +4422,12 @@
             "domain": "Test20260331v2.com",
             "name": "Test 2026, LLC v2",
             "seller_id": "2066",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "clutchfans.net",
+            "name": "ClutchFans",
+            "seller_id": "2069",
             "seller_type": "PUBLISHER"
         }
     ],
