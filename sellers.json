@@ -4429,6 +4429,24 @@
             "name": "Stats Perform",
             "seller_id": "2070",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cfl.ca",
+            "name": "Canadian Football League",
+            "seller_id": "2072",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cfl.ca",
+            "name": "Canadian Football League",
+            "seller_id": "2075",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "Ask-oracle.com",
+            "name": "Ask Oracle",
+            "seller_id": "2082",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
