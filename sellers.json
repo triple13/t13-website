@@ -4439,13 +4439,7 @@
         {
             "domain": "cfl.ca",
             "name": "Canadian Football League",
-            "seller_id": "2072",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "cfl.ca",
-            "name": "Canadian Football League",
-            "seller_id": "2075",
+            "seller_id": "2071",
             "seller_type": "PUBLISHER"
         }
     ],
