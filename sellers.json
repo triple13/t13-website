@@ -4389,6 +4389,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "Ask-oracle.com",
+            "name": "Ask Oracle",
+            "seller_id": "2082",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4440,12 +4446,6 @@
             "domain": "cfl.ca",
             "name": "Canadian Football League",
             "seller_id": "2075",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "Ask-oracle.com",
-            "name": "Ask Oracle",
-            "seller_id": "2082",
             "seller_type": "PUBLISHER"
         }
     ],
