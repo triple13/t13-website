@@ -4383,6 +4383,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "www.statsperform.com",
+            "name": "Stats Perform",
+            "seller_id": "2070",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4422,12 +4428,6 @@
             "domain": "Test20260331v2.com",
             "name": "Test 2026, LLC v2",
             "seller_id": "2066",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "www.statsperform.com",
-            "name": "Stats Perform",
-            "seller_id": "2070",
             "seller_type": "PUBLISHER"
         },
         {
