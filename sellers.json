@@ -1521,12 +1521,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "ino.com",
-            "name": "INO Inc.",
-            "seller_id": "781",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "flightconnections.com",
             "name": "FlightConnections",
             "seller_id": "782",
