@@ -4359,6 +4359,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "trinityaudio.ai",
+            "name": "Trinityaudio",
+            "seller_id": "2064",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "livesportsontv.com",
             "name": "Live Sports on TV",
             "seller_id": "2065",
@@ -4410,12 +4416,6 @@
             "domain": "cargurus.com",
             "name": "CarGurus, Inc.",
             "seller_id": "2055",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "trinityaudio.ai",
-            "name": "Trinityaudio",
-            "seller_id": "2064",
             "seller_type": "PUBLISHER"
         },
         {
