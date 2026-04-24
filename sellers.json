@@ -4429,6 +4429,12 @@
             "name": "Canadian Football League",
             "seller_id": "2071",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dexerto.com",
+            "name": "Dexerto",
+            "seller_id": "2083",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
