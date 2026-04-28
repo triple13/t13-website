@@ -4383,6 +4383,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "dexerto.com",
+            "name": "Dexerto",
+            "seller_id": "2083",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4422,12 +4428,6 @@
             "domain": "cfl.ca",
             "name": "Canadian Football League",
             "seller_id": "2071",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dexerto.com",
-            "name": "Dexerto",
-            "seller_id": "2083",
             "seller_type": "PUBLISHER"
         }
     ],
