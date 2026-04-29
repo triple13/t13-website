@@ -4429,6 +4429,12 @@
             "name": "Canadian Football League",
             "seller_id": "2071",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "statecollege.com",
+            "name": "Lazerpro Digital Media Group",
+            "seller_id": "2084",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
