@@ -4441,6 +4441,12 @@
             "name": "Canadian Football League",
             "seller_id": "2071",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thrill-data.com",
+            "name": "Thrill Data",
+            "seller_id": "2086",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
