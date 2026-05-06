@@ -4453,6 +4453,12 @@
             "name": "Zeno DF",
             "seller_id": "2087",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "animenewsnetwork.com",
+            "name": "Anime News Network LLC",
+            "seller_id": "2088",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
