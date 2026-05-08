@@ -4465,6 +4465,12 @@
             "name": "Anime News Network LLC",
             "seller_id": "2088",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "stockx.com",
+            "name": "StockX",
+            "seller_id": "2089",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
