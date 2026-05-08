@@ -9,6 +9,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "dolldivine.com",
+            "name": "Doll Divine Entertainment Inc.",
+            "seller_id": "58",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "time.is",
             "name": "North Code AS",
             "seller_id": "66",
@@ -918,12 +924,6 @@
             "domain": "10fastfingers.com",
             "name": "Creationes Virtuales CV Gmbh",
             "seller_id": "38",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "dolldivine.com",
-            "name": "Doll Divine Entertainment Inc.",
-            "seller_id": "58",
             "seller_type": "PUBLISHER"
         },
         {
