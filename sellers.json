@@ -837,6 +837,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "khaleejtimes.com",
+            "name": "Khaleej Times",
+            "seller_id": "1797",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "box.live",
             "name": "Hxio Publishing Ltd",
             "seller_id": "1810",
