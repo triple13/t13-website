@@ -4395,6 +4395,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cfl.ca",
+            "name": "Canadian Football League",
+            "seller_id": "2071",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "Ask-oracle.com",
             "name": "Ask Oracle",
             "seller_id": "2082",
@@ -4446,12 +4452,6 @@
             "domain": "Test20260331v2.com",
             "name": "Test 2026, LLC v2",
             "seller_id": "2066",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "cfl.ca",
-            "name": "Canadian Football League",
-            "seller_id": "2071",
             "seller_type": "PUBLISHER"
         },
         {
