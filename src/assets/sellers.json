@@ -879,6 +879,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "conservativebrief.com",
+            "name": "Conservative Brief",
+            "seller_id": "1867",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "sirved.com",
             "name": "App Business Ventures, LLC",
             "seller_id": "1885",
