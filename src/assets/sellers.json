@@ -4495,6 +4495,12 @@
             "name": "Officepools",
             "seller_id": "2091",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "diffordsguide.com",
+            "name": "Diffords Guide",
+            "seller_id": "2093",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
