@@ -4431,6 +4431,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "bloob.io",
+            "name": "Bloob.io",
+            "seller_id": "2092",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4488,12 +4494,6 @@
             "domain": "officepools.com",
             "name": "Officepools",
             "seller_id": "2091",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "bloob.io",
-            "name": "Bloob.io",
-            "seller_id": "2092",
             "seller_type": "PUBLISHER"
         }
     ],
