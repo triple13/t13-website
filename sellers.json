@@ -4443,6 +4443,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "diffordsguide.com",
+            "name": "Diffords Guide",
+            "seller_id": "2093",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4494,12 +4500,6 @@
             "domain": "mathplayzone.com",
             "name": "Math Playzone",
             "seller_id": "2090",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "diffordsguide.com",
-            "name": "Diffords Guide",
-            "seller_id": "2093",
             "seller_type": "PUBLISHER"
         }
     ],
