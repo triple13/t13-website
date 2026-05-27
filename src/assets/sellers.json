@@ -4449,6 +4449,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "subwaystats.com",
+            "name": "Dalmau group",
+            "seller_id": "2095",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
