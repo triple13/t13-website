@@ -4501,6 +4501,12 @@
             "name": "Math Playzone",
             "seller_id": "2090",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "footballkitarchive.com",
+            "name": "Football Kit Archive",
+            "seller_id": "2094",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1.0
