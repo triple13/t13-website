@@ -3753,6 +3753,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "cfl.ca",
+            "name": "Canadian Football League",
+            "seller_id": "2071",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "readingeagle.com",
             "name": "MediaNews Group",
             "seller_id": "395",
@@ -3930,6 +3936,12 @@
             "domain": "officepools.com",
             "name": "Officepools",
             "seller_id": "2091",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "subwaystats.com",
+            "name": "Dalmau group",
+            "seller_id": "2095",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4401,12 +4413,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "cfl.ca",
-            "name": "Canadian Football League",
-            "seller_id": "2071",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "Ask-oracle.com",
             "name": "Ask Oracle",
             "seller_id": "2082",
@@ -4437,6 +4443,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "animenewsnetwork.com",
+            "name": "Anime News Network LLC",
+            "seller_id": "2088",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "bloob.io",
             "name": "Bloob.io",
             "seller_id": "2092",
@@ -4449,9 +4461,15 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "subwaystats.com",
-            "name": "Dalmau group",
-            "seller_id": "2095",
+            "domain": "footballkitarchive.com",
+            "name": "Football Kit Archive",
+            "seller_id": "2094",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "soundbuttonslab.com",
+            "name": "soundbuttonslab.com",
+            "seller_id": "2096",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4491,12 +4509,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "animenewsnetwork.com",
-            "name": "Anime News Network LLC",
-            "seller_id": "2088",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stockx.com",
             "name": "StockX",
             "seller_id": "2089",
@@ -4506,18 +4518,6 @@
             "domain": "mathplayzone.com",
             "name": "Math Playzone",
             "seller_id": "2090",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "footballkitarchive.com",
-            "name": "Football Kit Archive",
-            "seller_id": "2094",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "soundbuttonslab.com",
-            "name": "soundbuttonslab.com",
-            "seller_id": "2096",
             "seller_type": "PUBLISHER"
         }
     ],
