@@ -21,12 +21,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "firstshowing.net",
-            "name": "First Showing LLC",
-            "seller_id": "76",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fstoppers.com",
             "name": "Fstoppers",
             "seller_id": "82",
@@ -840,12 +834,6 @@
             "domain": "khaleejtimes.com",
             "name": "Khaleej Times",
             "seller_id": "1797",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "box.live",
-            "name": "Hxio Publishing Ltd",
-            "seller_id": "1810",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2367,12 +2355,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dw.com",
-            "name": "Deutsche Welle",
-            "seller_id": "1362",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "bfbs.com",
             "name": "BFBS",
             "seller_id": "1365",
@@ -2898,12 +2880,6 @@
             "domain": "Calculat.io",
             "name": "Calculat.io",
             "seller_id": "1709",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "advfn.com",
-            "name": "ADVFN PLC",
-            "seller_id": "1712",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4047,12 +4023,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "greenwichmeantime.com",
-            "name": "greenwichmeantime.com",
-            "seller_id": "1960",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nameberry.com",
             "name": "Nameberry LLC",
             "seller_id": "1961",
@@ -4512,6 +4482,12 @@
             "domain": "mathplayzone.com",
             "name": "Math Playzone",
             "seller_id": "2090",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "statpadgame.com",
+            "name": "Stapad Game",
+            "seller_id": "2097",
             "seller_type": "PUBLISHER"
         }
     ],
