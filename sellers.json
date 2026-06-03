@@ -3609,6 +3609,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "moomoo.io",
+            "name": "FRVR Limited",
+            "seller_id": "359",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "twsn.net",
             "name": "Malik r. Wright",
             "seller_id": "1925",
@@ -4476,6 +4482,12 @@
             "domain": "mathplayzone.com",
             "name": "Math Playzone",
             "seller_id": "2090",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ops.co",
+            "name": "Ops.co",
+            "seller_id": "2098",
             "seller_type": "PUBLISHER"
         }
     ],
