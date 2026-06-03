@@ -2745,12 +2745,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "softmany.com",
-            "name": "Softmany",
-            "seller_id": "1637",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "bespokeunit.com",
             "name": "Bespoke Unit LLC",
             "seller_id": "1639",
@@ -3516,12 +3510,6 @@
             "domain": "placebuzz.com",
             "name": "Placebuzz Limited",
             "seller_id": "1562",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "golfpost.de",
-            "name": "Golf Post AG",
-            "seller_id": "1573",
             "seller_type": "PUBLISHER"
         },
         {
