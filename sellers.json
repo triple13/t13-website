@@ -4437,6 +4437,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "statpadgame.com",
+            "name": "Stapad Game",
+            "seller_id": "2097",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tylertesting.com",
             "name": "Tyler Test LLC",
             "seller_id": "1958",
@@ -4482,12 +4488,6 @@
             "domain": "mathplayzone.com",
             "name": "Math Playzone",
             "seller_id": "2090",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "statpadgame.com",
-            "name": "Stapad Game",
-            "seller_id": "2097",
             "seller_type": "PUBLISHER"
         }
     ],
