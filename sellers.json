@@ -3879,18 +3879,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "tributes.com",
-            "name": "Legacy",
-            "seller_id": "1300",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "perfectgame.org",
-            "name": "Perfect Game",
-            "seller_id": "1921",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "generalmills.com",
             "name": "General Mills",
             "seller_id": "1922",
@@ -4245,12 +4233,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "cargurus.com",
-            "name": "CarGurus, Inc.",
-            "seller_id": "2055",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "wideopencountry.com",
             "name": "Savage Music LLC",
             "seller_id": "2056",
@@ -4359,6 +4341,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "tributes.com",
+            "name": "Legacy",
+            "seller_id": "1300",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "perfectgame.org",
+            "name": "Perfect Game",
+            "seller_id": "1921",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tunefind.com",
             "name": "Songtradr",
             "seller_id": "1934",
@@ -4410,6 +4404,12 @@
             "domain": "drugs.com",
             "name": "Drugsite Trust",
             "seller_id": "2047",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cargurus.com",
+            "name": "CarGurus, Inc.",
+            "seller_id": "2055",
             "seller_type": "PUBLISHER"
         },
         {
