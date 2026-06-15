@@ -3,12 +3,6 @@
     "contact_email": "sellers.json@triple13.io",
     "sellers": [
         {
-            "domain": "wowprogress.com",
-            "name": "WoWProgress",
-            "seller_id": "1862",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "dolldivine.com",
             "name": "Doll Divine Entertainment Inc.",
             "seller_id": "58",
@@ -306,12 +300,6 @@
             "domain": "scamadviser.com",
             "name": "scamadviser",
             "seller_id": "1777",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "gametop.com",
-            "name": "Gametop Pte Ltd ",
-            "seller_id": "1780",
             "seller_type": "PUBLISHER"
         },
         {
@@ -864,12 +852,6 @@
             "domain": "reason.com",
             "name": "Reason Foundation",
             "seller_id": "472",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "ultimate-guitar.com",
-            "name": "Grand Play Media LLC",
-            "seller_id": "477",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2607,12 +2589,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "thesensibleshopaholic.com",
-            "name": "The Sensible Shopaholic",
-            "seller_id": "1850",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "fontspace.com",
             "name": "fontspace",
             "seller_id": "1856",
@@ -4191,12 +4167,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "www.sixnationsrugby.com",
-            "name": "Six Nations Rugby",
-            "seller_id": "2041",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "Flightsfrom.com",
             "name": "Flights From",
             "seller_id": "2043",
@@ -4317,12 +4287,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "aimmedia.com",
-            "name": "Active Interest Media",
-            "seller_id": "2020",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "drugs.com",
             "name": "Healthline Networks",
             "seller_id": "2038",
@@ -4338,6 +4302,12 @@
             "domain": "ops.co",
             "name": "Ops.co",
             "seller_id": "2098",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "chefsresource.com",
+            "name": "ChefsResource",
+            "seller_id": "2099",
             "seller_type": "PUBLISHER"
         },
         {
