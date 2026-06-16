@@ -4317,6 +4317,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "giphy.com",
+            "name": "Giphy, Inc.",
+            "seller_id": "2101",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "readingeagle.com",
             "name": "MediaNews Group",
             "seller_id": "395",
