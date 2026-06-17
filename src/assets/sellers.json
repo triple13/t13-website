@@ -4275,6 +4275,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "chefsresource.com",
+            "name": "ChefsResource",
+            "seller_id": "2099",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "moomoo.io",
             "name": "FRVR Limited",
             "seller_id": "359",
@@ -4302,12 +4308,6 @@
             "domain": "ops.co",
             "name": "Ops.co",
             "seller_id": "2098",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "chefsresource.com",
-            "name": "ChefsResource",
-            "seller_id": "2099",
             "seller_type": "PUBLISHER"
         },
         {
