@@ -3885,12 +3885,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "pinger.com",
-            "name": "Pinger",
-            "seller_id": "1942",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "nationalinterest.org",
             "name": "The National Interest",
             "seller_id": "1943",
@@ -4287,6 +4281,18 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "math-drills.com",
+            "name": "Math-Drills",
+            "seller_id": "2102",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pinger.com",
+            "name": "Pinger",
+            "seller_id": "1942",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "kracked.io",
             "name": "FRVR Limited",
             "seller_id": "359",
@@ -4326,12 +4332,6 @@
             "domain": "giphy.com",
             "name": "Giphy, Inc.",
             "seller_id": "2101",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "math-drills.com",
-            "name": "Math-Drills",
-            "seller_id": "2102",
             "seller_type": "PUBLISHER"
         },
         {
