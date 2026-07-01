@@ -2607,12 +2607,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "maxmypoint.com",
-            "name": "MaxMyPoint",
-            "seller_id": "1868",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "wornontv.net",
             "name": "Worn on TV",
             "seller_id": "1870",
@@ -2778,6 +2772,12 @@
             "domain": "fantasypros.com",
             "name": "Marzen Media LLC",
             "seller_id": "1727",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "maxmypoint.com",
+            "name": "MaxMyPoint",
+            "seller_id": "1868",
             "seller_type": "PUBLISHER"
         },
         {
