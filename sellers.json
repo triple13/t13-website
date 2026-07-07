@@ -4065,12 +4065,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "OKMagazine.com",
-            "name": "KNEWZ Media LLC",
-            "seller_id": "2010",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "casestatusext.com",
             "name": "CaseStatusExt, LLC",
             "seller_id": "2012",
@@ -4296,6 +4290,12 @@
             "domain": "zedge.net",
             "name": "Zedge",
             "seller_id": "1968",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "empiremediagroup.com",
+            "name": "KNEWZ Media LLC",
+            "seller_id": "2010",
             "seller_type": "PUBLISHER"
         },
         {
