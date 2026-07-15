@@ -1395,12 +1395,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "ultrabookreview.com",
-            "name": "Ultra Media Services SRL",
-            "seller_id": "976",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "omnicalculator.com",
             "name": "KATARZYNA MUCHA | MATEUSZ MUCHA S.C.",
             "seller_id": "993",
@@ -2973,6 +2967,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "benzinga.com",
+            "name": "Accretive Capital LLC",
+            "seller_id": "1430",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "minutemedia.com",
             "name": "Sportority Inc",
             "seller_id": "1475",
@@ -4350,12 +4350,6 @@
             "domain": "wordsmyth.net",
             "name": "Wordsmyth",
             "seller_id": "1969",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "alticeusa.com",
-            "name": "Altice USA - Optimum",
-            "seller_id": "2005",
             "seller_type": "PUBLISHER"
         },
         {
