@@ -3903,6 +3903,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "thenerdstash.com",
+            "name": "The Nerd Stash",
+            "seller_id": "2115",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "tarheeltimes.com",
             "name": "Tarheel Times",
             "seller_id": "1985",
