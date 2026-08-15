@@ -3759,6 +3759,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "hudl.com",
+            "name": "Hudl",
+            "seller_id": "2118",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "fbschedules.com",
             "name": "fbschedules.com",
             "seller_id": "1973",
@@ -4122,6 +4128,12 @@
             "domain": "maxfhr.com",
             "name": "maxfhr.com",
             "seller_id": "2014",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "baltimoresun.com",
+            "name": "Baltimore Sun",
+            "seller_id": "2119",
             "seller_type": "PUBLISHER"
         },
         {
