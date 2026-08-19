@@ -2577,12 +2577,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "readysteadycut.com",
-            "name": "Hart-Wilson Media Ltd",
-            "seller_id": "731",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "sportsmockery.com",
             "name": "Sports Mockery, Inc.",
             "seller_id": "785",
@@ -4446,6 +4440,12 @@
             "domain": "math-drills.com",
             "name": "Math-Drills",
             "seller_id": "2102",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "2700chess.com",
+            "name": "2700chess",
+            "seller_id": "2120",
             "seller_type": "PUBLISHER"
         },
         {
