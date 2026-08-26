@@ -3579,6 +3579,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "mobygames.com",
+            "name": "Enthusiast Gaming Inc.",
+            "seller_id": "64",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "empiremediagroup.com",
             "name": "KNEWZ Media LLC",
             "seller_id": "2010",
