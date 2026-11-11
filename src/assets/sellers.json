@@ -3327,6 +3327,12 @@
             "seller_type": "PUBLISHER"
         },
         {
+            "domain": "sportskeeda.com",
+            "name": "Absolute Sports PVT Ltd",
+            "seller_id": "1212",
+            "seller_type": "PUBLISHER"
+        },
+        {
             "domain": "godzinnik.pl",
             "name": "Opes sp zoo",
             "seller_id": "1310",
